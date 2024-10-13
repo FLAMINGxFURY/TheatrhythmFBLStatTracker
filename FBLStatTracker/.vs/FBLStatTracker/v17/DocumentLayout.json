@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{655C27D3-A962-49EA-AE01-096CE1A0F891}|FBLStatTracker\\FBLStatTracker.csproj|e:\\documents\\github\\theatrhythmfblstattracker\\fblstattracker\\fblstattracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{655C27D3-A962-49EA-AE01-096CE1A0F891}|FBLStatTracker\\FBLStatTracker.csproj|solutionrelative:fblstattracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{655C27D3-A962-49EA-AE01-096CE1A0F891}|FBLStatTracker\\FBLStatTracker.csproj|e:\\documents\\github\\theatrhythmfblstattracker\\fblstattracker\\fblstattracker\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{655C27D3-A962-49EA-AE01-096CE1A0F891}|FBLStatTracker\\FBLStatTracker.csproj|solutionrelative:fblstattracker\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "E:\\Documents\\GitHub\\TheatrhythmFBLStatTracker\\FBLStatTracker\\FBLStatTracker\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "FBLStatTracker\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "E:\\Documents\\GitHub\\TheatrhythmFBLStatTracker\\FBLStatTracker\\FBLStatTracker\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "FBLStatTracker\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T10:00:08.21Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +40,7 @@
               "RelativeDocumentMoniker": "FBLStatTracker\\Program.cs",
               "ToolTip": "E:\\Documents\\GitHub\\TheatrhythmFBLStatTracker\\FBLStatTracker\\FBLStatTracker\\Program.cs",
               "RelativeToolTip": "FBLStatTracker\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAYwDAAAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-13T09:30:03.089Z",
               "EditorCaption": ""

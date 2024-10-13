@@ -1,7 +1,8 @@
 using FBLStatTracker.Components;
 using ElectronNET.API;
 using ElectronNET.API.Entities;
-using ThisBlazorApp = FBLStatTracker.Components.App; // Clarifies ambiguity with ElectronNET.API.App
+using ThisBlazorApp = FBLStatTracker.Components.App;
+using System.Linq.Expressions; // Clarifies ambiguity with ElectronNET.API.App
 
 namespace FBLStatTracker {
     public class Program {
@@ -36,10 +37,23 @@ namespace FBLStatTracker {
             // Dynamically create Electron app state
             if(HybridSupport.IsElectronActive) {
                 Task.Run(async () => {
+                    // Controls for window
+                    var opt = new BrowserWindowOptions {
+                        Show = false,
+                        Frame = false,
+                        // Mac traffic lights for the Mac homies
+                        TitleBarStyle = OperatingSystem.IsMacOS() ? TitleBarStyle.hiddenInset : TitleBarStyle.hidden
+                    };
+
+                    // window init
                     var window = await Electron.WindowManager.CreateWindowAsync();
 
-                    window.OnReadyToShow += () => window.Show();
-
+                    // events
+                    window.OnReadyToShow += () =>
+                    {
+                        window.Maximize();
+                        window.Show();
+                    };
                     window.OnClosed += () => Electron.App.Quit();
                 });
             }
