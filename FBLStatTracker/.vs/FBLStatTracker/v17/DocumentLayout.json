@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Documents\\GitHub\\TheatrhythmFBLStatTracker\\FBLStatTracker\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{655C27D3-A962-49EA-AE01-096CE1A0F891}|FBLStatTracker\\FBLStatTracker.csproj|e:\\documents\\github\\theatrhythmfblstattracker\\fblstattracker\\fblstattracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655C27D3-A962-49EA-AE01-096CE1A0F891}|FBLStatTracker\\FBLStatTracker.csproj|solutionrelative:fblstattracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Documents\\GitHub\\TheatrhythmFBLStatTracker\\FBLStatTracker\\FBLStatTracker\\Program.cs",
+              "RelativeDocumentMoniker": "FBLStatTracker\\Program.cs",
+              "ToolTip": "E:\\Documents\\GitHub\\TheatrhythmFBLStatTracker\\FBLStatTracker\\FBLStatTracker\\Program.cs",
+              "RelativeToolTip": "FBLStatTracker\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T09:30:03.089Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

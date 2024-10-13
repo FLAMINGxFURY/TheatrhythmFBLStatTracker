@@ -1,9 +1,15 @@
 using FBLStatTracker.Components;
+using ElectronNET.API;
+using ElectronNET.API.Entities;
+using ThisBlazorApp = FBLStatTracker.Components.App; // Clarifies ambiguity with ElectronNET.API.App
 
 namespace FBLStatTracker {
     public class Program {
         public static void Main(string[] args) {
             var builder = WebApplication.CreateBuilder(args);
+
+            // Add electron
+            builder.WebHost.UseElectron(args);
 
             // Add services to the container.
             builder.Services.AddRazorComponents()
@@ -13,6 +19,7 @@ namespace FBLStatTracker {
 
             // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment()) {
+
                 app.UseExceptionHandler("/Error");
                 // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
@@ -23,8 +30,19 @@ namespace FBLStatTracker {
             app.UseStaticFiles();
             app.UseAntiforgery();
 
-            app.MapRazorComponents<App>()
+            app.MapRazorComponents<ThisBlazorApp>()
                 .AddInteractiveServerRenderMode();
+
+            // Dynamically create Electron app state
+            if(HybridSupport.IsElectronActive) {
+                Task.Run(async () => {
+                    var window = await Electron.WindowManager.CreateWindowAsync();
+
+                    window.OnReadyToShow += () => window.Show();
+
+                    window.OnClosed += () => Electron.App.Quit();
+                });
+            }
 
             app.Run();
         }
