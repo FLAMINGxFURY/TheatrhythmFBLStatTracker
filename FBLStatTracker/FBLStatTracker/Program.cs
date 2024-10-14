@@ -1,8 +1,7 @@
 using FBLStatTracker.Components;
 using ElectronNET.API;
 using ElectronNET.API.Entities;
-using ThisBlazorApp = FBLStatTracker.Components.App;
-using System.Linq.Expressions; // Clarifies ambiguity with ElectronNET.API.App
+using ThisBlazorApp = FBLStatTracker.Components.App; // Clarifies ambiguity with ElectronNET.API.App
 
 namespace FBLStatTracker {
     public class Program {
