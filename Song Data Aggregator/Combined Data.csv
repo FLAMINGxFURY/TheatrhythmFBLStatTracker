@@ -1,526 +1,526 @@
-id,sound_label,eng_name,series,edition,ms_type,length_secs,diff_basic,diff_expert,diff_ultimate,diff_supreme,full_name,trig_basic,trig_expert,trig_ultimate,trig_supreme
-0,MUSIC0000000,Victory Fanfare,TUTORIAL,BASE,BMS,20,1,1,1,0,victory fanfaretutorialbms,14,14,14,
-1,MUSIC0000001,Victory Fanfare,TUTORIAL,BASE,FMS,20,1,1,1,0,victory fanfaretutorialfms,18,18,18,
-5,MUSIC0000005,Opening Theme,FINAL FANTASY I,BASE,FMS,121,3,5,8,0,opening themefinal fantasy ifms,155,238,333,
-6,MUSIC0000006,Opening Theme,FINAL FANTASY I,BASE,EMS,124,2,4,7,0,opening themefinal fantasy iems,192,251,274,
-7,MUSIC0000007,Main Theme,FINAL FANTASY I,BASE,FMS,108,3,5,8,0,main themefinal fantasy ifms,142,227,291,
-8,MUSIC0000008,Matoya's Cave,FINAL FANTASY I,BASE,FMS,103,3,6,9,0,matoya's cavefinal fantasy ifms,145,227,309,
-9,MUSIC0000009,Battle,FINAL FANTASY I,BASE,BMS,127,2,5,9,0,battlefinal fantasy ibms,149,275,379,
-10,MUSIC0000010,Castle Cornelia,FINAL FANTASY I,BASE,FMS,126,2,5,9,0,castle corneliafinal fantasy ifms,146,225,356,
-11,MUSIC0000011,Mt. Gulg,FINAL FANTASY I,BASE,FMS,126,3,5,8,11,mt. gulgfinal fantasy ifms,157,274,387,530
-12,MUSIC0000012,Miniboss Battle,FINAL FANTASY I,BASE,BMS,121,3,5,10,12,miniboss battlefinal fantasy ibms,177,269,445,575
-13,MUSIC0000013,Final Battle,FINAL FANTASY I,BASE,BMS,106,3,5,9,12,final battlefinal fantasy ibms,161,246,355,468
-14,MUSIC0000014,Sunken Shrine,FINAL FANTASY I,BASE,FMS,109,3,5,8,0,sunken shrinefinal fantasy ifms,148,200,297,
-15,MUSIC0000015,Airship,FINAL FANTASY I,BASE,FMS,92,2,6,7,0,airshipfinal fantasy ifms,134,202,240,
-17,MUSIC0000017,Finale,FINAL FANTASY II,BASE,FMS,91,2,4,7,0,finalefinal fantasy iifms,112,151,220,
-18,MUSIC0000018,The Rebel Army,FINAL FANTASY II,BASE,BMS,103,3,5,9,0,the rebel armyfinal fantasy iibms,125,212,318,
-19,MUSIC0000019,The Rebel Army,FINAL FANTASY II,BASE,EMS,106,3,5,8,0,the rebel armyfinal fantasy iiems,157,241,285,
-20,MUSIC0000020,Battle Theme 1,FINAL FANTASY II,BASE,BMS,127,3,5,9,13,battle theme 1final fantasy iibms,163,300,470,893
-21,MUSIC0000021,Town,FINAL FANTASY II,BASE,FMS,103,2,4,7,0,townfinal fantasy iifms,102,168,228,
-22,MUSIC0000022,Main Theme,FINAL FANTASY II,BASE,FMS,119,3,4,7,0,main themefinal fantasy iifms,129,214,280,
-23,MUSIC0000023,Tower of the Magi,FINAL FANTASY II,BASE,FMS,120,2,4,10,13,tower of the magifinal fantasy iifms,127,222,381,580
-24,MUSIC0000024,Dungeon,FINAL FANTASY II,BASE,FMS,101,2,5,9,0,dungeonfinal fantasy iifms,130,188,316,
-25,MUSIC0000025,Battle Theme 2,FINAL FANTASY II,BASE,BMS,129,3,5,8,13,battle theme 2final fantasy iibms,152,259,401,688
-26,MUSIC0000026,Battle Theme A,FINAL FANTASY II,BASE,BMS,132,3,5,9,13,battle theme afinal fantasy iibms,172,284,430,676
-27,MUSIC0000027,The Imperial Army,FINAL FANTASY II,BASE,FMS,126,2,5,9,0,the imperial armyfinal fantasy iifms,141,215,365,
-28,MUSIC0000028,Chocobo Theme,FINAL FANTASY II,BASE,FMS,68,3,6,9,0,chocobo themefinal fantasy iifms,105,138,200,
-31,MUSIC0000031,"Elia,  the Maiden of Water",FINAL FANTASY III,BASE,FMS,121,2,4,6,0,"elia,  the maiden of waterfinal fantasy iiifms",102,148,191,
-32,MUSIC0000032,"Elia,  the Maiden of Water",FINAL FANTASY III,BASE,EMS,125,2,4,6,0,"elia,  the maiden of waterfinal fantasy iiiems",102,146,154,
-33,MUSIC0000033,Battle 1,FINAL FANTASY III,BASE,BMS,128,3,5,9,13,battle 1final fantasy iiibms,162,282,421,638
-34,MUSIC0000034,Eternal Wind,FINAL FANTASY III,BASE,FMS,122,3,5,9,12,eternal windfinal fantasy iiifms,141,248,349,506
-35,MUSIC0000035,Battle 2,FINAL FANTASY III,BASE,BMS,125,3,5,10,13,battle 2final fantasy iiibms,173,253,437,779
-36,MUSIC0000036,The Boundless Ocean,FINAL FANTASY III,BASE,FMS,130,3,5,8,0,the boundless oceanfinal fantasy iiifms,171,225,400,
-37,MUSIC0000037,Salonia,FINAL FANTASY III,BASE,FMS,99,3,5,9,0,saloniafinal fantasy iiifms,130,211,331,
-38,MUSIC0000038,Let Me Know the Truth,FINAL FANTASY III,BASE,FMS,121,3,5,10,0,let me know the truthfinal fantasy iiifms,144,257,469,
-39,MUSIC0000039,Forbidden Land,FINAL FANTASY III,BASE,FMS,89,4,6,10,0,forbidden landfinal fantasy iiifms,126,202,304,
-40,MUSIC0000040,The Crystal Tower,FINAL FANTASY III,BASE,FMS,105,2,4,10,12,the crystal towerfinal fantasy iiifms,123,159,331,546
-41,MUSIC0000041,The Dark Crystals,FINAL FANTASY III,BASE,FMS,102,2,4,8,0,the dark crystalsfinal fantasy iiifms,97,145,231,
-42,MUSIC0000042,This is the Last Battle,FINAL FANTASY III,BASE,BMS,127,3,5,10,14,this is the last battlefinal fantasy iiibms,166,254,434,752
-43,MUSIC0000043,Crystal Cave,FINAL FANTASY III,BASE,FMS,99,3,6,8,0,crystal cavefinal fantasy iiifms,125,177,256,
-44,MUSIC0000044,Zephyr Memories -Legend of the Eternal Wind-,FINAL FANTASY III,DX,FMS,181,2,4,7,0,zephyr memories -legend of the eternal wind-final fantasy iiifms,183,245,295,
-47,MUSIC0000047,Theme of Love,FINAL FANTASY IV,BASE,FMS,136,2,5,10,0,theme of lovefinal fantasy ivfms,177,256,467,
-48,MUSIC0000048,Theme of Love,FINAL FANTASY IV,BASE,EMS,139,2,5,7,0,theme of lovefinal fantasy ivems,125,163,207,
-49,MUSIC0000049,The Red Wings,FINAL FANTASY IV,BASE,FMS,132,3,6,10,0,the red wingsfinal fantasy ivfms,187,274,430,
-50,MUSIC0000050,Main Theme of Final Fantasy IV,FINAL FANTASY IV,BASE,FMS,126,2,4,8,0,main theme of final fantasy ivfinal fantasy ivfms,142,190,350,
-51,MUSIC0000051,Battle 1,FINAL FANTASY IV,BASE,BMS,104,3,5,9,12,battle 1final fantasy ivbms,157,237,321,454
-52,MUSIC0000052,Battle 2,FINAL FANTASY IV,BASE,BMS,132,3,5,9,13,battle 2final fantasy ivbms,165,277,444,694
-53,MUSIC0000053,Battle with the Four Fiends,FINAL FANTASY IV,BASE,BMS,129,2,4,10,14,battle with the four fiendsfinal fantasy ivbms,156,246,443,642
-54,MUSIC0000054,The Airship,FINAL FANTASY IV,BASE,FMS,95,4,6,9,0,the airshipfinal fantasy ivfms,119,174,283,
-55,MUSIC0000055,Troian Beauty,FINAL FANTASY IV,BASE,FMS,99,3,5,8,0,troian beautyfinal fantasy ivfms,126,205,260,
-56,MUSIC0000056,Tower of Zot,FINAL FANTASY IV,BASE,FMS,125,3,6,10,0,tower of zotfinal fantasy ivfms,168,260,394,
-57,MUSIC0000057,Lunar Whale,FINAL FANTASY IV,BASE,FMS,98,2,4,7,12,lunar whalefinal fantasy ivfms,100,145,209,418
-58,MUSIC0000058,Within the Giant,FINAL FANTASY IV,BASE,FMS,129,2,5,9,0,within the giantfinal fantasy ivfms,138,252,351,
-59,MUSIC0000059,The Final Battle,FINAL FANTASY IV,BASE,BMS,113,2,5,9,13,the final battlefinal fantasy ivbms,132,235,361,583
-60,MUSIC0000060,Another Moon,FINAL FANTASY IV,BASE,FMS,117,3,4,8,0,another moonfinal fantasy ivfms,137,193,306,
-61,MUSIC0000061,Main Theme of Final Fantasy V,FINAL FANTASY V,BASE,BMS,150,3,4,8,0,main theme of final fantasy vfinal fantasy vbms,164,236,435,
-63,MUSIC0000063,"Home,  sweet Home",FINAL FANTASY V,BASE,FMS,123,4,6,9,0,"home,  sweet homefinal fantasy vfms",177,286,356,
-64,MUSIC0000064,"Home,  sweet Home",FINAL FANTASY V,BASE,EMS,126,2,5,7,0,"home,  sweet homefinal fantasy vems",156,237,252,
-65,MUSIC0000065,Four Hearts,FINAL FANTASY V,BASE,FMS,127,3,4,8,12,four heartsfinal fantasy vfms,149,214,366,536
-66,MUSIC0000066,Battle 1,FINAL FANTASY V,BASE,BMS,129,3,5,8,12,battle 1final fantasy vbms,146,271,375,474
-67,MUSIC0000067,To the North Mountain,FINAL FANTASY V,BASE,FMS,106,2,5,8,0,to the north mountainfinal fantasy vfms,118,205,327,
-68,MUSIC0000068,Battle 2,FINAL FANTASY V,BASE,BMS,142,3,5,9,13,battle 2final fantasy vbms,161,256,474,621
-69,MUSIC0000069,Library of Ancients,FINAL FANTASY V,BASE,FMS,142,4,6,10,0,library of ancientsfinal fantasy vfms,172,294,430,
-70,MUSIC0000070,Mambo de Chocobo,FINAL FANTASY V,BASE,FMS,118,4,6,9,14,mambo de chocobofinal fantasy vfms,168,284,388,555
-71,MUSIC0000071,The Airship,FINAL FANTASY V,BASE,FMS,115,3,5,8,0,the airshipfinal fantasy vfms,140,211,271,
-72,MUSIC0000072,The Dawn Warriors,FINAL FANTASY V,BASE,BMS,128,3,5,8,0,the dawn warriorsfinal fantasy vbms,161,266,379,
-73,MUSIC0000073,Battle at the Big Bridge,FINAL FANTASY V,BASE,BMS,129,2,5,9,13,battle at the big bridgefinal fantasy vbms,148,288,431,729
-74,MUSIC0000074,A New World,FINAL FANTASY V,BASE,FMS,124,3,5,8,0,a new worldfinal fantasy vfms,172,238,323,
-75,MUSIC0000075,In Search of Light,FINAL FANTASY V,BASE,FMS,131,3,6,8,0,in search of lightfinal fantasy vfms,167,259,329,
-76,MUSIC0000076,The Decisive Battle,FINAL FANTASY V,BASE,BMS,161,3,4,9,13,the decisive battlefinal fantasy vbms,201,271,462,815
-77,MUSIC0000077,The Final Battle,FINAL FANTASY V,BASE,BMS,116,4,5,9,14,the final battlefinal fantasy vbms,135,211,349,555
-78,MUSIC0000078,Harvest,FINAL FANTASY V,BASE,FMS,99,2,5,8,12,harvestfinal fantasy vfms,141,204,264,544
-81,MUSIC0000081,Celes's Theme,FINAL FANTASY VI,BASE,FMS,124,2,4,9,0,celes's themefinal fantasy vifms,141,231,345,
-82,MUSIC0000082,Celes's Theme,FINAL FANTASY VI,BASE,EMS,126,2,4,7,0,celes's themefinal fantasy viems,115,138,152,
-83,MUSIC0000083,Locke's Theme,FINAL FANTASY VI,BASE,BMS,116,3,4,7,0,locke's themefinal fantasy vibms,138,194,289,
-84,MUSIC0000084,Battle,FINAL FANTASY VI,BASE,BMS,116,3,5,10,14,battlefinal fantasy vibms,174,289,425,612
-85,MUSIC0000085,Edgar & Sabin's Theme,FINAL FANTASY VI,BASE,FMS,119,2,5,9,12,edgar & sabin's themefinal fantasy vifms,136,204,327,414
-86,MUSIC0000086,Protect the Espers!,FINAL FANTASY VI,BASE,BMS,111,3,6,9,12,protect the espers!final fantasy vibms,152,226,360,652
-87,MUSIC0000087,The Decisive Battle,FINAL FANTASY VI,BASE,BMS,117,2,5,9,13,the decisive battlefinal fantasy vibms,150,277,374,524
-88,MUSIC0000088,Terra's Theme,FINAL FANTASY VI,BASE,FMS,118,3,5,7,0,terra's themefinal fantasy vifms,148,242,290,
-89,MUSIC0000089,Grand Finale,FINAL FANTASY VI,BASE,BMS,100,3,5,10,14,grand finalefinal fantasy vibms,140,231,327,482
-90,MUSIC0000090,The Airship Blackjack,FINAL FANTASY VI,BASE,FMS,116,2,4,8,11,the airship blackjackfinal fantasy vifms,133,204,336,431
-91,MUSIC0000091,Battle to the Death,FINAL FANTASY VI,BASE,BMS,125,3,5,10,11,battle to the deathfinal fantasy vibms,224,333,536,744
-92,MUSIC0000092,Searching for Friends,FINAL FANTASY VI,BASE,FMS,118,3,4,7,0,searching for friendsfinal fantasy vifms,147,197,268,
-93,MUSIC0000093,Dancing Mad,FINAL FANTASY VI,BASE,BMS,121,2,4,8,13,dancing madfinal fantasy vibms,122,221,296,514
-94,MUSIC0000094,Kefka's Tower,FINAL FANTASY VI,BASE,FMS,129,3,5,8,0,kefka's towerfinal fantasy vifms,157,249,378,
-97,MUSIC0000097,Aerith's Theme,FINAL FANTASY VII,BASE,BMS,125,2,3,7,0,aerith's themefinal fantasy viibms,159,211,223,
-98,MUSIC0000098,Aerith's Theme,FINAL FANTASY VII,BASE,EMS,129,2,4,7,0,aerith's themefinal fantasy viiems,108,128,170,
-99,MUSIC0000099,Opening - Bombing Mission,FINAL FANTASY VII,BASE,BMS,148,3,5,10,13,opening - bombing missionfinal fantasy viibms,202,312,491,639
-100,MUSIC0000100,Let the Battles Begin!,FINAL FANTASY VII,BASE,BMS,130,2,5,8,14,let the battles begin!final fantasy viibms,204,331,441,685
-101,MUSIC0000101,Fight On!,FINAL FANTASY VII,BASE,BMS,132,3,5,8,14,fight on!final fantasy viibms,237,348,421,667
-102,MUSIC0000102,The Chase,FINAL FANTASY VII,BASE,FMS,113,3,5,8,13,the chasefinal fantasy viifms,127,202,317,536
-103,MUSIC0000103,Main Theme of Final Fantasy VII,FINAL FANTASY VII,BASE,FMS,114,2,4,6,0,main theme of final fantasy viifinal fantasy viifms,132,187,245,
-104,MUSIC0000104,Rufus's Welcoming Ceremony,FINAL FANTASY VII,BASE,FMS,124,3,5,9,0,rufus's welcoming ceremonyfinal fantasy viifms,169,263,379,
-105,MUSIC0000105,JENOVA,FINAL FANTASY VII,BASE,BMS,126,2,4,7,11,jenovafinal fantasy viibms,140,211,391,499
-106,MUSIC0000106,Gold Saucer,FINAL FANTASY VII,BASE,FMS,108,4,6,9,13,gold saucerfinal fantasy viifms,159,252,406,512
-107,MUSIC0000107,Cosmo Canyon,FINAL FANTASY VII,BASE,FMS,111,2,5,10,0,cosmo canyonfinal fantasy viifms,108,213,351,
-108,MUSIC0000108,The Highwind Takes to the Skies,FINAL FANTASY VII,BASE,FMS,112,3,5,9,0,the highwind takes to the skiesfinal fantasy viifms,144,204,343,
-109,MUSIC0000109,Judgment Day,FINAL FANTASY VII,BASE,FMS,118,3,5,8,0,judgment dayfinal fantasy viifms,138,184,308,
-110,MUSIC0000110,Birth of a God,FINAL FANTASY VII,BASE,BMS,127,3,4,8,13,birth of a godfinal fantasy viibms,147,225,302,490
-111,MUSIC0000111,One-Winged Angel,FINAL FANTASY VII,BASE,BMS,144,3,5,8,14,one-winged angelfinal fantasy viibms,263,373,432,664
-112,MUSIC0000112,Advent: One-Winged Angel,FINAL FANTASY VII SERIES,BASE,BMS,366,4,6,10,16,advent: one-winged angelfinal fantasy vii seriesbms,550,874,1198,2182
-113,MUSIC0000113,Advent: One-Winged Angel,FINAL FANTASY VII SERIES,BASE,EMS,145,3,5,8,0,advent: one-winged angelfinal fantasy vii seriesems,193,275,338,
-114,MUSIC0000114,Those Who Fight (Piano Version),FINAL FANTASY VII SERIES,BASE,BMS,151,3,5,8,0,those who fight (piano version)final fantasy vii seriesbms,229,361,570,
-115,MUSIC0000115,Beyond the Wasteland,FINAL FANTASY VII SERIES,BASE,BMS,114,3,6,9,0,beyond the wastelandfinal fantasy vii seriesbms,195,247,377,
-116,MUSIC0000116,Aerith's Theme (Piano Version),FINAL FANTASY VII SERIES,BASE,FMS,123,2,4,7,0,aerith's theme (piano version)final fantasy vii seriesfms,136,221,319,
-117,MUSIC0000117,Battle in the Forgotten City,FINAL FANTASY VII SERIES,BASE,BMS,149,3,5,9,0,battle in the forgotten cityfinal fantasy vii seriesbms,191,305,454,
-118,MUSIC0000118,Divinity II,FINAL FANTASY VII SERIES,BASE,BMS,161,3,6,10,13,divinity iifinal fantasy vii seriesbms,198,279,454,598
-119,MUSIC0000119,J-E-N-O-V-A (AC Version),FINAL FANTASY VII SERIES,BASE,BMS,163,3,5,10,0,j-e-n-o-v-a (ac version)final fantasy vii seriesbms,202,305,517,
-120,MUSIC0000120,Cloud Smiles,FINAL FANTASY VII SERIES,BASE,FMS,176,3,5,8,0,cloud smilesfinal fantasy vii seriesfms,188,278,409,
-121,MUSIC0000121,CRISIS CORE Theme - Succession,FINAL FANTASY VII SERIES,BASE,EMS,112,2,5,8,0,crisis core theme - successionfinal fantasy vii seriesems,101,187,235,
-122,MUSIC0000122,The SOLDIER Way,FINAL FANTASY VII SERIES,BASE,BMS,117,3,5,7,13,the soldier wayfinal fantasy vii seriesbms,167,245,333,540
-123,MUSIC0000123,The Price of Freedom,FINAL FANTASY VII SERIES,BASE,BMS,110,3,4,8,0,the price of freedomfinal fantasy vii seriesbms,159,210,302,
-124,MUSIC0000124,Encounter,FINAL FANTASY VII SERIES,BASE,BMS,107,3,5,9,14,encounterfinal fantasy vii seriesbms,156,232,357,603
-125,MUSIC0000125,Timely Ambush (from FFVII 'Let the Battles Begin!'),FINAL FANTASY VII SERIES,BASE,FMS,121,3,5,9,0,timely ambush (from ffvii 'let the battles begin!')final fantasy vii seriesfms,208,266,468,
-126,MUSIC0000126,A Flower Blooming in the Slums (from FFVII 'Aerith's Theme'),FINAL FANTASY VII SERIES,BASE,FMS,135,2,4,8,0,a flower blooming in the slums (from ffvii 'aerith's theme')final fantasy vii seriesfms,147,199,291,
-127,MUSIC0000127,Last Order,FINAL FANTASY VII SERIES,BASE,BMS,147,3,4,7,0,last orderfinal fantasy vii seriesbms,189,315,400,
-129,MUSIC0000129,Ending Theme,FINAL FANTASY VIII,BASE,FMS,113,1,4,8,0,ending themefinal fantasy viiifms,127,182,328,
-130,MUSIC0000130,Waltz for the Moon,FINAL FANTASY VIII,BASE,FMS,142,3,5,9,0,waltz for the moonfinal fantasy viiifms,168,269,451,
-131,MUSIC0000131,Waltz for the Moon,FINAL FANTASY VIII,BASE,EMS,145,3,6,9,0,waltz for the moonfinal fantasy viiiems,162,278,373,
-132,MUSIC0000132,Balamb GARDEN,FINAL FANTASY VIII,BASE,FMS,105,2,4,8,0,balamb gardenfinal fantasy viiifms,118,163,266,
-133,MUSIC0000133,Blue Fields,FINAL FANTASY VIII,BASE,FMS,128,3,4,7,0,blue fieldsfinal fantasy viiifms,161,220,294,
-134,MUSIC0000134,Don't be Afraid,FINAL FANTASY VIII,BASE,BMS,119,3,5,9,12,don't be afraidfinal fantasy viiibms,162,227,379,414
-135,MUSIC0000135,Force Your Way,FINAL FANTASY VIII,BASE,BMS,114,3,4,10,13,force your wayfinal fantasy viiibms,166,235,410,586
-136,MUSIC0000136,Shuffle or Boogie,FINAL FANTASY VIII,BASE,BMS,110,3,5,9,11,shuffle or boogiefinal fantasy viiibms,145,209,406,495
-137,MUSIC0000137,The Man with the Machine Gun,FINAL FANTASY VIII,BASE,BMS,123,3,5,10,13,the man with the machine gunfinal fantasy viiibms,157,250,493,587
-138,MUSIC0000138,Premonition,FINAL FANTASY VIII,BASE,BMS,154,2,4,8,12,premonitionfinal fantasy viiibms,203,279,389,557
-139,MUSIC0000139,Fisherman's Horizon,FINAL FANTASY VIII,BASE,FMS,114,3,4,6,0,fisherman's horizonfinal fantasy viiifms,138,182,245,
-140,MUSIC0000140,Love Grows,FINAL FANTASY VIII,BASE,FMS,140,2,4,7,0,love growsfinal fantasy viiifms,152,195,259,
-141,MUSIC0000141,Ride On,FINAL FANTASY VIII,BASE,FMS,122,3,5,8,0,ride onfinal fantasy viiifms,173,245,343,
-142,MUSIC0000142,The Castle,FINAL FANTASY VIII,BASE,FMS,165,3,6,10,13,the castlefinal fantasy viiifms,187,327,533,684
-143,MUSIC0000143,Maybe I'm a Lion,FINAL FANTASY VIII,BASE,BMS,163,2,4,10,13,maybe i'm a lionfinal fantasy viiibms,196,313,569,751
-144,MUSIC0000144,The Extreme,FINAL FANTASY VIII,BASE,BMS,160,3,5,10,13,the extremefinal fantasy viiibms,192,334,573,731
-145,MUSIC0000145,Liberi Fatali,FINAL FANTASY VIII,BASE,BMS,187,3,6,9,0,liberi fatalifinal fantasy viiibms,222,345,594,
-146,MUSIC0000146,Find Your Way,FINAL FANTASY VIII,BASE,FMS,116,2,4,7,0,find your wayfinal fantasy viiifms,157,204,381,
-147,MUSIC0000147,The Oath,FINAL FANTASY VIII,BASE,FMS,143,2,4,7,0,the oathfinal fantasy viiifms,160,243,379,
-148,MUSIC0000148,Melodies Of Life ~Final Fantasy,FINAL FANTASY IX,DX,FMS,140,2,4,7,0,melodies of life ～final fantasyfinal fantasy ixfms,170,222,321,
-149,MUSIC0000149,A Place to Call Home,FINAL FANTASY IX,BASE,FMS,116,3,4,8,0,a place to call homefinal fantasy ixfms,145,221,313,
-150,MUSIC0000150,Behind the Door,FINAL FANTASY IX,BASE,FMS,125,2,4,8,0,behind the doorfinal fantasy ixfms,136,189,248,
-151,MUSIC0000151,Behind the Door,FINAL FANTASY IX,BASE,EMS,128,2,4,7,0,behind the doorfinal fantasy ixems,107,132,195,
-152,MUSIC0000152,Vivi's Theme,FINAL FANTASY IX,BASE,FMS,123,2,4,8,0,vivi's themefinal fantasy ixfms,142,230,340,
-153,MUSIC0000153,Swords of Fury,FINAL FANTASY IX,BASE,BMS,137,3,5,9,0,swords of furyfinal fantasy ixbms,161,253,436,
-154,MUSIC0000154,Vamo'alla flamenco,FINAL FANTASY IX,BASE,BMS,101,2,5,10,13,vamo'alla flamencofinal fantasy ixbms,126,196,326,482
-155,MUSIC0000155,Battle 1,FINAL FANTASY IX,BASE,BMS,120,3,5,8,14,battle 1final fantasy ixbms,154,251,333,657
-156,MUSIC0000156,Battle 2,FINAL FANTASY IX,BASE,BMS,119,3,4,9,0,battle 2final fantasy ixbms,193,259,365,
-157,MUSIC0000157,Over the Hill,FINAL FANTASY IX,BASE,FMS,141,2,4,6,0,over the hillfinal fantasy ixfms,158,217,309,
-158,MUSIC0000158,Festival of the Hunt,FINAL FANTASY IX,BASE,BMS,113,4,5,9,13,festival of the huntfinal fantasy ixbms,191,250,376,544
-159,MUSIC0000159,Roses of May,FINAL FANTASY IX,BASE,FMS,140,3,6,9,0,roses of mayfinal fantasy ixfms,179,320,392,
-160,MUSIC0000160,Something to Protect,FINAL FANTASY IX,BASE,BMS,117,3,6,9,0,something to protectfinal fantasy ixbms,188,287,401,
-161,MUSIC0000161,Aboard the Hilda Garde,FINAL FANTASY IX,BASE,FMS,127,3,5,8,12,aboard the hilda gardefinal fantasy ixfms,184,249,360,608
-162,MUSIC0000162,Not Alone,FINAL FANTASY IX,BASE,FMS,130,3,4,6,0,not alonefinal fantasy ixfms,157,201,271,
-163,MUSIC0000163,The Darkness of Eternity,FINAL FANTASY IX,BASE,BMS,170,3,4,9,13,the darkness of eternityfinal fantasy ixbms,197,341,497,795
-164,MUSIC0000164,The Final Battle,FINAL FANTASY IX,BASE,BMS,138,3,5,10,12,the final battlefinal fantasy ixbms,212,311,454,673
-165,MUSIC0000165,Dark City Treno,FINAL FANTASY IX,BASE,FMS,159,2,4,7,0,dark city trenofinal fantasy ixfms,211,375,436,
-166,MUSIC0000166,"Iifa,  the Ancient Tree of Life",FINAL FANTASY IX,BASE,FMS,136,2,4,8,0,"iifa,  the ancient tree of lifefinal fantasy ixfms",169,217,253,
-167,MUSIC0000167,Ipsen's Castle,FINAL FANTASY IX,BASE,FMS,106,2,4,8,0,ipsen's castlefinal fantasy ixfms,118,162,268,
-168,MUSIC0000168,Zanarkand,FINAL FANTASY X,DX,FMS,134,2,5,7,0,zanarkandfinal fantasy xfms,140,182,352,
-170,MUSIC0000170,SUTEKI DA NE (Isn't It Wonderful?),FINAL FANTASY X,BASE,FMS,142,3,4,9,0,suteki da ne (isn't it wonderful?)final fantasy xfms,164,185,203,
-171,MUSIC0000171,SUTEKI DA NE (Isn't It Wonderful?),FINAL FANTASY X,BASE,EMS,145,2,5,7,0,suteki da ne (isn't it wonderful?)final fantasy xems,173,240,332,552
-172,MUSIC0000172,Otherworld,FINAL FANTASY X,BASE,BMS,136,3,5,10,14,otherworldfinal fantasy xbms,198,293,462,617
-173,MUSIC0000173,Battle Theme,FINAL FANTASY X,BASE,BMS,127,2,4,8,12,battle themefinal fantasy xbms,148,253,417,599
-174,MUSIC0000174,Spira Unplugged,FINAL FANTASY X,BASE,FMS,108,3,5,8,0,spira unpluggedfinal fantasy xfms,164,234,299,
-175,MUSIC0000175,Movement In Green,FINAL FANTASY X,BASE,FMS,117,3,4,10,0,movement in greenfinal fantasy xfms,146,201,350,
-176,MUSIC0000176,Blitz Off!,FINAL FANTASY X,BASE,BMS,125,3,4,7,0,blitz off!final fantasy xbms,174,228,448,
-177,MUSIC0000177,Thunder Plains,FINAL FANTASY X,BASE,FMS,118,3,5,8,13,thunder plainsfinal fantasy xfms,173,240,332,552
-178,MUSIC0000178,Assault,FINAL FANTASY X,BASE,BMS,137,4,6,10,0,assaultfinal fantasy xbms,147,275,483,
-179,MUSIC0000179,Servants of the Mountain,FINAL FANTASY X,BASE,FMS,130,2,5,8,0,servants of the mountainfinal fantasy xfms,130,226,323,
-180,MUSIC0000180,A Fleeting Dream,FINAL FANTASY X,BASE,FMS,114,2,4,8,0,a fleeting dreamfinal fantasy xfms,138,193,270,
-181,MUSIC0000181,Challenge,FINAL FANTASY X,BASE,BMS,145,2,4,7,0,challengefinal fantasy xbms,143,156,291,
-182,MUSIC0000182,Fight with Seymour,FINAL FANTASY X,BASE,BMS,190,2,4,8,13,fight with seymourfinal fantasy xbms,235,418,588,890
-183,MUSIC0000183,A Contest of Aeons,FINAL FANTASY X,BASE,BMS,123,4,6,10,13,a contest of aeonsfinal fantasy xbms,272,265,375,626
-184,MUSIC0000184,Final Battle,FINAL FANTASY X,BASE,BMS,137,3,6,9,13,final battlefinal fantasy xbms,183,299,484,838
-185,MUSIC0000185,Mi'ihen Highroad,FINAL FANTASY X,BASE,FMS,122,3,6,7,0,mi'ihen highroadfinal fantasy xfms,171,265,340,
-186,MUSIC0000186,Launch,FINAL FANTASY X,BASE,FMS,135,3,5,9,0,launchfinal fantasy xfms,254,314,582,
-187,MUSIC0000187,Via Purifico,FINAL FANTASY X,BASE,FMS,133,3,5,10,0,via purificofinal fantasy xfms,208,350,565,
-188,MUSIC0000188,1000 Words (FFX-2 Mix),FINAL FANTASY X-2,BASE,EMS,152,2,5,8,0,1000 words (ffx-2 mix)final fantasy x-2ems,115,177,293,
-189,MUSIC0000189,We're the Gullwings!,FINAL FANTASY X-2,BASE,FMS,134,3,6,8,0,we're the gullwings!final fantasy x-2fms,181,259,377,
-190,MUSIC0000190,Let me blow you a kiss.,FINAL FANTASY X-2,BASE,BMS,110,4,7,9,0,let me blow you a kiss.final fantasy x-2bms,231,261,369,
-191,MUSIC0000191,The Farplane Abyss,FINAL FANTASY X-2,BASE,FMS,106,3,5,8,0,the farplane abyssfinal fantasy x-2fms,103,152,272,
-192,MUSIC0000192,Kuon -Memories of Waves and Light-,FINAL FANTASY X-2,DX,FMS,153,3,5,8,0,kuon -memories of waves and light-final fantasy x-2fms,208,311,501,
-193,MUSIC0000193,real Emotion (FFX-2 Mix),FINAL FANTASY X-2,DX,BMS,148,4,6,9,12,real emotion (ffx-2 mix)final fantasy x-2bms,247,333,441,537
-194,MUSIC0000194,"YuRiPa,  Fight! No.1",FINAL FANTASY X-2,BASE,BMS,107,3,6,9,0,"yuripa,  fight! no.1final fantasy x-2bms",193,244,293,
-195,MUSIC0000195,The Bevelle Underground,FINAL FANTASY X-2,BASE,FMS,108,2,5,10,0,the bevelle undergroundfinal fantasy x-2fms,148,384,381,
-196,MUSIC0000196,Their Resting Place,FINAL FANTASY X-2,BASE,BMS,131,3,7,10,0,their resting placefinal fantasy x-2bms,180,419,624,
-197,MUSIC0000197,Vana'diel March,FINAL FANTASY XI,BASE,FMS,122,3,5,8,0,vana'diel marchfinal fantasy xifms,190,256,301,
-199,MUSIC0000199,FFXI Opening Theme,FINAL FANTASY XI,BASE,BMS,138,3,5,7,0,ffxi opening themefinal fantasy xibms,110,147,200,
-200,MUSIC0000200,FFXI Opening Theme,FINAL FANTASY XI,BASE,EMS,141,2,5,7,0,ffxi opening themefinal fantasy xiems,175,301,401,
-201,MUSIC0000201,Ronfaure,FINAL FANTASY XI,BASE,FMS,125,3,4,8,0,ronfaurefinal fantasy xifms,172,234,298,
-202,MUSIC0000202,Battle Theme,FINAL FANTASY XI,BASE,BMS,112,3,5,9,0,battle themefinal fantasy xibms,130,213,343,
-203,MUSIC0000203,Gustaberg,FINAL FANTASY XI,BASE,FMS,143,3,5,8,0,gustabergfinal fantasy xifms,167,231,347,
-204,MUSIC0000204,Selbina,FINAL FANTASY XI,BASE,FMS,117,4,5,10,0,selbinafinal fantasy xifms,166,234,415,
-205,MUSIC0000205,Recollection,FINAL FANTASY XI,BASE,FMS,172,2,4,7,0,recollectionfinal fantasy xifms,175,313,401,
-206,MUSIC0000206,Awakening,FINAL FANTASY XI,BASE,BMS,135,3,5,7,12,awakeningfinal fantasy xibms,183,254,324,617
-207,MUSIC0000207,Shinryu,FINAL FANTASY XI,BASE,BMS,182,3,4,9,13,shinryufinal fantasy xibms,216,250,555,775
-208,MUSIC0000208,The Sanctuary of Zi'Tah,FINAL FANTASY XI,BASE,FMS,129,2,3,7,0,the sanctuary of zi'tahfinal fantasy xifms,168,239,304,
-209,MUSIC0000209,Fighters of the Crystal,FINAL FANTASY XI,BASE,BMS,131,2,4,9,12,fighters of the crystalfinal fantasy xibms,125,223,418,593
-210,MUSIC0000210,A New Horizon - Tavnazian Archipelago,FINAL FANTASY XI,BASE,FMS,150,3,5,8,0,a new horizon - tavnazian archipelagofinal fantasy xifms,175,301,401,
-211,MUSIC0000211,Ragnarok,FINAL FANTASY XI,BASE,BMS,125,2,6,9,12,ragnarokfinal fantasy xibms,130,230,321,536
-212,MUSIC0000212,Heavens Tower,FINAL FANTASY XI,BASE,FMS,119,2,4,7,0,heavens towerfinal fantasy xifms,168,228,277,
-213,MUSIC0000213,Sarutabaruta,FINAL FANTASY XI,BASE,FMS,132,2,4,7,0,sarutabarutafinal fantasy xifms,133,246,365,
-214,MUSIC0000214,Voyager,FINAL FANTASY XI,BASE,FMS,106,3,5,8,0,voyagerfinal fantasy xifms,137,180,279,
-215,MUSIC0000215,Melodies Errant,FINAL FANTASY XI,BASE,BMS,110,3,6,10,0,melodies errantfinal fantasy xibms,154,227,407,
-216,MUSIC0000216,Tough Battle #2,FINAL FANTASY XI,BASE,BMS,130,2,4,9,0,tough battle #2final fantasy xibms,155,209,467,
-217,MUSIC0000217,Iron Colossus,FINAL FANTASY XI,BASE,BMS,129,2,4,8,0,iron colossusfinal fantasy xibms,155,238,367,
-218,MUSIC0000218,FINAL FANTASY (FFXII Version),FINAL FANTASY XII,BASE,BMS,118,3,4,8,0,final fantasy (ffxii version)final fantasy xiibms,158,232,326,
-219,MUSIC0000219,Ending Movie (from FINAL FANTASY XII Original Soundtrack),FINAL FANTASY XII,BASE,BMS,140,4,6,10,0,ending movie (from final fantasy xii original soundtrack)final fantasy xiibms,218,298,418,
-220,MUSIC0000220,The Archadian Empire - original - from FINAL FANTASY XII,FINAL FANTASY XII,BASE,FMS,140,3,5,8,0,the archadian empire - original - from final fantasy xiifinal fantasy xiifms,170,272,470,
-221,MUSIC0000221,The Archadian Empire - original - from FINAL FANTASY XII,FINAL FANTASY XII,BASE,EMS,143,2,5,8,0,the archadian empire - original - from final fantasy xiifinal fantasy xiiems,149,194,283,
-222,MUSIC0000222,Boss Battle,FINAL FANTASY XII,BASE,BMS,129,2,5,8,0,boss battlefinal fantasy xiibms,138,238,341,
-223,MUSIC0000223,Streets of Rabanastre,FINAL FANTASY XII,BASE,FMS,114,4,6,8,0,streets of rabanastrefinal fantasy xiifms,173,259,285,
-224,MUSIC0000224,The Dalmasca Estersand,FINAL FANTASY XII,BASE,FMS,129,2,5,8,12,the dalmasca estersandfinal fantasy xiifms,145,231,356,541
-225,MUSIC0000225,Heart of a Child,FINAL FANTASY XII,BASE,FMS,117,3,5,10,0,heart of a childfinal fantasy xiifms,166,242,409,
-226,MUSIC0000226,Giza Plains (from FINAL FANTASY XII Original Soundtrack),FINAL FANTASY XII,BASE,FMS,141,2,5,9,0,giza plains (from final fantasy xii original soundtrack)final fantasy xiifms,150,292,405,
-227,MUSIC0000227,Flash of Steel,FINAL FANTASY XII,BASE,BMS,119,3,5,6,11,flash of steelfinal fantasy xiibms,165,225,300,545
-228,MUSIC0000228,Battle with an Esper,FINAL FANTASY XII,BASE,BMS,126,3,5,8,0,battle with an esperfinal fantasy xiibms,130,229,359,
-229,MUSIC0000229,Life and Death,FINAL FANTASY XII,BASE,BMS,126,2,5,9,0,life and deathfinal fantasy xiibms,152,267,395,
-230,MUSIC0000230,Phon Coast,FINAL FANTASY XII,BASE,FMS,119,3,5,9,12,phon coastfinal fantasy xiifms,154,216,343,417
-231,MUSIC0000231,The Mosphoran Highwaste,FINAL FANTASY XII,BASE,FMS,124,3,5,8,0,the mosphoran highwastefinal fantasy xiifms,160,232,305,
-232,MUSIC0000232,Struggle for Freedom,FINAL FANTASY XII,BASE,BMS,146,3,4,9,12,struggle for freedomfinal fantasy xiibms,199,280,471,550
-235,MUSIC0000235,Defiers of Fate,FINAL FANTASY XIII,BASE,BMS,144,4,5,8,13,defiers of fatefinal fantasy xiiibms,182,233,340,489
-236,MUSIC0000236,Defiers of Fate,FINAL FANTASY XIII,BASE,EMS,148,3,5,9,0,defiers of fatefinal fantasy xiiiems,156,190,238,
-237,MUSIC0000237,Saber's Edge,FINAL FANTASY XIII,BASE,BMS,166,2,5,9,0,saber's edgefinal fantasy xiiibms,185,323,581,
-238,MUSIC0000238,Blinded By Light,FINAL FANTASY XIII,BASE,BMS,159,3,4,8,12,blinded by lightfinal fantasy xiiibms,232,324,415,617
-239,MUSIC0000239,March of the Dreadnoughts,FINAL FANTASY XIII,BASE,FMS,133,3,5,10,0,march of the dreadnoughtsfinal fantasy xiiifms,158,292,401,
-240,MUSIC0000240,The Sunleth Waterscape,FINAL FANTASY XIII,BASE,FMS,123,3,5,9,12,the sunleth waterscapefinal fantasy xiiifms,170,215,336,540
-241,MUSIC0000241,Fighting Fate,FINAL FANTASY XIII,BASE,BMS,135,3,4,8,12,fighting fatefinal fantasy xiiibms,178,282,391,530
-242,MUSIC0000242,Will to Fight,FINAL FANTASY XIII,BASE,BMS,118,3,5,8,0,will to fightfinal fantasy xiiibms,131,182,277,
-243,MUSIC0000243,The Archylte Steppe,FINAL FANTASY XIII,BASE,FMS,129,2,4,7,0,the archylte steppefinal fantasy xiiifms,109,170,312,
-244,MUSIC0000244,Dust to Dust,FINAL FANTASY XIII,BASE,FMS,123,2,4,6,0,dust to dustfinal fantasy xiiifms,132,191,285,
-245,MUSIC0000245,Eden Under Siege,FINAL FANTASY XIII,BASE,BMS,151,2,3,8,0,eden under siegefinal fantasy xiiibms,134,214,344,
-246,MUSIC0000246,The Gapra Whitewood,FINAL FANTASY XIII,BASE,FMS,123,2,4,7,0,the gapra whitewoodfinal fantasy xiiifms,160,189,285,
-247,MUSIC0000247,Desperate Struggle,FINAL FANTASY XIII,BASE,BMS,105,2,5,8,0,desperate strugglefinal fantasy xiiibms,99,166,252,
-248,MUSIC0000248,Nascent Requiem,FINAL FANTASY XIII,BASE,BMS,164,4,6,8,14,nascent requiemfinal fantasy xiiibms,198,406,562,847
-249,MUSIC0000249,Warrior Goddess,FINAL FANTASY XIII SERIES,BASE,EMS,129,3,5,8,0,warrior goddessfinal fantasy xiii seriesems,150,204,241,
-250,MUSIC0000250,Etro's Champion,FINAL FANTASY XIII SERIES,BASE,BMS,134,3,4,7,13,etro's championfinal fantasy xiii seriesbms,182,257,373,537
-251,MUSIC0000251,Full Speed Ahead,FINAL FANTASY XIII SERIES,BASE,BMS,233,4,6,10,0,full speed aheadfinal fantasy xiii seriesbms,303,398,638,
-252,MUSIC0000252,Paradigm Shift,FINAL FANTASY XIII SERIES,BASE,BMS,180,4,5,9,13,paradigm shiftfinal fantasy xiii seriesbms,222,259,373,660
-253,MUSIC0000253,Groovy Chocobo,FINAL FANTASY XIII SERIES,BASE,FMS,110,2,6,8,0,groovy chocobofinal fantasy xiii seriesfms,131,244,326,
-254,MUSIC0000254,The Last Hunter,FINAL FANTASY XIII SERIES,BASE,BMS,142,2,4,10,0,the last hunterfinal fantasy xiii seriesbms,164,296,431,
-255,MUSIC0000255,Crazy Chocobo,FINAL FANTASY XIII SERIES,BASE,FMS,117,4,7,10,14,crazy chocobofinal fantasy xiii seriesfms,203,315,488,732
-256,MUSIC0000256,Heart of Chaos,FINAL FANTASY XIII SERIES,BASE,BMS,162,3,5,10,14,heart of chaosfinal fantasy xiii seriesbms,194,334,497,822
-257,MUSIC0000257,Historia Crux,FINAL FANTASY XIII SERIES,BASE,FMS,116,2,5,9,0,historia cruxfinal fantasy xiii seriesfms,141,226,359,
-258,MUSIC0000258,Eclipse,FINAL FANTASY XIII SERIES,BASE,FMS,163,3,7,9,0,eclipsefinal fantasy xiii seriesfms,204,294,530,
-259,MUSIC0000259,Noel's Theme - Final Journey -,FINAL FANTASY XIII SERIES,BASE,FMS,136,2,4,7,0,noel's theme - final journey -final fantasy xiii seriesfms,154,223,286,
-260,MUSIC0000260,The Savior - LIGHTNING RETURNS:FINAL FANTASY XIII -,FINAL FANTASY XIII SERIES,BASE,BMS,150,3,5,10,14,the savior - lightning returns:final fantasy xiii -final fantasy xiii seriesbms,225,310,518,765
-261,MUSIC0000261,The Savior - LIGHTNING RETURNS:FINAL FANTASY XIII -,FINAL FANTASY XIII SERIES,BASE,EMS,153,2,5,8,0,the savior - lightning returns:final fantasy xiii -final fantasy xiii seriesems,190,233,289,
-262,MUSIC0000262,LIGHTNING RETURNS - LIGHTNING RETURNS:FINAL FANTASY XIII -,FINAL FANTASY XIII SERIES,BASE,BMS,133,4,5,9,11,lightning returns - lightning returns:final fantasy xiii -final fantasy xiii seriesbms,170,219,481,567
-263,MUSIC0000263,Crimson Blitz,FINAL FANTASY XIII SERIES,BASE,BMS,118,3,6,10,13,crimson blitzfinal fantasy xiii seriesbms,151,224,273,474
-264,MUSIC0000264,Chaos,FINAL FANTASY XIII SERIES,BASE,BMS,127,3,6,9,0,chaosfinal fantasy xiii seriesbms,190,232,393,
-265,MUSIC0000265,The Dead Dunes,FINAL FANTASY XIII SERIES,BASE,FMS,174,2,4,8,0,the dead dunesfinal fantasy xiii seriesfms,210,319,463,
-266,MUSIC0000266,The Glittering City of Yusnaan,FINAL FANTASY XIII SERIES,BASE,FMS,167,3,5,8,0,the glittering city of yusnaanfinal fantasy xiii seriesfms,253,340,474,
-267,MUSIC0000267,Answers,FINAL FANTASY XIV,BASE,EMS,173,1,3,6,0,answersfinal fantasy xivems,125,193,241,
-268,MUSIC0000268,Hard to Miss,FINAL FANTASY XIV,BASE,BMS,102,2,5,9,0,hard to missfinal fantasy xivbms,104,174,310,
-269,MUSIC0000269,On Westerly Winds,FINAL FANTASY XIV,BASE,FMS,151,3,4,7,0,on westerly windsfinal fantasy xivfms,185,266,368,
-270,MUSIC0000270,The Land Breathes,FINAL FANTASY XIV,BASE,BMS,142,3,5,7,0,the land breathesfinal fantasy xivbms,178,269,426,
-271,MUSIC0000271,Serenity,FINAL FANTASY XIV,BASE,FMS,104,3,5,8,0,serenityfinal fantasy xivfms,137,203,291,
-272,MUSIC0000272,Primal Judgment,FINAL FANTASY XIV,BASE,BMS,149,2,5,9,0,primal judgmentfinal fantasy xivbms,172,267,443,
-273,MUSIC0000273,Torn from the Heavens,FINAL FANTASY XIV,BASE,BMS,126,3,4,9,11,torn from the heavensfinal fantasy xivbms,172,269,441,545
-274,MUSIC0000274,To the Sun,FINAL FANTASY XIV,BASE,FMS,140,3,4,8,0,to the sunfinal fantasy xivfms,162,217,379,
-275,MUSIC0000275,Nemesis,FINAL FANTASY XIV,BASE,BMS,141,2,4,10,0,nemesisfinal fantasy xivbms,154,248,442,
-276,MUSIC0000276,Under the Weight,FINAL FANTASY XIV,BASE,BMS,141,4,5,10,13,under the weightfinal fantasy xivbms,234,331,493,686
-277,MUSIC0000277,Engage,FINAL FANTASY XIV,BASE,FMS,131,3,5,9,11,engagefinal fantasy xivfms,161,250,360,525
-278,MUSIC0000278,Fallen Angel,FINAL FANTASY XIV,BASE,BMS,154,2,4,9,13,fallen angelfinal fantasy xivbms,175,282,478,755
-279,MUSIC0000279,Good King Moggle Mog XII,FINAL FANTASY XIV,BASE,BMS,163,3,4,8,0,good king moggle mog xiifinal fantasy xivbms,210,323,502,
-280,MUSIC0000280,Ultima,FINAL FANTASY XIV,BASE,BMS,176,2,4,9,12,ultimafinal fantasy xivbms,171,289,542,660
-281,MUSIC0000281,Through the Maelstrom,FINAL FANTASY XIV,BASE,BMS,151,3,4,9,12,through the maelstromfinal fantasy xivbms,178,264,478,723
-282,MUSIC0000282,A Light in the Storm,FINAL FANTASY XIV,BASE,FMS,135,3,4,9,0,a light in the stormfinal fantasy xivfms,160,221,395,
-283,MUSIC0000283,Oblivion,FINAL FANTASY XIV,BASE,BMS,137,3,4,9,13,oblivionfinal fantasy xivbms,170,260,415,655
-284,MUSIC0000284,Ominous Prognisticks,FINAL FANTASY XIV,BASE,BMS,117,2,4,8,12,ominous prognisticksfinal fantasy xivbms,132,215,315,413
-285,MUSIC0000285,Ink Long Dry,FINAL FANTASY XIV,BASE,FMS,145,3,5,10,13,ink long dryfinal fantasy xivfms,182,263,466,607
-286,MUSIC0000286,Heroes,FINAL FANTASY XIV,BASE,BMS,116,2,4,8,11,heroesfinal fantasy xivbms,108,175,308,441
-287,MUSIC0000287,Locus,FINAL FANTASY XIV,BASE,BMS,136,3,5,9,13,locusfinal fantasy xivbms,211,301,435,634
-288,MUSIC0000288,Metal - Brute Justice Mode,FINAL FANTASY XIV,BASE,BMS,138,4,6,9,13,metal - brute justice modefinal fantasy xivbms,223,321,441,609
-289,MUSIC0000289,Exponential Entropy,FINAL FANTASY XIV,BASE,BMS,173,3,5,9,13,exponential entropyfinal fantasy xivbms,219,366,619,910
-290,MUSIC0000290,Moebius,FINAL FANTASY XIV,BASE,BMS,118,3,5,8,11,moebiusfinal fantasy xivbms,166,214,272,459
-291,MUSIC0000291,Rise,FINAL FANTASY XIV,BASE,BMS,119,3,6,9,14,risefinal fantasy xivbms,145,211,353,567
-292,MUSIC0000292,The Worm's Tail,FINAL FANTASY XIV,BASE,BMS,147,3,5,9,14,the worm's tailfinal fantasy xivbms,216,290,405,616
-293,MUSIC0000293,Wayward Daughter,FINAL FANTASY XIV,BASE,BMS,162,2,5,8,14,wayward daughterfinal fantasy xivbms,140,204,321,720
-294,MUSIC0000294,Stand Your Ground,FINAL FANTASY XV,BASE,BMS,108,3,5,10,0,stand your groundfinal fantasy xvbms,134,192,281,
-295,MUSIC0000295,Veiled in Black,FINAL FANTASY XV,BASE,BMS,132,3,4,9,12,veiled in blackfinal fantasy xvbms,159,237,367,522
-296,MUSIC0000296,Valse di Fantastica,FINAL FANTASY XV,BASE,FMS,130,3,5,10,12,valse di fantasticafinal fantasy xvfms,183,272,446,563
-297,MUSIC0000297,The Fight Is On!,FINAL FANTASY XV,BASE,BMS,143,3,5,8,0,the fight is on!final fantasy xvbms,196,257,379,
-298,MUSIC0000298,APOCALYPSIS NOCTIS (Uncovered Trailer),FINAL FANTASY XV,BASE,BMS,128,3,5,9,13,apocalypsis noctis (uncovered trailer)final fantasy xvbms,195,296,389,603
-299,MUSIC0000299,Flying R,FINAL FANTASY XV,BASE,FMS,133,3,4,8,12,flying rfinal fantasy xvfms,155,222,297,475
-300,MUSIC0000300,Invidia,FINAL FANTASY XV,BASE,BMS,154,4,5,9,13,invidiafinal fantasy xvbms,168,250,379,586
-301,MUSIC0000301,OMNIS LACRIMA,FINAL FANTASY XV,BASE,BMS,140,3,4,8,12,omnis lacrimafinal fantasy xvbms,154,258,339,536
-302,MUSIC0000302,Up for the Challenge,FINAL FANTASY XV,BASE,BMS,111,3,5,8,11,up for the challengefinal fantasy xvbms,143,221,303,344
-303,MUSIC0000303,NOCTIS,FINAL FANTASY XV,BASE,FMS,131,3,5,9,0,noctisfinal fantasy xvfms,158,226,325,
-304,MUSIC0000304,Somnus,FINAL FANTASY XV,BASE,FMS,146,3,4,6,0,somnusfinal fantasy xvfms,171,240,330,
-305,MUSIC0000305,Hellfire,FINAL FANTASY XV,BASE,BMS,155,3,5,9,12,hellfirefinal fantasy xvbms,210,297,378,559
-306,MUSIC0000306,Magna Insomnia,FINAL FANTASY XV,BASE,BMS,316,5,6,9,13,magna insomniafinal fantasy xvbms,439,570,772,1194
-307,MUSIC0000307,Main Theme from FINAL FANTASY,FINAL FANTASY XV,BASE,FMS,125,3,5,8,0,main theme from final fantasyfinal fantasy xvfms,133,206,280,
-308,MUSIC0000308,Hill of Destiny,MYSTIC QUEST,BASE,BMS,115,4,6,10,14,hill of destinymystic questbms,230,292,434,801
-309,MUSIC0000309,Battle 1,MYSTIC QUEST,BASE,BMS,131,3,4,9,0,battle 1mystic questbms,171,233,447,
-310,MUSIC0000310,Battle 2,MYSTIC QUEST,BASE,BMS,99,3,5,8,15,battle 2mystic questbms,143,216,319,597
-311,MUSIC0000311,Doom Castle,MYSTIC QUEST,BASE,FMS,117,3,5,9,13,doom castlemystic questfms,153,238,393,598
-312,MUSIC0000312,Battle 3,MYSTIC QUEST,BASE,BMS,124,4,5,10,14,battle 3mystic questbms,161,244,447,669
-313,MUSIC0000313,Opening,FINAL FANTASY TACTICS,BASE,EMS,73,2,4,6,0,openingfinal fantasy tacticsems,60,83,159,
-314,MUSIC0000314,Prologue,FINAL FANTASY TACTICS,BASE,FMS,173,3,4,7,0,prologuefinal fantasy tacticsfms,163,286,428,
-315,MUSIC0000315,Trisection,FINAL FANTASY TACTICS,BASE,BMS,144,3,4,9,12,trisectionfinal fantasy tacticsbms,228,271,499,839
-316,MUSIC0000316,Apoplexy,FINAL FANTASY TACTICS,BASE,BMS,124,3,6,10,13,apoplexyfinal fantasy tacticsbms,174,293,449,630
-317,MUSIC0000317,Antipyretic,FINAL FANTASY TACTICS,BASE,BMS,112,3,5,10,0,antipyreticfinal fantasy tacticsbms,190,271,362,
-318,MUSIC0000318,Precipitous Combat,FINAL FANTASY TACTICS,BASE,BMS,105,4,6,10,12,precipitous combatfinal fantasy tacticsbms,183,239,375,399
-319,MUSIC0000319,Ultima's Transformation,FINAL FANTASY TACTICS,BASE,BMS,130,2,4,7,12,ultima's transformationfinal fantasy tacticsbms,183,249,405,623
-320,MUSIC0000320,Ovelia's Theme,FINAL FANTASY TACTICS,BASE,FMS,154,2,4,6,0,ovelia's themefinal fantasy tacticsfms,164,268,377,
-328,MUSIC0000328,This Is the End for You!,CRYSTAL CHRONICLES SERIES,BASE,BMS,164,3,6,9,13,this is the end for you!crystal chronicles seriesbms,242,345,538,779
-330,MUSIC0000330,We Have Come,FINAL FANTASY TYPE-0,BASE,BMS,135,3,4,7,12,we have comefinal fantasy type-0bms,161,236,346,455
-331,MUSIC0000331,We Have Come,FINAL FANTASY TYPE-0,BASE,EMS,138,3,6,9,0,we have comefinal fantasy type-0ems,200,254,365,
-332,MUSIC0000332,War: Warrior Worth a Thousand,FINAL FANTASY TYPE-0,BASE,BMS,158,3,6,9,0,war: warrior worth a thousandfinal fantasy type-0bms,201,341,462,
-333,MUSIC0000333,The Earth Under Our Feet,FINAL FANTASY TYPE-0,BASE,FMS,115,2,5,7,0,the earth under our feetfinal fantasy type-0fms,133,183,266,
-334,MUSIC0000334,War: The White Weapon,FINAL FANTASY TYPE-0,BASE,BMS,117,3,5,9,12,war: the white weaponfinal fantasy type-0bms,206,270,431,533
-335,MUSIC0000335,Tempus Finis,FINAL FANTASY TYPE-0,BASE,FMS,163,3,5,8,0,tempus finisfinal fantasy type-0fms,192,277,429,
-336,MUSIC0000336,Vermillion Fire,FINAL FANTASY TYPE-0,BASE,BMS,181,3,5,10,0,vermilion firefinal fantasy type-0bms,225,298,472,
-337,MUSIC0000337,Soar,FINAL FANTASY TYPE-0,BASE,FMS,116,2,5,8,0,soarfinal fantasy type-0fms,134,172,266,
-338,MUSIC0000338,Zero,FINAL FANTASY TYPE-0,DX,BMS,227,2,5,9,12,zerofinal fantasy type-0bms,268,422,550,814
-339,MUSIC0000339,Lux Concordiae from DISSIDIA 012[duodecim] FINAL FANTASY,DISSIDIA FINAL FANTASY,BASE,EMS,84,1,4,6,0,lux concordiae from dissidia 012[duodecim] final fantasydissidia final fantasyems,61,70,76,
-340,MUSIC0000340,Keeping the Peace from DISSIDIA FINAL FANTASY,DISSIDIA FINAL FANTASY,BASE,FMS,138,2,4,7,0,keeping the peace from dissidia final fantasydissidia final fantasyfms,154,205,284,
-341,MUSIC0000341,The Decisive Battle - arrange - from FINAL FANTASY VI,DISSIDIA FINAL FANTASY,BASE,BMS,112,3,5,9,0,the decisive battle - arrange - from final fantasy vidissidia final fantasybms,137,197,299,
-342,MUSIC0000342,The Troops' Advance from DISSIDIA FINAL FANTASY,DISSIDIA FINAL FANTASY,BASE,BMS,118,2,4,7,0,the troops' advance from dissidia final fantasydissidia final fantasybms,149,216,329,
-343,MUSIC0000343,Battle 1 - arrange - from FINAL FANTASY IX,DISSIDIA FINAL FANTASY,BASE,BMS,114,3,5,9,0,battle 1 - arrange - from final fantasy ixdissidia final fantasybms,144,184,362,
-344,MUSIC0000344,DISSIDIA - ending - from DISSIDIA FINAL FANTASY,DISSIDIA FINAL FANTASY,BASE,BMS,90,2,5,7,0,dissidia - ending - from dissidia final fantasydissidia final fantasybms,99,159,228,
-345,MUSIC0000345,DISSIDIA FINAL FANTASY [FINAL TRAILER],DISSIDIA FINAL FANTASY,BASE,BMS,166,3,5,8,0,dissidia final fantasy【final trailer】dissidia final fantasybms,210,265,478,
-346,MUSIC0000346,Canto Mortis -An Undocumented Battle- from DISSIDIA 012[duodecim] FINAL FANTASY,DISSIDIA FINAL FANTASY,BASE,FMS,145,2,5,7,0,canto mortis -an undocumented battle- from dissidia 012[duodecim] final fantasydissidia final fantasyfms,168,206,296,
-347,MUSIC0000347,Gate to the Rift from DISSIDIA 012[duodecim] FINAL FANTASY,DISSIDIA FINAL FANTASY,BASE,FMS,150,3,4,8,0,gate to the rift from dissidia 012[duodecim] final fantasydissidia final fantasyfms,224,283,419,
-348,MUSIC0000348,Cantata Mortis from DISSIDIA 012[duodecim] FINAL FANTASY,DISSIDIA FINAL FANTASY,BASE,BMS,210,3,6,9,0,cantata mortis from dissidia 012[duodecim] final fantasydissidia final fantasybms,310,398,493,
-349,MUSIC0000349,DISSIDIA 012[duodecim] FINAL FANTASY [FINAL TRAILER],DISSIDIA FINAL FANTASY,BASE,BMS,132,3,5,9,0,dissidia 012[duodecim] final fantasy【final trailer】dissidia final fantasybms,170,269,396,
-350,MUSIC0000350,The Rebel Army from FINAL FANTASY II (Arrangement),DISSIDIA FINAL FANTASY,BASE,BMS,122,4,5,10,13,the rebel army from final fantasy ii (arrangement)dissidia final fantasybms,178,294,441,632
-351,MUSIC0000351,Eternal Wind from FINAL FANTASY III (DFF Arrangement),DISSIDIA FINAL FANTASY,BASE,BMS,134,3,4,8,0,eternal wind from final fantasy iii (dff arrangement)dissidia final fantasybms,158,246,388,
-352,MUSIC0000352,Dancing Mad from FINAL FANTASY Ⅵ (Arrangement),DISSIDIA FINAL FANTASY,BASE,BMS,113,3,6,9,14,dancing mad from final fantasy ⅵ (arrangement)dissidia final fantasybms,149,278,361,617
-353,MUSIC0000353,Antipyretic from FINAL FANTASY TACTICS (Arrangement),DISSIDIA FINAL FANTASY,BASE,BMS,128,3,5,8,12,antipyretic from final fantasy tactics (arrangement)dissidia final fantasybms,181,289,368,523
-354,MUSIC0000354,Massive Explosion (Short ver.) from DISSIDIA FINAL FANTASY -Arcade-,DISSIDIA FINAL FANTASY,BASE,BMS,130,2,4,7,0,massive explosion (short ver.) from dissidia final fantasy -arcade-dissidia final fantasybms,133,189,307,
-355,MUSIC0000355,God in Fire - arrange - from DISSIDIA FINAL FANTASY,DISSIDIA FINAL FANTASY,BASE,BMS,121,2,4,7,11,god in fire - arrange - from dissidia final fantasydissidia final fantasybms,150,212,301,450
-356,MUSIC0000356,Ominous Prognisticks from FINAL FANTASY XIV (Arrangement),DISSIDIA FINAL FANTASY,BASE,BMS,116,3,5,8,0,ominous prognisticks from final fantasy xiv (arrangement)dissidia final fantasybms,185,251,346,
-357,MUSIC0000357,The Beginning of the End from FINAL FANTASY TYPE-0 (Arrangement),DISSIDIA FINAL FANTASY,BASE,BMS,158,2,4,9,0,the beginning of the end from final fantasy type-0 (arrangement)dissidia final fantasybms,195,250,415,
-358,MUSIC0000358,Spark from DISSIDIA FINAL FANTASY OPERA OMNIA,DISSIDIA FINAL FANTASY,BASE,BMS,92,3,4,7,0,spark from dissidia final fantasy opera omniadissidia final fantasybms,161,206,255,
-359,MUSIC0000359,Warrior of Light - Mobius Final Fantasy,MOBIUS FINAL FANTASY,BASE,BMS,112,3,4,8,12,warrior of light - mobius final fantasymobius final fantasybms,142,196,294,465
-360,MUSIC0000360,Dancing Edge,MOBIUS FINAL FANTASY,BASE,BMS,115,3,5,8,14,dancing edgemobius final fantasybms,170,254,366,563
-361,MUSIC0000361,Magic Madness,MOBIUS FINAL FANTASY,BASE,BMS,108,3,5,9,0,magic madnessmobius final fantasybms,176,251,379,
-362,MUSIC0000362,Femme Fatale,MOBIUS FINAL FANTASY,BASE,BMS,116,4,6,10,0,femme fatalemobius final fantasybms,170,244,330,
-363,MUSIC0000363,Bloodthirst,MOBIUS FINAL FANTASY,BASE,BMS,146,3,6,9,15,bloodthirstmobius final fantasybms,183,257,458,959
-364,MUSIC0000364,THEATRHYTHM FINAL FANTASY CURTAIN CALL Special Arrangement Medley(Long Version),THEATRHYTHM,BASE,BMS,284,3,4,8,0,theatrhythm final fantasy curtain call special arrangement medley(long version)theatrhythmbms,385,587,840,
-365,MUSIC0000365,THEATRHYTHM FINAL FANTASY CURTAIN CALL Special Arrangement Medley,THEATRHYTHM,BASE,EMS,205,3,5,8,0,theatrhythm final fantasy curtain call special arrangement medleytheatrhythmems,304,366,467,
-366,MUSIC0000366,The Chaos Shrine - TFF Menu Arrangement - From FF,THEATRHYTHM,BASE,BMS,89,3,5,10,0,the chaos shrine - tff menu arrangement - from fftheatrhythmbms,118,163,254,
-367,MUSIC0000367,Return of the Warrior - TFF Menu Arrangement - From FFIII,THEATRHYTHM,BASE,FMS,86,4,6,9,11,return of the warrior - tff menu arrangement - from ffiiitheatrhythmfms,144,192,272,304
-368,MUSIC0000368,Battle at the Big Bridge - TFF Menu Arrangement - From FFV,THEATRHYTHM,BASE,BMS,89,3,6,10,14,battle at the big bridge - tff menu arrangement - from ffvtheatrhythmbms,124,214,318,520
-369,MUSIC0000369,Choose Your Combatants - TFFCC Menu Arrangement - From FFT,THEATRHYTHM,BASE,BMS,88,3,5,10,0,choose your combatants - tffcc menu arrangement - from ffttheatrhythmbms,129,175,255,
-371,MUSIC0000371,Fight With Seymour - TFFAC Arrangement - From FFX,THEATRHYTHM,BASE,BMS,148,3,6,9,15,fight with seymour - tffac arrangement - from ffxtheatrhythmbms,220,285,516,964
-372,MUSIC0000372,Matoya's Cave - TFFAC Arrangement - From FF,THEATRHYTHM,BASE,FMS,151,4,7,10,16,matoya's cave - tffac arrangement - from fftheatrhythmfms,286,386,494,976
-373,MUSIC0000373,Prelude - TFFAC Menu Arrangement - From FF,THEATRHYTHM,BASE,FMS,108,3,5,9,14,prelude - tffac menu arrangement - from fftheatrhythmfms,127,220,381,616
-374,MUSIC0000374,Main Theme of Final Fantasy V - TFFAC Arrangement - From FFV,THEATRHYTHM,BASE,BMS,147,4,6,10,15,main theme of final fantasy v - tffac arrangement - from ffvtheatrhythmbms,211,260,422,860
-375,MUSIC0000375,Locke's Theme - TFFAC Arrangement - From FFVI,THEATRHYTHM,BASE,BMS,137,4,6,10,15,locke's theme - tffac arrangement - from ffvitheatrhythmbms,218,320,400,846
-376,MUSIC0000376,J-E-N-O-V-A - TFFAC Arrangement - From FFVII,THEATRHYTHM,BASE,BMS,145,4,6,10,15,j-e-n-o-v-a - tffac arrangement - from ffviitheatrhythmbms,242,371,546,895
-377,MUSIC0000377,The Red Wings - TFFAC Arrangement - From FFIV,THEATRHYTHM,BASE,FMS,130,5,6,10,16,the red wings - tffac arrangement - from ffivtheatrhythmfms,252,297,367,812
-378,MUSIC0000378,TFFCC Special Arrangement Medley - TFFAC Arrangement - From TFFCC,THEATRHYTHM,BASE,BMS,179,4,6,11,16,tffcc special arrangement medley - tffac arrangement - from tffcctheatrhythmbms,222,333,444,1111
-379,MUSIC0000379,Battle at the Big Bridge - TFFAC Arrangement - From FFV,THEATRHYTHM,BASE,BMS,136,5,8,12,16,battle at the big bridge - tffac arrangement - from ffvtheatrhythmbms,340,397,753,1247
-380,MUSIC0000380,World of Battle,FINAL FANTASY SERIES,BASE,BMS,159,2,4,9,0,world of battlefinal fantasy seriesbms,172,259,431,
-381,MUSIC0000381,Battle at the Big Bridge~Ver.2~ FFRK Ver. arrange,FINAL FANTASY RECORD KEEPER,BASE,BMS,124,3,5,10,14,battle at the big bridge～ver.2～ ffrk ver. arrangefinal fantasy record keeperbms,197,278,472,617
-382,MUSIC0000382,The Decisive Battle FFRK Ver. arrange from FFVI,FINAL FANTASY RECORD KEEPER,BASE,BMS,126,4,6,10,13,the decisive battle ffrk ver. arrange from ffvifinal fantasy record keeperbms,204,317,468,611
-383,MUSIC0000383,The Man with the Machine Gun FFRK Ver. arrange from FFVIII,FINAL FANTASY RECORD KEEPER,BASE,BMS,116,3,5,9,0,the man with the machine gun ffrk ver. arrange from ffviiifinal fantasy record keeperbms,149,210,344,
-384,MUSIC0000384,Blinded By Light FFRK Ver. arrange from FFXIII,FINAL FANTASY RECORD KEEPER,BASE,BMS,126,3,5,9,11,blinded by light ffrk ver. arrange from ffxiiifinal fantasy record keeperbms,189,260,375,473
-385,MUSIC0000385,The Chase FFRK Ver. arrange from FFVII,FINAL FANTASY RECORD KEEPER,BASE,BMS,134,3,5,10,12,the chase ffrk ver. arrange from ffviifinal fantasy record keeperbms,194,278,488,678
-386,MUSIC0000386,UTAKATA FFRK Ver. arrange from FFType-0,FINAL FANTASY RECORD KEEPER,BASE,BMS,117,3,6,8,0,utakata ffrk ver. arrange from fftype-0final fantasy record keeperbms,194,245,335,
-387,MUSIC0000387,Chaos Shrine FFRK Ver. arrange from FFI,FINAL FANTASY RECORD KEEPER,BASE,BMS,129,2,5,8,11,chaos shrine ffrk ver. arrange from ffifinal fantasy record keeperbms,142,187,303,655
-388,MUSIC0000388,Stand Your Ground FFRK Ver. arrange from FFXV,FINAL FANTASY RECORD KEEPER,BASE,BMS,111,3,5,9,12,stand your ground ffrk ver. arrange from ffxvfinal fantasy record keeperbms,115,178,243,435
-389,MUSIC0000389,Opening Theme,FINAL FANTASY SERIES,BASE,BMS,254,3,4,7,12,opening themefinal fantasy seriesbms,324,489,686,1007
-390,MUSIC0000390,Moogles' Theme,FINAL FANTASY SERIES,BASE,FMS,170,2,4,7,0,moogles' themefinal fantasy seriesfms,178,274,407,
-391,MUSIC0000391,FF Medley,FINAL FANTASY SERIES,BASE,FMS,206,3,5,8,0,ff medleyfinal fantasy seriesfms,272,360,468,
-392,MUSIC0000392,Battle at the Big Bridge,FINAL FANTASY SERIES,BASE,BMS,117,2,5,9,11,battle at the big bridgefinal fantasy seriesbms,177,238,416,539
-393,MUSIC0000393,Mambo de Chocobo,FINAL FANTASY SERIES,BASE,FMS,195,3,4,8,0,mambo de chocobofinal fantasy seriesfms,251,356,554,
-394,MUSIC0000394,Dungeon Hero X's Theme,SQUARE ENIX TITLES,BASE,BMS,133,3,6,9,14,dungeon hero x's themesquare enix titlesbms,191,264,418,751
-395,MUSIC0000395,Raffaello Battle,SQUARE ENIX TITLES,BASE,BMS,144,3,5,10,14,raffaello battlesquare enix titlesbms,195,296,471,732
-396,MUSIC0000396,Pop-Up Duel,SQUARE ENIX TITLES,BASE,BMS,124,3,5,9,13,pop-up duelsquare enix titlesbms,164,255,403,692
-397,MUSIC0000397,Guardian of the Dark II,SQUARE ENIX TITLES,BASE,BMS,176,3,5,9,0,guardian of the dark iisquare enix titlesbms,217,349,511,
-398,MUSIC0000398,Leviathan Battle,SQUARE ENIX TITLES,BASE,BMS,131,3,5,9,0,leviathan battlesquare enix titlesbms,171,351,527,
-399,MUSIC0000399,Struggle to the Death,SQUARE ENIX TITLES,DLC,BMS,107,4,6,9,0,struggle to the deathsquare enix titlesbms,166,248,460,
-400,MUSIC0000400,The Conflict,SQUARE ENIX TITLES,DLC,BMS,104,3,5,9,13,the conflictsquare enix titlesbms,144,211,325,525
-401,MUSIC0000401,Horrible Shadow,SQUARE ENIX TITLES,DLC,FMS,132,3,5,8,13,horrible shadowsquare enix titlesfms,164,264,431,637
-402,MUSIC0000402,Coup de Grace,SQUARE ENIX TITLES,DLC,BMS,150,3,5,10,14,coup de gracesquare enix titlesbms,211,311,492,923
-403,MUSIC0000403,Beat Them Up!,SQUARE ENIX TITLES,DLC,BMS,125,3,6,10,0,beat them up!square enix titlesbms,159,273,421,
-404,MUSIC0000404,Title Screen,SQUARE ENIX TITLES,DLC,BMS,134,2,4,7,0,title screensquare enix titlesbms,136,306,379,
-405,MUSIC0000405,The Ultimate Confrontation,SQUARE ENIX TITLES,DLC,BMS,145,3,5,9,11,the ultimate confrontationsquare enix titlesbms,175,273,449,606
-406,MUSIC0000406,Encounter with the Seven Heroes,SQUARE ENIX TITLES,DLC,BMS,165,3,5,10,13,encounter with the seven heroessquare enix titlesbms,204,338,568,810
-407,MUSIC0000407,Four Sinistrals Battle I,SQUARE ENIX TITLES,DLC,BMS,143,3,5,9,14,four sinistrals battle isquare enix titlesbms,198,346,474,768
-408,MUSIC0000408,Four Sinistrals Battle II,SQUARE ENIX TITLES,DLC,BMS,124,3,5,10,14,four sinistrals battle iisquare enix titlesbms,148,240,461,815
-409,MUSIC0000409,Final Confrontation,SQUARE ENIX TITLES,DLC,BMS,138,3,6,10,14,final confrontationsquare enix titlesbms,163,279,466,783
-410,MUSIC0000410,Ardent Rhythm,SQUARE ENIX TITLES,DLC,BMS,119,4,6,9,14,ardent rhythmsquare enix titlesbms,158,195,361,586
-411,MUSIC0000411,Battle #4,SQUARE ENIX TITLES,DLC,BMS,113,3,5,9,13,battle #4square enix titlesbms,165,217,321,472
-412,MUSIC0000412,Alone,SQUARE ENIX TITLES,DLC,FMS,164,2,4,8,0,alonesquare enix titlesfms,159,294,364,
-413,MUSIC0000413,Battle #5,SQUARE ENIX TITLES,DLC,BMS,158,3,5,10,14,battle #5square enix titlesbms,243,386,550,799
-414,MUSIC0000414,T260G's Last Battle,SQUARE ENIX TITLES,DLC,BMS,140,3,6,9,14,t260g's last battlesquare enix titlesbms,179,290,476,716
-415,MUSIC0000415,Feldschlacht III,SQUARE ENIX TITLES,DLC,BMS,125,4,6,8,12,feldschlacht iiisquare enix titlesbms,192,249,410,577
-416,MUSIC0000416,Mißgestalt,SQUARE ENIX TITLES,DLC,BMS,132,2,4,9,14,mißgestaltsquare enix titlesbms,165,242,366,624
-417,MUSIC0000417,Battle Theme I,SQUARE ENIX TITLES,DLC,BMS,110,4,5,10,14,battle theme isquare enix titlesbms,186,222,359,541
-418,MUSIC0000418,In Search of the Sword of Mana,SQUARE ENIX TITLES,DLC,BMS,91,3,5,8,0,in search of the sword of manasquare enix titlesbms,116,198,301,
-419,MUSIC0000419,Into the Thick of It,SQUARE ENIX TITLES,DLC,BMS,107,3,4,10,0,into the thick of itsquare enix titlesbms,128,181,309,
-420,MUSIC0000420,Danger,SQUARE ENIX TITLES,DLC,BMS,126,3,6,10,14,dangersquare enix titlesbms,207,325,503,646
-421,MUSIC0000421,Meridian Dance,SQUARE ENIX TITLES,DLC,BMS,109,4,5,9,13,meridian dancesquare enix titlesbms,170,224,363,468
-422,MUSIC0000422,Swivel,SQUARE ENIX TITLES,DLC,BMS,102,3,4,10,0,swivelsquare enix titlesbms,157,251,361,
-423,MUSIC0000423,Powell,SQUARE ENIX TITLES,DLC,FMS,126,3,6,10,0,powellsquare enix titlesfms,126,317,504,
-424,MUSIC0000424,Meridian Child,SQUARE ENIX TITLES,DLC,FMS,150,3,5,9,0,meridian childsquare enix titlesfms,158,292,391,
-425,MUSIC0000425,Sacrifice Part Three,SQUARE ENIX TITLES,DLC,BMS,233,4,5,9,13,sacrifice part threesquare enix titlesbms,353,478,781,1151
-426,MUSIC0000426,Hometown of Domina,SQUARE ENIX TITLES,DLC,FMS,119,3,5,9,0,hometown of dominasquare enix titlesfms,154,236,380,
-427,MUSIC0000427,Bejeweled City in Ruins,SQUARE ENIX TITLES,DLC,FMS,191,2,4,7,0,bejeweled city in ruinssquare enix titlesfms,197,322,500,
-428,MUSIC0000428,Chrono Trigger,SQUARE ENIX TITLES,DLC,BMS,122,2,4,9,12,chrono triggersquare enix titlesbms,121,196,323,518
-429,MUSIC0000429,Wind Scene,SQUARE ENIX TITLES,DLC,FMS,122,3,5,9,0,wind scenesquare enix titlesfms,126,184,301,
-430,MUSIC0000430,Frog's Theme,SQUARE ENIX TITLES,DLC,BMS,98,2,5,9,0,frog's themesquare enix titlesbms,113,168,310,
-431,MUSIC0000431,Boss Battle 2,SQUARE ENIX TITLES,DLC,BMS,118,3,5,9,13,boss battle 2square enix titlesbms,142,209,299,497
-432,MUSIC0000432,Battle with Magus,SQUARE ENIX TITLES,DLC,BMS,136,3,5,9,13,battle with magussquare enix titlesbms,146,251,372,525
-433,MUSIC0000433,Corridors of Time,SQUARE ENIX TITLES,DLC,FMS,135,2,4,9,0,corridors of timesquare enix titlesfms,137,254,422,
-434,MUSIC0000434,World Revolution,SQUARE ENIX TITLES,DLC,BMS,124,2,4,9,14,world revolutionsquare enix titlesbms,125,215,353,640
-435,MUSIC0000435,To Far Away Times,SQUARE ENIX TITLES,DLC,FMS,262,3,4,9,0,to far away timessquare enix titlesfms,314,449,721,
-436,MUSIC0000436,Twister,SQUARE ENIX TITLES,DLC,BMS,77,3,5,9,11,twistersquare enix titlesbms,125,188,310,372
-437,MUSIC0000437,Calling,SQUARE ENIX TITLES,DLC,FMS,131,3,5,7,0,callingsquare enix titlesfms,166,298,391,
-438,MUSIC0000438,Someday,SQUARE ENIX TITLES,DLC,BMS,125,3,5,9,0,somedaysquare enix titlesbms,187,248,381,
-439,MUSIC0000439,LIVE・A・LIVE,SQUARE ENIX TITLES,DLC,BMS,123,3,6,9,14,live・a・livesquare enix titlesbms,159,263,352,634
-440,MUSIC0000440,"Birds Fly, Fish Swim",SQUARE ENIX TITLES,DLC,FMS,109,2,5,8,0,"birds fly, fish swimsquare enix titlesfms",116,222,304,
-441,MUSIC0000441,MEGALOMANIA,SQUARE ENIX TITLES,DLC,BMS,105,3,5,9,13,megalomaniasquare enix titlesbms,172,218,366,573
-442,MUSIC0000442,Kaine / Salvation,SQUARE ENIX TITLES,DLC,FMS,98,3,5,7,0,kaine / salvationsquare enix titlesfms,101,159,203,
-443,MUSIC0000443,Song of the Ancients / Fate,SQUARE ENIX TITLES,DLC,BMS,156,4,6,9,13,song of the ancients / fatesquare enix titlesbms,261,313,472,645
-444,MUSIC0000444,Hills of Radiant Winds,SQUARE ENIX TITLES,DLC,BMS,94,3,6,9,0,hills of radiant windssquare enix titlesbms,117,156,311,
-445,MUSIC0000445,Song of the Ancients / Devola,SQUARE ENIX TITLES,DLC,FMS,152,2,5,8,0,song of the ancients / devolasquare enix titlesfms,150,348,440,
-446,MUSIC0000446,Shadowlord,SQUARE ENIX TITLES,DLC,BMS,272,3,5,9,13,shadowlordsquare enix titlesbms,263,373,604,900
-447,MUSIC0000447,Amusement Park,SQUARE ENIX TITLES,DLC,FMS,132,2,3,7,11,amusement parksquare enix titlesfms,146,195,262,303
-448,MUSIC0000448,A Beautiful Song,SQUARE ENIX TITLES,DLC,BMS,134,2,4,8,0,a beautiful songsquare enix titlesbms,133,170,248,
-449,MUSIC0000449,Emil's Shop,SQUARE ENIX TITLES,DLC,FMS,107,3,5,7,0,emil's shopsquare enix titlesfms,142,220,318,
-450,MUSIC0000450,Blazing Knights,SQUARE ENIX TITLES,DLC,BMS,122,3,5,8,0,blazing knightssquare enix titlesbms,150,241,395,
-451,MUSIC0000451,Soaring,SQUARE ENIX TITLES,DLC,BMS,161,3,4,8,12,soaringsquare enix titlesbms,169,271,473,580
-452,MUSIC0000452,Octopath Traveler -Main Theme-,SQUARE ENIX TITLES,DLC,FMS,150,3,6,9,0,octopath traveler -main theme-square enix titlesfms,128,378,458,
-453,MUSIC0000453,Decisive Battle II,SQUARE ENIX TITLES,DLC,BMS,194,4,6,10,14,decisive battle iisquare enix titlesbms,274,377,556,1069
-454,MUSIC0000454,The Horizon: Endless Light and Shadow,SQUARE ENIX TITLES,DLC,FMS,125,2,4,7,0,the horizon: endless light and shadowsquare enix titlesfms,155,214,315,
-455,MUSIC0000455,That of the Name,SQUARE ENIX TITLES,DLC,BMS,172,3,6,10,13,that of the namesquare enix titlesbms,177,322,705,925
-456,MUSIC0000456,The Evil Wings,SQUARE ENIX TITLES,DLC,BMS,247,3,6,10,0,the evil wingssquare enix titlesbms,300,532,977,
-457,MUSIC0000457,"Uroboros, the Serpent That Devours the Horizon",SQUARE ENIX TITLES,DLC,BMS,223,3,5,9,0,"uroboros, the serpent that devours the horizonsquare enix titlesbms",306,391,739,
-458,MUSIC0000458,Why,FINAL FANTASY VII SERIES,DX,BMS,145,2,4,7,0,whyfinal fantasy vii seriesbms,171,246,312,
-459,MUSIC0000459,Eyes On Me,FINAL FANTASY VIII,DX,FMS,166,2,4,7,0,eyes on mefinal fantasy viiifms,197,244,327,
-460,MUSIC0000460,Distant Worlds,FINAL FANTASY XI,DX,FMS,198,2,4,7,0,distant worldsfinal fantasy xifms,209,262,402,
-461,MUSIC0000461,Kiss Me Good-Bye-featured in FINAL FANTASY XII-,FINAL FANTASY XII,DX,FMS,140,1,4,6,0,kiss me good-bye-featured in final fantasy xii-final fantasy xiifms,139,169,244,
-462,MUSIC0000462,Eternal Love,FINAL FANTASY XIII,DX,FMS,185,2,5,8,0,eternal lovefinal fantasy xiiifms,183,289,441,
-463,MUSIC0000463,The Invincible,FINAL FANTASY III,BASE,FMS,122,3,5,9,11,the invinciblefinal fantasy iiifms,180,303,375,496
-464,MUSIC0000464,Plains of Eternity,FINAL FANTASY XIII SERIES,BASE,FMS,111,2,4,7,0,plains of eternityfinal fantasy xiii seriesfms,124,153,228,
-465,MUSIC0000465,Triumph,FINAL FANTASY XIV,BASE,BMS,175,3,5,9,0,triumphfinal fantasy xivbms,264,304,536,
-466,MUSIC0000466,Sunrise,FINAL FANTASY XIV,BASE,BMS,125,2,5,8,0,sunrisefinal fantasy xivbms,150,204,305,
-467,MUSIC0000467,A Long Fall,FINAL FANTASY XIV,BASE,BMS,143,3,6,10,14,a long fallfinal fantasy xivbms,273,352,460,753
-468,MUSIC0000468,What Angel Wakes Me,FINAL FANTASY XIV,BASE,BMS,158,3,5,9,11,what angel wakes mefinal fantasy xivbms,195,251,380,541
-469,MUSIC0000469,Promises to Keep,FINAL FANTASY XIV,BASE,BMS,160,3,6,9,0,promises to keepfinal fantasy xivbms,275,407,465,
-470,MUSIC0000470,Who Brings Shadow,FINAL FANTASY XIV,BASE,BMS,239,3,6,9,12,who brings shadowfinal fantasy xivbms,315,452,611,890
-471,MUSIC0000471,APOCALYPSIS NOCTIS,FINAL FANTASY XV,BASE,EMS,253,3,6,9,0,apocalypsis noctisfinal fantasy xvems,409,633,784,
-472,MUSIC0000472,Shield of the King - Theme of EPISODE GLADIOLUS,FINAL FANTASY XV,BASE,FMS,130,3,5,8,0,shield of the king - theme of episode gladiolusfinal fantasy xvfms,158,203,273,
-473,MUSIC0000473,Home Sweet Home - Theme of EPISODE PROMPTO,FINAL FANTASY XV,BASE,FMS,193,2,4,8,0,home sweet home - theme of episode promptofinal fantasy xvfms,219,249,292,
-474,MUSIC0000474,EPISODE IGNIS - The Main Theme,FINAL FANTASY XV,BASE,FMS,147,4,6,9,0,episode ignis - the main themefinal fantasy xvfms,178,219,259,
-475,MUSIC0000475,The Dance of Silver and Crimson,FINAL FANTASY XV,BASE,BMS,213,3,5,9,14,the dance of silver and crimsonfinal fantasy xvbms,369,441,731,1002
-477,MUSIC0000477,FFVII REMAKE: Bombing Mission,FINAL FANTASY VII REMAKE,BASE,BMS,191,3,5,9,0,ffvii remake: bombing missionfinal fantasy vii remakebms,224,419,570,
-478,MUSIC0000478,FFVII REMAKE: Let the Battles Begin! - A Merc's Job,FINAL FANTASY VII REMAKE,BASE,BMS,157,3,6,9,0,ffvii remake: let the battles begin! - a merc's jobfinal fantasy vii remakebms,243,346,516,
-479,MUSIC0000479,FFVII REMAKE: The Airbuster,FINAL FANTASY VII REMAKE,BASE,BMS,221,4,6,10,14,ffvii remake: the airbusterfinal fantasy vii remakebms,420,481,762,1129
-480,MUSIC0000480,FFVII REMAKE: J-E-N-O-V-A - Quickening,FINAL FANTASY VII REMAKE,BASE,BMS,137,3,6,8,12,ffvii remake: j-e-n-o-v-a - quickeningfinal fantasy vii remakebms,119,244,324,591
-481,MUSIC0000481,FFVII REMAKE: One-Winged Angel - Rebirth,FINAL FANTASY VII REMAKE,BASE,BMS,223,3,5,9,13,ffvii remake: one-winged angel - rebirthfinal fantasy vii remakebms,258,389,689,875
-482,MUSIC0000482,FFVII REMAKE: Midgar Expressway,FINAL FANTASY VII REMAKE,BASE,FMS,133,3,5,10,14,ffvii remake: midgar expresswayfinal fantasy vii remakefms,188,255,470,662
-483,MUSIC0000483,FFVII REMAKE: Main Theme of FFVII - Sector 7 Undercity,FINAL FANTASY VII REMAKE,BASE,FMS,161,1,4,8,0,ffvii remake: main theme of ffvii - sector 7 undercityfinal fantasy vii remakefms,177,224,288,
-484,MUSIC0000484,FFVII REMAKE: Collapsed Expressway,FINAL FANTASY VII REMAKE,BASE,FMS,140,2,4,8,11,ffvii remake: collapsed expresswayfinal fantasy vii remakefms,220,281,475,577
-485,MUSIC0000485,FFVII REMAKE: High Five,FINAL FANTASY VII REMAKE,BASE,BMS,194,3,5,9,11,ffvii remake: high fivefinal fantasy vii remakebms,230,317,484,777
-486,MUSIC0000486,FFVII REMAKE: Tifa's Theme - Seventh Heaven,FINAL FANTASY VII REMAKE,BASE,FMS,190,1,4,7,0,ffvii remake: tifa's theme - seventh heavenfinal fantasy vii remakefms,199,228,382,
-487,MUSIC0000487,Dare to Defy,DISSIDIA FINAL FANTASY,BASE,BMS,152,2,5,7,11,dare to defydissidia final fantasybms,148,176,236,351
-488,MUSIC0000488,The 4 Heroes of Light,FINAL FANTASY SERIES,BASE,FMS,128,3,5,8,0,the 4 heroes of lightfinal fantasy seriesfms,234,334,444,
-489,MUSIC0000489,Fiend Encounter,FINAL FANTASY SERIES,BASE,BMS,109,3,5,9,12,fiend encounterfinal fantasy seriesbms,158,196,307,389
-490,MUSIC0000490,Jack's Theme,FINAL FANTASY SERIES,BASE,BMS,137,3,6,9,0,jack's themefinal fantasy seriesbms,161,198,333,
-491,MUSIC0000491,Battle: Chaos Advent,FINAL FANTASY SERIES,BASE,BMS,187,3,5,9,14,battle: chaos adventfinal fantasy seriesbms,291,388,449,805
-492,MUSIC0000492,"Battle: False Knight – Motif from ""Battle""",FINAL FANTASY SERIES,BASE,BMS,164,3,5,9,12,"battle: false knight – motif from ""battle""final fantasy seriesbms",173,286,383,706
-493,MUSIC0000493,Enraged Battle,SQUARE ENIX TITLES,DLC,BMS,103,3,6,8,0,enraged battlesquare enix titlesbms,143,228,240,
-494,MUSIC0000494,Ever Higher,SQUARE ENIX TITLES,DLC,BMS,146,3,5,9,13,ever highersquare enix titlesbms,167,242,415,682
-495,MUSIC0000495,The Celestial Protectors,SQUARE ENIX TITLES,DLC,BMS,170,3,6,9,13,the celestial protectorssquare enix titlesbms,226,374,540,698
-496,MUSIC0000496,Battle 2,SQUARE ENIX TITLES,DLC,BMS,132,3,5,9,0,battle 2square enix titlesbms,179,271,445,
-497,MUSIC0000497,Nuclear Fusion,SQUARE ENIX TITLES,DLC,BMS,120,3,5,9,14,nuclear fusionsquare enix titlesbms,151,212,306,656
-498,MUSIC0000498,Darkness Nova,SQUARE ENIX TITLES,DLC,BMS,133,2,5,9,13,darkness novasquare enix titlesbms,135,213,415,599
-499,MUSIC0000499,Radical Dreamers -Le Trésor Interdit-,SQUARE ENIX TITLES,DLC,FMS,124,2,4,7,0,radical dreamers -le trésor interdit-square enix titlesfms,149,176,270,
-500,MUSIC0000500,Chrono Chross -Scars of Time-,SQUARE ENIX TITLES,DLC,BMS,144,2,5,7,0,chrono chross -scars of time-square enix titlesbms,120,209,308,
-501,MUSIC0000501,Your Ocean,SQUARE ENIX TITLES,DLC,BMS,138,2,4,8,0,your oceansquare enix titlesbms,143,254,308,
-502,MUSIC0000502,Breaking Free,SQUARE ENIX TITLES,DLC,BMS,154,3,5,9,13,breaking freesquare enix titlesbms,224,290,423,716
-503,MUSIC0000503,World Is Yours,SQUARE ENIX TITLES,DLC,BMS,243,4,6,10,14,world is yourssquare enix titlesbms,490,643,846,1098
-504,MUSIC0000504,Fleeting Worlds / Outsider,SQUARE ENIX TITLES,DLC,BMS,183,2,5,8,13,fleeting worlds / outsidersquare enix titlesbms,209,274,368,612
-505,MUSIC0000505,Dependent Weakling,SQUARE ENIX TITLES,DLC,BMS,142,3,6,10,13,dependent weaklingsquare enix titlesbms,212,267,426,512
-506,MUSIC0000506,Weight of the World Kowaretasekainouta - Marina Kawano,SQUARE ENIX TITLES,DLC,FMS,125,1,4,8,0,weight of the world kowaretasekainouta - marina kawanosquare enix titlesfms,155,220,280,
-507,MUSIC0000507,"Primrose, the Dancer",SQUARE ENIX TITLES,DLC,FMS,128,3,5,8,0,"primrose, the dancersquare enix titlesfms",252,325,357,
-508,MUSIC0000508,Hollow,FINAL FANTASY VII REMAKE,BASE,EMS,211,3,5,8,0,hollowfinal fantasy vii remakeems,182,190,224,
-509,MUSIC0000509,Clash on the Big Bridge (FINAL FANTASY V),FINAL FANTASY SERIES,DX,BMS,141,3,5,9,13,clash on the big bridge (final fantasy v)final fantasy seriesbms,202,312,376,746
-510,MUSIC0000510,The Skies Above,FINAL FANTASY SERIES,DX,BMS,119,2,5,8,0,the skies abovefinal fantasy seriesbms,152,215,307,
-511,MUSIC0000511,Fighters of the Crystal,FINAL FANTASY SERIES,DX,BMS,200,2,5,9,0,fighters of the crystalfinal fantasy seriesbms,220,304,552,
-512,MUSIC0000512,More SQ: FINAL FANTASY Dugem DE Chocobo,FINAL FANTASY SERIES,DX,FMS,138,3,5,9,14,more sq: final fantasy dugem de chocobofinal fantasy seriesfms,300,419,479,760
-513,MUSIC0000513,"SQ Chips: FINAL FANTASY III ""Go above the Clouds!～The Invincible""",FINAL FANTASY SERIES,DX,FMS,195,4,7,10,15,"sq chips: final fantasy iii ""go above the clouds!～the invincible""final fantasy seriesfms",348,530,720,1193
-514,MUSIC0000514,Battle SQ : FINAL FANTASY IX Not Alone,FINAL FANTASY SERIES,DX,BMS,126,3,5,9,12,battle sq : final fantasy ix not alonefinal fantasy seriesbms,130,206,390,481
-515,MUSIC0000515,Blinded By Light Jazz Arrangement,FINAL FANTASY SERIES,DX,BMS,112,2,5,7,0,blinded by light jazz arrangementfinal fantasy seriesbms,171,231,356,
-516,MUSIC0000516,Acoustic: The Decisive Battle,FINAL FANTASY SERIES,DX,BMS,126,3,5,8,0,acoustic: the decisive battlefinal fantasy seriesbms,156,323,398,
-517,MUSIC0000517,Band:Rise,FINAL FANTASY SERIES,DX,BMS,225,4,6,10,15,band:risefinal fantasy seriesbms,391,662,913,1342
-518,MUSIC0000518,Band: A Long Fall,FINAL FANTASY SERIES,DX,BMS,260,3,6,10,13,band: a long fallfinal fantasy seriesbms,496,627,833,1116
-519,MUSIC0000519,Aerith's Theme -Collab Arrangement-,FINAL FANTASY SERIES,DX,BMS,131,2,4,8,0,aerith's theme -collab arrangement-final fantasy seriesbms,112,194,266,
-520,MUSIC0000520,Cosmo Canyon -Collab Arrangement-,FINAL FANTASY SERIES,DX,FMS,150,3,5,8,0,cosmo canyon -collab arrangement-final fantasy seriesfms,159,267,378,
-524,MUSIC0000524,Battle at Journey's End,SQUARE ENIX TITLES,DLC,BMS,216,3,5,9,13,battle at journey's endsquare enix titlesbms,331,456,617,1019
-525,MUSIC0000525,Daughter of the Dark God,SQUARE ENIX TITLES,DLC,BMS,150,3,6,10,0,daughter of the dark godsquare enix titlesbms,220,341,499,
-526,MUSIC0000526,Go! Go! Steel Titan!,SQUARE ENIX TITLES,DLC,BMS,62,3,5,7,0,go! go! steel titan!square enix titlesbms,86,138,180,
-527,MUSIC0000527,Awakening,SQUARE ENIX TITLES,DLC,BMS,133,3,5,8,0,awakeningsquare enix titlesbms,155,201,305,
-528,MUSIC0000528,The One Who Gathers Stars in the Night,SQUARE ENIX TITLES,DLC,BMS,245,3,6,10,14,the one who gathers stars in the nightsquare enix titlesbms,425,568,988,1379
-529,MUSIC0000529,"Spurred into Flight, Drenched and Fallen - The Night Rises",SQUARE ENIX TITLES,DLC,BMS,170,3,6,9,12,"spurred into flight, drenched and fallen - the night risessquare enix titlesbms",275,420,723,838
-531,MUSIC0000531,Away,FINAL FANTASY XVI,DLC,BMS,238,3,5,10,14,awayfinal fantasy xvibms,310,409,691,1127
-532,MUSIC0000532,Find The Flame,FINAL FANTASY XVI,DLC,BMS,108,4,5,9,13,find the flamefinal fantasy xvibms,158,221,281,499
-533,MUSIC0000533,Control,FINAL FANTASY XVI,DLC,BMS,222,2,4,8,11,controlfinal fantasy xvibms,215,295,373,626
-534,MUSIC0000534,Titan Lost,FINAL FANTASY XVI,DLC,BMS,128,2,4,9,13,titan lostfinal fantasy xvibms,194,241,315,487
-535,MUSIC0000535,Ascension,FINAL FANTASY XVI,DLC,FMS,253,3,5,9,14,ascensionfinal fantasy xvifms,330,450,645,1044
-536,MUSIC0000536,The Riddle,FINAL FANTASY XVI,DLC,BMS,181,3,6,10,14,the riddlefinal fantasy xvibms,228,372,600,1016
-537,MUSIC0000537,Logos,FINAL FANTASY XVI,DLC,BMS,185,3,6,10,15,logosfinal fantasy xvibms,182,341,438,935
-538,MUSIC0000538,Wings That Cross Time,SQUARE ENIX TITLES,DLC,FMS,189,2,5,9,13,wings that cross timesquare enix titlesfms,264,394,495,591
-539,MUSIC0000539,Robo's Theme,SQUARE ENIX TITLES,DLC,FMS,147,2,4,7,0,robo's themesquare enix titlesfms,228,276,354,
-540,MUSIC0000540,FFCCR: Moonless Starry Night,CRYSTAL CHRONICLES SERIES,BASE,EMS,123,2,4,6,0,ffccr: moonless starry nightcrystal chronicles seriesems,67,79,109,
-541,MUSIC0000541,FFCCR: Today Comes To Be Tomorrow,CRYSTAL CHRONICLES SERIES,BASE,FMS,121,2,4,8,0,ffccr: today comes to be tomorrowcrystal chronicles seriesfms,152,213,283,
-542,MUSIC0000542,FFCCR: Promised Grace,CRYSTAL CHRONICLES SERIES,BASE,FMS,106,3,5,10,0,ffccr: promised gracecrystal chronicles seriesfms,133,216,352,
-543,MUSIC0000543,FFCCR: Monster Ronde,CRYSTAL CHRONICLES SERIES,BASE,BMS,141,3,4,8,12,ffccr: monster rondecrystal chronicles seriesbms,183,268,394,642
-544,MUSIC0000544,FFCCR: Across the Divide,CRYSTAL CHRONICLES SERIES,BASE,FMS,124,4,5,10,13,ffccr: across the dividecrystal chronicles seriesfms,145,229,428,643
-545,MUSIC0000545,FFCCR: Woebegone Creature,CRYSTAL CHRONICLES SERIES,BASE,BMS,204,3,5,9,14,ffccr: woebegone creaturecrystal chronicles seriesbms,261,292,459,795
-546,MUSIC0000546,"FFCCR: United,  Heaven-Sent",CRYSTAL CHRONICLES SERIES,BASE,BMS,160,3,5,8,0,"ffccr: united,  heaven-sentcrystal chronicles seriesbms",186,273,426,
-547,MUSIC0000547,FFCCR: Sound of the Wind,CRYSTAL CHRONICLES SERIES,DX,FMS,136,3,6,9,0,ffccr: sound of the windcrystal chronicles seriesfms,181,232,279,
-548,MUSIC0000548,THEATRHYTHM FINAL BAR LINE Special Battle Arrangement Medley,THEATRHYTHM,BASE,BMS,229,4,7,10,14,theatrhythm final bar line special battle arrangement medleytheatrhythmbms,444,555,888,1111
-549,MUSIC0000549,FFVII Special Arrangement Medley - TFBL Arrangement - From FFVII,THEATRHYTHM,BASE,BMS,235,3,5,11,15,ffvii special arrangement medley - tfbl arrangement - from ffviitheatrhythmbms,341,515,667,1364
-550,MUSIC0000550,"Symphonic Poem ""Hope"" ~FINAL FANTASY XII PV ver.~",FINAL FANTASY XII,DX,FMS,233,2,4,8,0,"symphonic poem ""hope"" ～final fantasy xii pv ver.～final fantasy xiifms",238,306,515,
-557,MUSIC0000557,Battle Theme 2 -Modulation ver.- from FINAL FANTASY II,FINAL FANTASY SERIES,DX,BMS,115,4,7,11,0,battle theme 2 -modulation ver.- from final fantasy iifinal fantasy seriesbms,169,423,726,
-558,MUSIC0000558,Battle at the Big Bridge -Modulation ver.- from FINAL FANTASY V,FINAL FANTASY SERIES,DX,BMS,202,3,7,10,15,battle at the big bridge -modulation ver.- from final fantasy vfinal fantasy seriesbms,317,425,853,1429
-559,MUSIC0000559,To Sail Forbidden Seas,FINAL FANTASY XVI,DLC,BMS,185,2,5,9,12,to sail forbidden seasfinal fantasy xvibms,193,350,434,679
-560,MUSIC0000560,My Star,FINAL FANTASY XVI,DLC,FMS,284,2,4,8,0,my starfinal fantasy xvifms,228,326,446,
-561,MUSIC0000561,"Hide, Hideaway",FINAL FANTASY XVI,DLC,FMS,151,2,4,8,0,"hide, hideawayfinal fantasy xvifms",178,273,325,
-562,MUSIC0000562,"No Risk, No Reward",FINAL FANTASY XVI,DLC,BMS,143,3,5,9,12,"no risk, no rewardfinal fantasy xvibms",176,314,376,537
+id,sound_label,eng_name,series,edition,ms_type,length_secs,diff_basic,diff_expert,diff_ultimate,diff_supreme,trig_basic,trig_expert,trig_ultimate,trig_supreme,full_name
+0,MUSIC0000000,Victory Fanfare,TUTORIAL,BASE,BMS,20,1,1,1,0,14,14,14,,victory fanfaretutorialbms
+1,MUSIC0000001,Victory Fanfare,TUTORIAL,BASE,FMS,20,1,1,1,0,18,18,18,,victory fanfaretutorialfms
+5,MUSIC0000005,Opening Theme,FINAL FANTASY I,BASE,FMS,121,3,5,8,0,155,238,333,,opening themefinal fantasy ifms
+6,MUSIC0000006,Opening Theme,FINAL FANTASY I,BASE,EMS,124,2,4,7,0,192,251,274,,opening themefinal fantasy iems
+7,MUSIC0000007,Main Theme,FINAL FANTASY I,BASE,FMS,108,3,5,8,0,142,227,291,,main themefinal fantasy ifms
+8,MUSIC0000008,Matoya's Cave,FINAL FANTASY I,BASE,FMS,103,3,6,9,0,145,227,309,,matoya's cavefinal fantasy ifms
+9,MUSIC0000009,Battle,FINAL FANTASY I,BASE,BMS,127,2,5,9,0,149,275,379,,battlefinal fantasy ibms
+10,MUSIC0000010,Castle Cornelia,FINAL FANTASY I,BASE,FMS,126,2,5,9,0,146,225,356,,castle corneliafinal fantasy ifms
+11,MUSIC0000011,Mt. Gulg,FINAL FANTASY I,BASE,FMS,126,3,5,8,11,157,274,387,530,mt. gulgfinal fantasy ifms
+12,MUSIC0000012,Miniboss Battle,FINAL FANTASY I,BASE,BMS,121,3,5,10,12,177,269,445,575,miniboss battlefinal fantasy ibms
+13,MUSIC0000013,Final Battle,FINAL FANTASY I,BASE,BMS,106,3,5,9,12,161,246,355,468,final battlefinal fantasy ibms
+14,MUSIC0000014,Sunken Shrine,FINAL FANTASY I,BASE,FMS,109,3,5,8,0,148,200,297,,sunken shrinefinal fantasy ifms
+15,MUSIC0000015,Airship,FINAL FANTASY I,BASE,FMS,92,2,6,7,0,134,202,240,,airshipfinal fantasy ifms
+17,MUSIC0000017,Finale,FINAL FANTASY II,BASE,FMS,91,2,4,7,0,112,151,220,,finalefinal fantasy iifms
+18,MUSIC0000018,The Rebel Army,FINAL FANTASY II,BASE,BMS,103,3,5,9,0,125,212,318,,the rebel armyfinal fantasy iibms
+19,MUSIC0000019,The Rebel Army,FINAL FANTASY II,BASE,EMS,106,3,5,8,0,157,241,285,,the rebel armyfinal fantasy iiems
+20,MUSIC0000020,Battle Theme 1,FINAL FANTASY II,BASE,BMS,127,3,5,9,13,163,300,470,893,battle theme 1final fantasy iibms
+21,MUSIC0000021,Town,FINAL FANTASY II,BASE,FMS,103,2,4,7,0,102,168,228,,townfinal fantasy iifms
+22,MUSIC0000022,Main Theme,FINAL FANTASY II,BASE,FMS,119,3,4,7,0,129,214,280,,main themefinal fantasy iifms
+23,MUSIC0000023,Tower of the Magi,FINAL FANTASY II,BASE,FMS,120,2,4,10,13,127,222,381,580,tower of the magifinal fantasy iifms
+24,MUSIC0000024,Dungeon,FINAL FANTASY II,BASE,FMS,101,2,5,9,0,130,188,316,,dungeonfinal fantasy iifms
+25,MUSIC0000025,Battle Theme 2,FINAL FANTASY II,BASE,BMS,129,3,5,8,13,152,259,401,688,battle theme 2final fantasy iibms
+26,MUSIC0000026,Battle Theme A,FINAL FANTASY II,BASE,BMS,132,3,5,9,13,172,284,430,676,battle theme afinal fantasy iibms
+27,MUSIC0000027,The Imperial Army,FINAL FANTASY II,BASE,FMS,126,2,5,9,0,141,215,365,,the imperial armyfinal fantasy iifms
+28,MUSIC0000028,Chocobo Theme,FINAL FANTASY II,BASE,FMS,68,3,6,9,0,105,138,200,,chocobo themefinal fantasy iifms
+31,MUSIC0000031,"Elia,  the Maiden of Water",FINAL FANTASY III,BASE,FMS,121,2,4,6,0,102,148,191,,"elia,  the maiden of waterfinal fantasy iiifms"
+32,MUSIC0000032,"Elia,  the Maiden of Water",FINAL FANTASY III,BASE,EMS,125,2,4,6,0,102,146,154,,"elia,  the maiden of waterfinal fantasy iiiems"
+33,MUSIC0000033,Battle 1,FINAL FANTASY III,BASE,BMS,128,3,5,9,13,162,282,421,638,battle 1final fantasy iiibms
+34,MUSIC0000034,Eternal Wind,FINAL FANTASY III,BASE,FMS,122,3,5,9,12,141,248,349,506,eternal windfinal fantasy iiifms
+35,MUSIC0000035,Battle 2,FINAL FANTASY III,BASE,BMS,125,3,5,10,13,173,253,437,779,battle 2final fantasy iiibms
+36,MUSIC0000036,The Boundless Ocean,FINAL FANTASY III,BASE,FMS,130,3,5,8,0,171,225,400,,the boundless oceanfinal fantasy iiifms
+37,MUSIC0000037,Salonia,FINAL FANTASY III,BASE,FMS,99,3,5,9,0,130,211,331,,saloniafinal fantasy iiifms
+38,MUSIC0000038,Let Me Know the Truth,FINAL FANTASY III,BASE,FMS,121,3,5,10,0,144,257,469,,let me know the truthfinal fantasy iiifms
+39,MUSIC0000039,Forbidden Land,FINAL FANTASY III,BASE,FMS,89,4,6,10,0,126,202,304,,forbidden landfinal fantasy iiifms
+40,MUSIC0000040,The Crystal Tower,FINAL FANTASY III,BASE,FMS,105,2,4,10,12,123,159,331,546,the crystal towerfinal fantasy iiifms
+41,MUSIC0000041,The Dark Crystals,FINAL FANTASY III,BASE,FMS,102,2,4,8,0,97,145,231,,the dark crystalsfinal fantasy iiifms
+42,MUSIC0000042,This is the Last Battle,FINAL FANTASY III,BASE,BMS,127,3,5,10,14,166,254,434,752,this is the last battlefinal fantasy iiibms
+43,MUSIC0000043,Crystal Cave,FINAL FANTASY III,BASE,FMS,99,3,6,8,0,125,177,256,,crystal cavefinal fantasy iiifms
+44,MUSIC0000044,Zephyr Memories -Legend of the Eternal Wind-,FINAL FANTASY III,DX,FMS,181,2,4,7,0,183,245,295,,zephyr memories -legend of the eternal wind-final fantasy iiifms
+47,MUSIC0000047,Theme of Love,FINAL FANTASY IV,BASE,FMS,136,2,5,10,0,177,256,467,,theme of lovefinal fantasy ivfms
+48,MUSIC0000048,Theme of Love,FINAL FANTASY IV,BASE,EMS,139,2,5,7,0,125,163,207,,theme of lovefinal fantasy ivems
+49,MUSIC0000049,The Red Wings,FINAL FANTASY IV,BASE,FMS,132,3,6,10,0,187,274,430,,the red wingsfinal fantasy ivfms
+50,MUSIC0000050,Main Theme of Final Fantasy IV,FINAL FANTASY IV,BASE,FMS,126,2,4,8,0,142,190,350,,main theme of final fantasy ivfinal fantasy ivfms
+51,MUSIC0000051,Battle 1,FINAL FANTASY IV,BASE,BMS,104,3,5,9,12,157,237,321,454,battle 1final fantasy ivbms
+52,MUSIC0000052,Battle 2,FINAL FANTASY IV,BASE,BMS,132,3,5,9,13,165,277,444,694,battle 2final fantasy ivbms
+53,MUSIC0000053,Battle with the Four Fiends,FINAL FANTASY IV,BASE,BMS,129,2,4,10,14,156,246,443,642,battle with the four fiendsfinal fantasy ivbms
+54,MUSIC0000054,The Airship,FINAL FANTASY IV,BASE,FMS,95,4,6,9,0,119,174,283,,the airshipfinal fantasy ivfms
+55,MUSIC0000055,Troian Beauty,FINAL FANTASY IV,BASE,FMS,99,3,5,8,0,126,205,260,,troian beautyfinal fantasy ivfms
+56,MUSIC0000056,Tower of Zot,FINAL FANTASY IV,BASE,FMS,125,3,6,10,0,168,260,394,,tower of zotfinal fantasy ivfms
+57,MUSIC0000057,Lunar Whale,FINAL FANTASY IV,BASE,FMS,98,2,4,7,12,100,145,209,418,lunar whalefinal fantasy ivfms
+58,MUSIC0000058,Within the Giant,FINAL FANTASY IV,BASE,FMS,129,2,5,9,0,138,252,351,,within the giantfinal fantasy ivfms
+59,MUSIC0000059,The Final Battle,FINAL FANTASY IV,BASE,BMS,113,2,5,9,13,132,235,361,583,the final battlefinal fantasy ivbms
+60,MUSIC0000060,Another Moon,FINAL FANTASY IV,BASE,FMS,117,3,4,8,0,137,193,306,,another moonfinal fantasy ivfms
+61,MUSIC0000061,Main Theme of Final Fantasy V,FINAL FANTASY V,BASE,BMS,150,3,4,8,0,164,236,435,,main theme of final fantasy vfinal fantasy vbms
+63,MUSIC0000063,"Home,  sweet Home",FINAL FANTASY V,BASE,FMS,123,4,6,9,0,177,286,356,,"home,  sweet homefinal fantasy vfms"
+64,MUSIC0000064,"Home,  sweet Home",FINAL FANTASY V,BASE,EMS,126,2,5,7,0,156,237,252,,"home,  sweet homefinal fantasy vems"
+65,MUSIC0000065,Four Hearts,FINAL FANTASY V,BASE,FMS,127,3,4,8,12,149,214,366,536,four heartsfinal fantasy vfms
+66,MUSIC0000066,Battle 1,FINAL FANTASY V,BASE,BMS,129,3,5,8,12,146,271,375,474,battle 1final fantasy vbms
+67,MUSIC0000067,To the North Mountain,FINAL FANTASY V,BASE,FMS,106,2,5,8,0,118,205,327,,to the north mountainfinal fantasy vfms
+68,MUSIC0000068,Battle 2,FINAL FANTASY V,BASE,BMS,142,3,5,9,13,161,256,474,621,battle 2final fantasy vbms
+69,MUSIC0000069,Library of Ancients,FINAL FANTASY V,BASE,FMS,142,4,6,10,0,172,294,430,,library of ancientsfinal fantasy vfms
+70,MUSIC0000070,Mambo de Chocobo,FINAL FANTASY V,BASE,FMS,118,4,6,9,14,168,284,388,555,mambo de chocobofinal fantasy vfms
+71,MUSIC0000071,The Airship,FINAL FANTASY V,BASE,FMS,115,3,5,8,0,140,211,271,,the airshipfinal fantasy vfms
+72,MUSIC0000072,The Dawn Warriors,FINAL FANTASY V,BASE,BMS,128,3,5,8,0,161,266,379,,the dawn warriorsfinal fantasy vbms
+73,MUSIC0000073,Battle at the Big Bridge,FINAL FANTASY V,BASE,BMS,129,2,5,9,13,148,288,431,729,battle at the big bridgefinal fantasy vbms
+74,MUSIC0000074,A New World,FINAL FANTASY V,BASE,FMS,124,3,5,8,0,172,238,323,,a new worldfinal fantasy vfms
+75,MUSIC0000075,In Search of Light,FINAL FANTASY V,BASE,FMS,131,3,6,8,0,167,259,329,,in search of lightfinal fantasy vfms
+76,MUSIC0000076,The Decisive Battle,FINAL FANTASY V,BASE,BMS,161,3,4,9,13,201,271,462,815,the decisive battlefinal fantasy vbms
+77,MUSIC0000077,The Final Battle,FINAL FANTASY V,BASE,BMS,116,4,5,9,14,135,211,349,555,the final battlefinal fantasy vbms
+78,MUSIC0000078,Harvest,FINAL FANTASY V,BASE,FMS,99,2,5,8,12,141,204,264,544,harvestfinal fantasy vfms
+81,MUSIC0000081,Celes's Theme,FINAL FANTASY VI,BASE,FMS,124,2,4,9,0,141,231,345,,celes's themefinal fantasy vifms
+82,MUSIC0000082,Celes's Theme,FINAL FANTASY VI,BASE,EMS,126,2,4,7,0,115,138,152,,celes's themefinal fantasy viems
+83,MUSIC0000083,Locke's Theme,FINAL FANTASY VI,BASE,BMS,116,3,4,7,0,138,194,289,,locke's themefinal fantasy vibms
+84,MUSIC0000084,Battle,FINAL FANTASY VI,BASE,BMS,116,3,5,10,14,174,289,425,612,battlefinal fantasy vibms
+85,MUSIC0000085,Edgar & Sabin's Theme,FINAL FANTASY VI,BASE,FMS,119,2,5,9,12,136,204,327,414,edgar & sabin's themefinal fantasy vifms
+86,MUSIC0000086,Protect the Espers!,FINAL FANTASY VI,BASE,BMS,111,3,6,9,12,152,226,360,652,protect the espers!final fantasy vibms
+87,MUSIC0000087,The Decisive Battle,FINAL FANTASY VI,BASE,BMS,117,2,5,9,13,150,277,374,524,the decisive battlefinal fantasy vibms
+88,MUSIC0000088,Terra's Theme,FINAL FANTASY VI,BASE,FMS,118,3,5,7,0,148,242,290,,terra's themefinal fantasy vifms
+89,MUSIC0000089,Grand Finale,FINAL FANTASY VI,BASE,BMS,100,3,5,10,14,140,231,327,482,grand finalefinal fantasy vibms
+90,MUSIC0000090,The Airship Blackjack,FINAL FANTASY VI,BASE,FMS,116,2,4,8,11,133,204,336,431,the airship blackjackfinal fantasy vifms
+91,MUSIC0000091,Battle to the Death,FINAL FANTASY VI,BASE,BMS,125,3,5,10,11,224,333,536,744,battle to the deathfinal fantasy vibms
+92,MUSIC0000092,Searching for Friends,FINAL FANTASY VI,BASE,FMS,118,3,4,7,0,147,197,268,,searching for friendsfinal fantasy vifms
+93,MUSIC0000093,Dancing Mad,FINAL FANTASY VI,BASE,BMS,121,2,4,8,13,122,221,296,514,dancing madfinal fantasy vibms
+94,MUSIC0000094,Kefka's Tower,FINAL FANTASY VI,BASE,FMS,129,3,5,8,0,157,249,378,,kefka's towerfinal fantasy vifms
+97,MUSIC0000097,Aerith's Theme,FINAL FANTASY VII,BASE,BMS,125,2,3,7,0,159,211,223,,aerith's themefinal fantasy viibms
+98,MUSIC0000098,Aerith's Theme,FINAL FANTASY VII,BASE,EMS,129,2,4,7,0,108,128,170,,aerith's themefinal fantasy viiems
+99,MUSIC0000099,Opening - Bombing Mission,FINAL FANTASY VII,BASE,BMS,148,3,5,10,13,202,312,491,639,opening - bombing missionfinal fantasy viibms
+100,MUSIC0000100,Let the Battles Begin!,FINAL FANTASY VII,BASE,BMS,130,2,5,8,14,204,331,441,685,let the battles begin!final fantasy viibms
+101,MUSIC0000101,Fight On!,FINAL FANTASY VII,BASE,BMS,132,3,5,8,14,237,348,421,667,fight on!final fantasy viibms
+102,MUSIC0000102,The Chase,FINAL FANTASY VII,BASE,FMS,113,3,5,8,13,127,202,317,536,the chasefinal fantasy viifms
+103,MUSIC0000103,Main Theme of Final Fantasy VII,FINAL FANTASY VII,BASE,FMS,114,2,4,6,0,132,187,245,,main theme of final fantasy viifinal fantasy viifms
+104,MUSIC0000104,Rufus's Welcoming Ceremony,FINAL FANTASY VII,BASE,FMS,124,3,5,9,0,169,263,379,,rufus's welcoming ceremonyfinal fantasy viifms
+105,MUSIC0000105,JENOVA,FINAL FANTASY VII,BASE,BMS,126,2,4,7,11,140,211,391,499,jenovafinal fantasy viibms
+106,MUSIC0000106,Gold Saucer,FINAL FANTASY VII,BASE,FMS,108,4,6,9,13,159,252,406,512,gold saucerfinal fantasy viifms
+107,MUSIC0000107,Cosmo Canyon,FINAL FANTASY VII,BASE,FMS,111,2,5,10,0,108,213,351,,cosmo canyonfinal fantasy viifms
+108,MUSIC0000108,The Highwind Takes to the Skies,FINAL FANTASY VII,BASE,FMS,112,3,5,9,0,144,204,343,,the highwind takes to the skiesfinal fantasy viifms
+109,MUSIC0000109,Judgment Day,FINAL FANTASY VII,BASE,FMS,118,3,5,8,0,138,184,308,,judgment dayfinal fantasy viifms
+110,MUSIC0000110,Birth of a God,FINAL FANTASY VII,BASE,BMS,127,3,4,8,13,147,225,302,490,birth of a godfinal fantasy viibms
+111,MUSIC0000111,One-Winged Angel,FINAL FANTASY VII,BASE,BMS,144,3,5,8,14,263,373,432,664,one-winged angelfinal fantasy viibms
+112,MUSIC0000112,Advent: One-Winged Angel,FINAL FANTASY VII SERIES,BASE,BMS,366,4,6,10,16,550,874,1198,2182,advent: one-winged angelfinal fantasy vii seriesbms
+113,MUSIC0000113,Advent: One-Winged Angel,FINAL FANTASY VII SERIES,BASE,EMS,145,3,5,8,0,193,275,338,,advent: one-winged angelfinal fantasy vii seriesems
+114,MUSIC0000114,Those Who Fight (Piano Version),FINAL FANTASY VII SERIES,BASE,BMS,151,3,5,8,0,229,361,570,,those who fight (piano version)final fantasy vii seriesbms
+115,MUSIC0000115,Beyond the Wasteland,FINAL FANTASY VII SERIES,BASE,BMS,114,3,6,9,0,195,247,377,,beyond the wastelandfinal fantasy vii seriesbms
+116,MUSIC0000116,Aerith's Theme (Piano Version),FINAL FANTASY VII SERIES,BASE,FMS,123,2,4,7,0,136,221,319,,aerith's theme (piano version)final fantasy vii seriesfms
+117,MUSIC0000117,Battle in the Forgotten City,FINAL FANTASY VII SERIES,BASE,BMS,149,3,5,9,0,191,305,454,,battle in the forgotten cityfinal fantasy vii seriesbms
+118,MUSIC0000118,Divinity II,FINAL FANTASY VII SERIES,BASE,BMS,161,3,6,10,13,198,279,454,598,divinity iifinal fantasy vii seriesbms
+119,MUSIC0000119,J-E-N-O-V-A (AC Version),FINAL FANTASY VII SERIES,BASE,BMS,163,3,5,10,0,202,305,517,,j-e-n-o-v-a (ac version)final fantasy vii seriesbms
+120,MUSIC0000120,Cloud Smiles,FINAL FANTASY VII SERIES,BASE,FMS,176,3,5,8,0,188,278,409,,cloud smilesfinal fantasy vii seriesfms
+121,MUSIC0000121,CRISIS CORE Theme - Succession,FINAL FANTASY VII SERIES,BASE,EMS,112,2,5,8,0,101,187,235,,crisis core theme - successionfinal fantasy vii seriesems
+122,MUSIC0000122,The SOLDIER Way,FINAL FANTASY VII SERIES,BASE,BMS,117,3,5,7,13,167,245,333,540,the soldier wayfinal fantasy vii seriesbms
+123,MUSIC0000123,The Price of Freedom,FINAL FANTASY VII SERIES,BASE,BMS,110,3,4,8,0,159,210,302,,the price of freedomfinal fantasy vii seriesbms
+124,MUSIC0000124,Encounter,FINAL FANTASY VII SERIES,BASE,BMS,107,3,5,9,14,156,232,357,603,encounterfinal fantasy vii seriesbms
+125,MUSIC0000125,Timely Ambush (from FFVII 'Let the Battles Begin!'),FINAL FANTASY VII SERIES,BASE,FMS,121,3,5,9,0,208,266,468,,timely ambush (from ffvii 'let the battles begin!')final fantasy vii seriesfms
+126,MUSIC0000126,A Flower Blooming in the Slums (from FFVII 'Aerith's Theme'),FINAL FANTASY VII SERIES,BASE,FMS,135,2,4,8,0,147,199,291,,a flower blooming in the slums (from ffvii 'aerith's theme')final fantasy vii seriesfms
+127,MUSIC0000127,Last Order,FINAL FANTASY VII SERIES,BASE,BMS,147,3,4,7,0,189,315,400,,last orderfinal fantasy vii seriesbms
+129,MUSIC0000129,Ending Theme,FINAL FANTASY VIII,BASE,FMS,113,1,4,8,0,127,182,328,,ending themefinal fantasy viiifms
+130,MUSIC0000130,Waltz for the Moon,FINAL FANTASY VIII,BASE,FMS,142,3,5,9,0,168,269,451,,waltz for the moonfinal fantasy viiifms
+131,MUSIC0000131,Waltz for the Moon,FINAL FANTASY VIII,BASE,EMS,145,3,6,9,0,162,278,373,,waltz for the moonfinal fantasy viiiems
+132,MUSIC0000132,Balamb GARDEN,FINAL FANTASY VIII,BASE,FMS,105,2,4,8,0,118,163,266,,balamb gardenfinal fantasy viiifms
+133,MUSIC0000133,Blue Fields,FINAL FANTASY VIII,BASE,FMS,128,3,4,7,0,161,220,294,,blue fieldsfinal fantasy viiifms
+134,MUSIC0000134,Don't be Afraid,FINAL FANTASY VIII,BASE,BMS,119,3,5,9,12,162,227,379,414,don't be afraidfinal fantasy viiibms
+135,MUSIC0000135,Force Your Way,FINAL FANTASY VIII,BASE,BMS,114,3,4,10,13,166,235,410,586,force your wayfinal fantasy viiibms
+136,MUSIC0000136,Shuffle or Boogie,FINAL FANTASY VIII,BASE,BMS,110,3,5,9,11,145,209,406,495,shuffle or boogiefinal fantasy viiibms
+137,MUSIC0000137,The Man with the Machine Gun,FINAL FANTASY VIII,BASE,BMS,123,3,5,10,13,157,250,493,587,the man with the machine gunfinal fantasy viiibms
+138,MUSIC0000138,Premonition,FINAL FANTASY VIII,BASE,BMS,154,2,4,8,12,203,279,389,557,premonitionfinal fantasy viiibms
+139,MUSIC0000139,Fisherman's Horizon,FINAL FANTASY VIII,BASE,FMS,114,3,4,6,0,138,182,245,,fisherman's horizonfinal fantasy viiifms
+140,MUSIC0000140,Love Grows,FINAL FANTASY VIII,BASE,FMS,140,2,4,7,0,152,195,259,,love growsfinal fantasy viiifms
+141,MUSIC0000141,Ride On,FINAL FANTASY VIII,BASE,FMS,122,3,5,8,0,173,245,343,,ride onfinal fantasy viiifms
+142,MUSIC0000142,The Castle,FINAL FANTASY VIII,BASE,FMS,165,3,6,10,13,187,327,533,684,the castlefinal fantasy viiifms
+143,MUSIC0000143,Maybe I'm a Lion,FINAL FANTASY VIII,BASE,BMS,163,2,4,10,13,196,313,569,751,maybe i'm a lionfinal fantasy viiibms
+144,MUSIC0000144,The Extreme,FINAL FANTASY VIII,BASE,BMS,160,3,5,10,13,192,334,573,731,the extremefinal fantasy viiibms
+145,MUSIC0000145,Liberi Fatali,FINAL FANTASY VIII,BASE,BMS,187,3,6,9,0,222,345,594,,liberi fatalifinal fantasy viiibms
+146,MUSIC0000146,Find Your Way,FINAL FANTASY VIII,BASE,FMS,116,2,4,7,0,157,204,381,,find your wayfinal fantasy viiifms
+147,MUSIC0000147,The Oath,FINAL FANTASY VIII,BASE,FMS,143,2,4,7,0,160,243,379,,the oathfinal fantasy viiifms
+148,MUSIC0000148,Melodies Of Life ~Final Fantasy,FINAL FANTASY IX,DX,FMS,140,2,4,7,0,170,222,321,,melodies of life ～final fantasyfinal fantasy ixfms
+149,MUSIC0000149,A Place to Call Home,FINAL FANTASY IX,BASE,FMS,116,3,4,8,0,145,221,313,,a place to call homefinal fantasy ixfms
+150,MUSIC0000150,Behind the Door,FINAL FANTASY IX,BASE,FMS,125,2,4,8,0,136,189,248,,behind the doorfinal fantasy ixfms
+151,MUSIC0000151,Behind the Door,FINAL FANTASY IX,BASE,EMS,128,2,4,7,0,107,132,195,,behind the doorfinal fantasy ixems
+152,MUSIC0000152,Vivi's Theme,FINAL FANTASY IX,BASE,FMS,123,2,4,8,0,142,230,340,,vivi's themefinal fantasy ixfms
+153,MUSIC0000153,Swords of Fury,FINAL FANTASY IX,BASE,BMS,137,3,5,9,0,161,253,436,,swords of furyfinal fantasy ixbms
+154,MUSIC0000154,Vamo'alla flamenco,FINAL FANTASY IX,BASE,BMS,101,2,5,10,13,126,196,326,482,vamo'alla flamencofinal fantasy ixbms
+155,MUSIC0000155,Battle 1,FINAL FANTASY IX,BASE,BMS,120,3,5,8,14,154,251,333,657,battle 1final fantasy ixbms
+156,MUSIC0000156,Battle 2,FINAL FANTASY IX,BASE,BMS,119,3,4,9,0,193,259,365,,battle 2final fantasy ixbms
+157,MUSIC0000157,Over the Hill,FINAL FANTASY IX,BASE,FMS,141,2,4,6,0,158,217,309,,over the hillfinal fantasy ixfms
+158,MUSIC0000158,Festival of the Hunt,FINAL FANTASY IX,BASE,BMS,113,4,5,9,13,191,250,376,544,festival of the huntfinal fantasy ixbms
+159,MUSIC0000159,Roses of May,FINAL FANTASY IX,BASE,FMS,140,3,6,9,0,179,320,392,,roses of mayfinal fantasy ixfms
+160,MUSIC0000160,Something to Protect,FINAL FANTASY IX,BASE,BMS,117,3,6,9,0,188,287,401,,something to protectfinal fantasy ixbms
+161,MUSIC0000161,Aboard the Hilda Garde,FINAL FANTASY IX,BASE,FMS,127,3,5,8,12,184,249,360,608,aboard the hilda gardefinal fantasy ixfms
+162,MUSIC0000162,Not Alone,FINAL FANTASY IX,BASE,FMS,130,3,4,6,0,157,201,271,,not alonefinal fantasy ixfms
+163,MUSIC0000163,The Darkness of Eternity,FINAL FANTASY IX,BASE,BMS,170,3,4,9,13,197,341,497,795,the darkness of eternityfinal fantasy ixbms
+164,MUSIC0000164,The Final Battle,FINAL FANTASY IX,BASE,BMS,138,3,5,10,12,212,311,454,673,the final battlefinal fantasy ixbms
+165,MUSIC0000165,Dark City Treno,FINAL FANTASY IX,BASE,FMS,159,2,4,7,0,211,375,436,,dark city trenofinal fantasy ixfms
+166,MUSIC0000166,"Iifa,  the Ancient Tree of Life",FINAL FANTASY IX,BASE,FMS,136,2,4,8,0,169,217,253,,"iifa,  the ancient tree of lifefinal fantasy ixfms"
+167,MUSIC0000167,Ipsen's Castle,FINAL FANTASY IX,BASE,FMS,106,2,4,8,0,118,162,268,,ipsen's castlefinal fantasy ixfms
+168,MUSIC0000168,Zanarkand,FINAL FANTASY X,DX,FMS,134,2,5,7,0,140,182,352,,zanarkandfinal fantasy xfms
+170,MUSIC0000170,SUTEKI DA NE (Isn't It Wonderful?),FINAL FANTASY X,BASE,FMS,142,3,4,9,0,164,185,203,,suteki da ne (isn't it wonderful?)final fantasy xfms
+171,MUSIC0000171,SUTEKI DA NE (Isn't It Wonderful?),FINAL FANTASY X,BASE,EMS,145,2,5,7,0,173,240,332,552,suteki da ne (isn't it wonderful?)final fantasy xems
+172,MUSIC0000172,Otherworld,FINAL FANTASY X,BASE,BMS,136,3,5,10,14,198,293,462,617,otherworldfinal fantasy xbms
+173,MUSIC0000173,Battle Theme,FINAL FANTASY X,BASE,BMS,127,2,4,8,12,148,253,417,599,battle themefinal fantasy xbms
+174,MUSIC0000174,Spira Unplugged,FINAL FANTASY X,BASE,FMS,108,3,5,8,0,164,234,299,,spira unpluggedfinal fantasy xfms
+175,MUSIC0000175,Movement In Green,FINAL FANTASY X,BASE,FMS,117,3,4,10,0,146,201,350,,movement in greenfinal fantasy xfms
+176,MUSIC0000176,Blitz Off!,FINAL FANTASY X,BASE,BMS,125,3,4,7,0,174,228,448,,blitz off!final fantasy xbms
+177,MUSIC0000177,Thunder Plains,FINAL FANTASY X,BASE,FMS,118,3,5,8,13,173,240,332,552,thunder plainsfinal fantasy xfms
+178,MUSIC0000178,Assault,FINAL FANTASY X,BASE,BMS,137,4,6,10,0,147,275,483,,assaultfinal fantasy xbms
+179,MUSIC0000179,Servants of the Mountain,FINAL FANTASY X,BASE,FMS,130,2,5,8,0,130,226,323,,servants of the mountainfinal fantasy xfms
+180,MUSIC0000180,A Fleeting Dream,FINAL FANTASY X,BASE,FMS,114,2,4,8,0,138,193,270,,a fleeting dreamfinal fantasy xfms
+181,MUSIC0000181,Challenge,FINAL FANTASY X,BASE,BMS,145,2,4,7,0,143,156,291,,challengefinal fantasy xbms
+182,MUSIC0000182,Fight with Seymour,FINAL FANTASY X,BASE,BMS,190,2,4,8,13,235,418,588,890,fight with seymourfinal fantasy xbms
+183,MUSIC0000183,A Contest of Aeons,FINAL FANTASY X,BASE,BMS,123,4,6,10,13,272,265,375,626,a contest of aeonsfinal fantasy xbms
+184,MUSIC0000184,Final Battle,FINAL FANTASY X,BASE,BMS,137,3,6,9,13,183,299,484,838,final battlefinal fantasy xbms
+185,MUSIC0000185,Mi'ihen Highroad,FINAL FANTASY X,BASE,FMS,122,3,6,7,0,171,265,340,,mi'ihen highroadfinal fantasy xfms
+186,MUSIC0000186,Launch,FINAL FANTASY X,BASE,FMS,135,3,5,9,0,254,314,582,,launchfinal fantasy xfms
+187,MUSIC0000187,Via Purifico,FINAL FANTASY X,BASE,FMS,133,3,5,10,0,208,350,565,,via purificofinal fantasy xfms
+188,MUSIC0000188,1000 Words (FFX-2 Mix),FINAL FANTASY X-2,BASE,EMS,152,2,5,8,0,115,177,293,,1000 words (ffx-2 mix)final fantasy x-2ems
+189,MUSIC0000189,We're the Gullwings!,FINAL FANTASY X-2,BASE,FMS,134,3,6,8,0,181,259,377,,we're the gullwings!final fantasy x-2fms
+190,MUSIC0000190,Let me blow you a kiss.,FINAL FANTASY X-2,BASE,BMS,110,4,7,9,0,231,261,369,,let me blow you a kiss.final fantasy x-2bms
+191,MUSIC0000191,The Farplane Abyss,FINAL FANTASY X-2,BASE,FMS,106,3,5,8,0,103,152,272,,the farplane abyssfinal fantasy x-2fms
+192,MUSIC0000192,Kuon -Memories of Waves and Light-,FINAL FANTASY X-2,DX,FMS,153,3,5,8,0,208,311,501,,kuon -memories of waves and light-final fantasy x-2fms
+193,MUSIC0000193,real Emotion (FFX-2 Mix),FINAL FANTASY X-2,DX,BMS,148,4,6,9,12,247,333,441,537,real emotion (ffx-2 mix)final fantasy x-2bms
+194,MUSIC0000194,"YuRiPa,  Fight! No.1",FINAL FANTASY X-2,BASE,BMS,107,3,6,9,0,193,244,293,,"yuripa,  fight! no.1final fantasy x-2bms"
+195,MUSIC0000195,The Bevelle Underground,FINAL FANTASY X-2,BASE,FMS,108,2,5,10,0,148,384,381,,the bevelle undergroundfinal fantasy x-2fms
+196,MUSIC0000196,Their Resting Place,FINAL FANTASY X-2,BASE,BMS,131,3,7,10,0,180,419,624,,their resting placefinal fantasy x-2bms
+197,MUSIC0000197,Vana'diel March,FINAL FANTASY XI,BASE,FMS,122,3,5,8,0,190,256,301,,vana'diel marchfinal fantasy xifms
+199,MUSIC0000199,FFXI Opening Theme,FINAL FANTASY XI,BASE,BMS,138,3,5,7,0,110,147,200,,ffxi opening themefinal fantasy xibms
+200,MUSIC0000200,FFXI Opening Theme,FINAL FANTASY XI,BASE,EMS,141,2,5,7,0,175,301,401,,ffxi opening themefinal fantasy xiems
+201,MUSIC0000201,Ronfaure,FINAL FANTASY XI,BASE,FMS,125,3,4,8,0,172,234,298,,ronfaurefinal fantasy xifms
+202,MUSIC0000202,Battle Theme,FINAL FANTASY XI,BASE,BMS,112,3,5,9,0,130,213,343,,battle themefinal fantasy xibms
+203,MUSIC0000203,Gustaberg,FINAL FANTASY XI,BASE,FMS,143,3,5,8,0,167,231,347,,gustabergfinal fantasy xifms
+204,MUSIC0000204,Selbina,FINAL FANTASY XI,BASE,FMS,117,4,5,10,0,166,234,415,,selbinafinal fantasy xifms
+205,MUSIC0000205,Recollection,FINAL FANTASY XI,BASE,FMS,172,2,4,7,0,175,313,401,,recollectionfinal fantasy xifms
+206,MUSIC0000206,Awakening,FINAL FANTASY XI,BASE,BMS,135,3,5,7,12,183,254,324,617,awakeningfinal fantasy xibms
+207,MUSIC0000207,Shinryu,FINAL FANTASY XI,BASE,BMS,182,3,4,9,13,216,250,555,775,shinryufinal fantasy xibms
+208,MUSIC0000208,The Sanctuary of Zi'Tah,FINAL FANTASY XI,BASE,FMS,129,2,3,7,0,168,239,304,,the sanctuary of zi'tahfinal fantasy xifms
+209,MUSIC0000209,Fighters of the Crystal,FINAL FANTASY XI,BASE,BMS,131,2,4,9,12,125,223,418,593,fighters of the crystalfinal fantasy xibms
+210,MUSIC0000210,A New Horizon - Tavnazian Archipelago,FINAL FANTASY XI,BASE,FMS,150,3,5,8,0,175,301,401,,a new horizon - tavnazian archipelagofinal fantasy xifms
+211,MUSIC0000211,Ragnarok,FINAL FANTASY XI,BASE,BMS,125,2,6,9,12,130,230,321,536,ragnarokfinal fantasy xibms
+212,MUSIC0000212,Heavens Tower,FINAL FANTASY XI,BASE,FMS,119,2,4,7,0,168,228,277,,heavens towerfinal fantasy xifms
+213,MUSIC0000213,Sarutabaruta,FINAL FANTASY XI,BASE,FMS,132,2,4,7,0,133,246,365,,sarutabarutafinal fantasy xifms
+214,MUSIC0000214,Voyager,FINAL FANTASY XI,BASE,FMS,106,3,5,8,0,137,180,279,,voyagerfinal fantasy xifms
+215,MUSIC0000215,Melodies Errant,FINAL FANTASY XI,BASE,BMS,110,3,6,10,0,154,227,407,,melodies errantfinal fantasy xibms
+216,MUSIC0000216,Tough Battle #2,FINAL FANTASY XI,BASE,BMS,130,2,4,9,0,155,209,467,,tough battle #2final fantasy xibms
+217,MUSIC0000217,Iron Colossus,FINAL FANTASY XI,BASE,BMS,129,2,4,8,0,155,238,367,,iron colossusfinal fantasy xibms
+218,MUSIC0000218,FINAL FANTASY (FFXII Version),FINAL FANTASY XII,BASE,BMS,118,3,4,8,0,158,232,326,,final fantasy (ffxii version)final fantasy xiibms
+219,MUSIC0000219,Ending Movie (from FINAL FANTASY XII Original Soundtrack),FINAL FANTASY XII,BASE,BMS,140,4,6,10,0,218,298,418,,ending movie (from final fantasy xii original soundtrack)final fantasy xiibms
+220,MUSIC0000220,The Archadian Empire - original - from FINAL FANTASY XII,FINAL FANTASY XII,BASE,FMS,140,3,5,8,0,170,272,470,,the archadian empire - original - from final fantasy xiifinal fantasy xiifms
+221,MUSIC0000221,The Archadian Empire - original - from FINAL FANTASY XII,FINAL FANTASY XII,BASE,EMS,143,2,5,8,0,149,194,283,,the archadian empire - original - from final fantasy xiifinal fantasy xiiems
+222,MUSIC0000222,Boss Battle,FINAL FANTASY XII,BASE,BMS,129,2,5,8,0,138,238,341,,boss battlefinal fantasy xiibms
+223,MUSIC0000223,Streets of Rabanastre,FINAL FANTASY XII,BASE,FMS,114,4,6,8,0,173,259,285,,streets of rabanastrefinal fantasy xiifms
+224,MUSIC0000224,The Dalmasca Estersand,FINAL FANTASY XII,BASE,FMS,129,2,5,8,12,145,231,356,541,the dalmasca estersandfinal fantasy xiifms
+225,MUSIC0000225,Heart of a Child,FINAL FANTASY XII,BASE,FMS,117,3,5,10,0,166,242,409,,heart of a childfinal fantasy xiifms
+226,MUSIC0000226,Giza Plains (from FINAL FANTASY XII Original Soundtrack),FINAL FANTASY XII,BASE,FMS,141,2,5,9,0,150,292,405,,giza plains (from final fantasy xii original soundtrack)final fantasy xiifms
+227,MUSIC0000227,Flash of Steel,FINAL FANTASY XII,BASE,BMS,119,3,5,6,11,165,225,300,545,flash of steelfinal fantasy xiibms
+228,MUSIC0000228,Battle with an Esper,FINAL FANTASY XII,BASE,BMS,126,3,5,8,0,130,229,359,,battle with an esperfinal fantasy xiibms
+229,MUSIC0000229,Life and Death,FINAL FANTASY XII,BASE,BMS,126,2,5,9,0,152,267,395,,life and deathfinal fantasy xiibms
+230,MUSIC0000230,Phon Coast,FINAL FANTASY XII,BASE,FMS,119,3,5,9,12,154,216,343,417,phon coastfinal fantasy xiifms
+231,MUSIC0000231,The Mosphoran Highwaste,FINAL FANTASY XII,BASE,FMS,124,3,5,8,0,160,232,305,,the mosphoran highwastefinal fantasy xiifms
+232,MUSIC0000232,Struggle for Freedom,FINAL FANTASY XII,BASE,BMS,146,3,4,9,12,199,280,471,550,struggle for freedomfinal fantasy xiibms
+235,MUSIC0000235,Defiers of Fate,FINAL FANTASY XIII,BASE,BMS,144,4,5,8,13,182,233,340,489,defiers of fatefinal fantasy xiiibms
+236,MUSIC0000236,Defiers of Fate,FINAL FANTASY XIII,BASE,EMS,148,3,5,9,0,156,190,238,,defiers of fatefinal fantasy xiiiems
+237,MUSIC0000237,Saber's Edge,FINAL FANTASY XIII,BASE,BMS,166,2,5,9,0,185,323,581,,saber's edgefinal fantasy xiiibms
+238,MUSIC0000238,Blinded By Light,FINAL FANTASY XIII,BASE,BMS,159,3,4,8,12,232,324,415,617,blinded by lightfinal fantasy xiiibms
+239,MUSIC0000239,March of the Dreadnoughts,FINAL FANTASY XIII,BASE,FMS,133,3,5,10,0,158,292,401,,march of the dreadnoughtsfinal fantasy xiiifms
+240,MUSIC0000240,The Sunleth Waterscape,FINAL FANTASY XIII,BASE,FMS,123,3,5,9,12,170,215,336,540,the sunleth waterscapefinal fantasy xiiifms
+241,MUSIC0000241,Fighting Fate,FINAL FANTASY XIII,BASE,BMS,135,3,4,8,12,178,282,391,530,fighting fatefinal fantasy xiiibms
+242,MUSIC0000242,Will to Fight,FINAL FANTASY XIII,BASE,BMS,118,3,5,8,0,131,182,277,,will to fightfinal fantasy xiiibms
+243,MUSIC0000243,The Archylte Steppe,FINAL FANTASY XIII,BASE,FMS,129,2,4,7,0,109,170,312,,the archylte steppefinal fantasy xiiifms
+244,MUSIC0000244,Dust to Dust,FINAL FANTASY XIII,BASE,FMS,123,2,4,6,0,132,191,285,,dust to dustfinal fantasy xiiifms
+245,MUSIC0000245,Eden Under Siege,FINAL FANTASY XIII,BASE,BMS,151,2,3,8,0,134,214,344,,eden under siegefinal fantasy xiiibms
+246,MUSIC0000246,The Gapra Whitewood,FINAL FANTASY XIII,BASE,FMS,123,2,4,7,0,160,189,285,,the gapra whitewoodfinal fantasy xiiifms
+247,MUSIC0000247,Desperate Struggle,FINAL FANTASY XIII,BASE,BMS,105,2,5,8,0,99,166,252,,desperate strugglefinal fantasy xiiibms
+248,MUSIC0000248,Nascent Requiem,FINAL FANTASY XIII,BASE,BMS,164,4,6,8,14,198,406,562,847,nascent requiemfinal fantasy xiiibms
+249,MUSIC0000249,Warrior Goddess,FINAL FANTASY XIII SERIES,BASE,EMS,129,3,5,8,0,150,204,241,,warrior goddessfinal fantasy xiii seriesems
+250,MUSIC0000250,Etro's Champion,FINAL FANTASY XIII SERIES,BASE,BMS,134,3,4,7,13,182,257,373,537,etro's championfinal fantasy xiii seriesbms
+251,MUSIC0000251,Full Speed Ahead,FINAL FANTASY XIII SERIES,BASE,BMS,233,4,6,10,0,303,398,638,,full speed aheadfinal fantasy xiii seriesbms
+252,MUSIC0000252,Paradigm Shift,FINAL FANTASY XIII SERIES,BASE,BMS,180,4,5,9,13,222,259,373,660,paradigm shiftfinal fantasy xiii seriesbms
+253,MUSIC0000253,Groovy Chocobo,FINAL FANTASY XIII SERIES,BASE,FMS,110,2,6,8,0,131,244,326,,groovy chocobofinal fantasy xiii seriesfms
+254,MUSIC0000254,The Last Hunter,FINAL FANTASY XIII SERIES,BASE,BMS,142,2,4,10,0,164,296,431,,the last hunterfinal fantasy xiii seriesbms
+255,MUSIC0000255,Crazy Chocobo,FINAL FANTASY XIII SERIES,BASE,FMS,117,4,7,10,14,203,315,488,732,crazy chocobofinal fantasy xiii seriesfms
+256,MUSIC0000256,Heart of Chaos,FINAL FANTASY XIII SERIES,BASE,BMS,162,3,5,10,14,194,334,497,822,heart of chaosfinal fantasy xiii seriesbms
+257,MUSIC0000257,Historia Crux,FINAL FANTASY XIII SERIES,BASE,FMS,116,2,5,9,0,141,226,359,,historia cruxfinal fantasy xiii seriesfms
+258,MUSIC0000258,Eclipse,FINAL FANTASY XIII SERIES,BASE,FMS,163,3,7,9,0,204,294,530,,eclipsefinal fantasy xiii seriesfms
+259,MUSIC0000259,Noel's Theme - Final Journey -,FINAL FANTASY XIII SERIES,BASE,FMS,136,2,4,7,0,154,223,286,,noel's theme - final journey -final fantasy xiii seriesfms
+260,MUSIC0000260,The Savior - LIGHTNING RETURNS:FINAL FANTASY XIII -,FINAL FANTASY XIII SERIES,BASE,BMS,150,3,5,10,14,225,310,518,765,the savior - lightning returns:final fantasy xiii -final fantasy xiii seriesbms
+261,MUSIC0000261,The Savior - LIGHTNING RETURNS:FINAL FANTASY XIII -,FINAL FANTASY XIII SERIES,BASE,EMS,153,2,5,8,0,190,233,289,,the savior - lightning returns:final fantasy xiii -final fantasy xiii seriesems
+262,MUSIC0000262,LIGHTNING RETURNS - LIGHTNING RETURNS:FINAL FANTASY XIII -,FINAL FANTASY XIII SERIES,BASE,BMS,133,4,5,9,11,170,219,481,567,lightning returns - lightning returns:final fantasy xiii -final fantasy xiii seriesbms
+263,MUSIC0000263,Crimson Blitz,FINAL FANTASY XIII SERIES,BASE,BMS,118,3,6,10,13,151,224,273,474,crimson blitzfinal fantasy xiii seriesbms
+264,MUSIC0000264,Chaos,FINAL FANTASY XIII SERIES,BASE,BMS,127,3,6,9,0,190,232,393,,chaosfinal fantasy xiii seriesbms
+265,MUSIC0000265,The Dead Dunes,FINAL FANTASY XIII SERIES,BASE,FMS,174,2,4,8,0,210,319,463,,the dead dunesfinal fantasy xiii seriesfms
+266,MUSIC0000266,The Glittering City of Yusnaan,FINAL FANTASY XIII SERIES,BASE,FMS,167,3,5,8,0,253,340,474,,the glittering city of yusnaanfinal fantasy xiii seriesfms
+267,MUSIC0000267,Answers,FINAL FANTASY XIV,BASE,EMS,173,1,3,6,0,125,193,241,,answersfinal fantasy xivems
+268,MUSIC0000268,Hard to Miss,FINAL FANTASY XIV,BASE,BMS,102,2,5,9,0,104,174,310,,hard to missfinal fantasy xivbms
+269,MUSIC0000269,On Westerly Winds,FINAL FANTASY XIV,BASE,FMS,151,3,4,7,0,185,266,368,,on westerly windsfinal fantasy xivfms
+270,MUSIC0000270,The Land Breathes,FINAL FANTASY XIV,BASE,BMS,142,3,5,7,0,178,269,426,,the land breathesfinal fantasy xivbms
+271,MUSIC0000271,Serenity,FINAL FANTASY XIV,BASE,FMS,104,3,5,8,0,137,203,291,,serenityfinal fantasy xivfms
+272,MUSIC0000272,Primal Judgment,FINAL FANTASY XIV,BASE,BMS,149,2,5,9,0,172,267,443,,primal judgmentfinal fantasy xivbms
+273,MUSIC0000273,Torn from the Heavens,FINAL FANTASY XIV,BASE,BMS,126,3,4,9,11,172,269,441,545,torn from the heavensfinal fantasy xivbms
+274,MUSIC0000274,To the Sun,FINAL FANTASY XIV,BASE,FMS,140,3,4,8,0,162,217,379,,to the sunfinal fantasy xivfms
+275,MUSIC0000275,Nemesis,FINAL FANTASY XIV,BASE,BMS,141,2,4,10,0,154,248,442,,nemesisfinal fantasy xivbms
+276,MUSIC0000276,Under the Weight,FINAL FANTASY XIV,BASE,BMS,141,4,5,10,13,234,331,493,686,under the weightfinal fantasy xivbms
+277,MUSIC0000277,Engage,FINAL FANTASY XIV,BASE,FMS,131,3,5,9,11,161,250,360,525,engagefinal fantasy xivfms
+278,MUSIC0000278,Fallen Angel,FINAL FANTASY XIV,BASE,BMS,154,2,4,9,13,175,282,478,755,fallen angelfinal fantasy xivbms
+279,MUSIC0000279,Good King Moggle Mog XII,FINAL FANTASY XIV,BASE,BMS,163,3,4,8,0,210,323,502,,good king moggle mog xiifinal fantasy xivbms
+280,MUSIC0000280,Ultima,FINAL FANTASY XIV,BASE,BMS,176,2,4,9,12,171,289,542,660,ultimafinal fantasy xivbms
+281,MUSIC0000281,Through the Maelstrom,FINAL FANTASY XIV,BASE,BMS,151,3,4,9,12,178,264,478,723,through the maelstromfinal fantasy xivbms
+282,MUSIC0000282,A Light in the Storm,FINAL FANTASY XIV,BASE,FMS,135,3,4,9,0,160,221,395,,a light in the stormfinal fantasy xivfms
+283,MUSIC0000283,Oblivion,FINAL FANTASY XIV,BASE,BMS,137,3,4,9,13,170,260,415,655,oblivionfinal fantasy xivbms
+284,MUSIC0000284,Ominous Prognisticks,FINAL FANTASY XIV,BASE,BMS,117,2,4,8,12,132,215,315,413,ominous prognisticksfinal fantasy xivbms
+285,MUSIC0000285,Ink Long Dry,FINAL FANTASY XIV,BASE,FMS,145,3,5,10,13,182,263,466,607,ink long dryfinal fantasy xivfms
+286,MUSIC0000286,Heroes,FINAL FANTASY XIV,BASE,BMS,116,2,4,8,11,108,175,308,441,heroesfinal fantasy xivbms
+287,MUSIC0000287,Locus,FINAL FANTASY XIV,BASE,BMS,136,3,5,9,13,211,301,435,634,locusfinal fantasy xivbms
+288,MUSIC0000288,Metal - Brute Justice Mode,FINAL FANTASY XIV,BASE,BMS,138,4,6,9,13,223,321,441,609,metal - brute justice modefinal fantasy xivbms
+289,MUSIC0000289,Exponential Entropy,FINAL FANTASY XIV,BASE,BMS,173,3,5,9,13,219,366,619,910,exponential entropyfinal fantasy xivbms
+290,MUSIC0000290,Moebius,FINAL FANTASY XIV,BASE,BMS,118,3,5,8,11,166,214,272,459,moebiusfinal fantasy xivbms
+291,MUSIC0000291,Rise,FINAL FANTASY XIV,BASE,BMS,119,3,6,9,14,145,211,353,567,risefinal fantasy xivbms
+292,MUSIC0000292,The Worm's Tail,FINAL FANTASY XIV,BASE,BMS,147,3,5,9,14,216,290,405,616,the worm's tailfinal fantasy xivbms
+293,MUSIC0000293,Wayward Daughter,FINAL FANTASY XIV,BASE,BMS,162,2,5,8,14,140,204,321,720,wayward daughterfinal fantasy xivbms
+294,MUSIC0000294,Stand Your Ground,FINAL FANTASY XV,BASE,BMS,108,3,5,10,0,134,192,281,,stand your groundfinal fantasy xvbms
+295,MUSIC0000295,Veiled in Black,FINAL FANTASY XV,BASE,BMS,132,3,4,9,12,159,237,367,522,veiled in blackfinal fantasy xvbms
+296,MUSIC0000296,Valse di Fantastica,FINAL FANTASY XV,BASE,FMS,130,3,5,10,12,183,272,446,563,valse di fantasticafinal fantasy xvfms
+297,MUSIC0000297,The Fight Is On!,FINAL FANTASY XV,BASE,BMS,143,3,5,8,0,196,257,379,,the fight is on!final fantasy xvbms
+298,MUSIC0000298,APOCALYPSIS NOCTIS (Uncovered Trailer),FINAL FANTASY XV,BASE,BMS,128,3,5,9,13,195,296,389,603,apocalypsis noctis (uncovered trailer)final fantasy xvbms
+299,MUSIC0000299,Flying R,FINAL FANTASY XV,BASE,FMS,133,3,4,8,12,155,222,297,475,flying rfinal fantasy xvfms
+300,MUSIC0000300,Invidia,FINAL FANTASY XV,BASE,BMS,154,4,5,9,13,168,250,379,586,invidiafinal fantasy xvbms
+301,MUSIC0000301,OMNIS LACRIMA,FINAL FANTASY XV,BASE,BMS,140,3,4,8,12,154,258,339,536,omnis lacrimafinal fantasy xvbms
+302,MUSIC0000302,Up for the Challenge,FINAL FANTASY XV,BASE,BMS,111,3,5,8,11,143,221,303,344,up for the challengefinal fantasy xvbms
+303,MUSIC0000303,NOCTIS,FINAL FANTASY XV,BASE,FMS,131,3,5,9,0,158,226,325,,noctisfinal fantasy xvfms
+304,MUSIC0000304,Somnus,FINAL FANTASY XV,BASE,FMS,146,3,4,6,0,171,240,330,,somnusfinal fantasy xvfms
+305,MUSIC0000305,Hellfire,FINAL FANTASY XV,BASE,BMS,155,3,5,9,12,210,297,378,559,hellfirefinal fantasy xvbms
+306,MUSIC0000306,Magna Insomnia,FINAL FANTASY XV,BASE,BMS,316,5,6,9,13,439,570,772,1194,magna insomniafinal fantasy xvbms
+307,MUSIC0000307,Main Theme from FINAL FANTASY,FINAL FANTASY XV,BASE,FMS,125,3,5,8,0,133,206,280,,main theme from final fantasyfinal fantasy xvfms
+308,MUSIC0000308,Hill of Destiny,MYSTIC QUEST,BASE,BMS,115,4,6,10,14,230,292,434,801,hill of destinymystic questbms
+309,MUSIC0000309,Battle 1,MYSTIC QUEST,BASE,BMS,131,3,4,9,0,171,233,447,,battle 1mystic questbms
+310,MUSIC0000310,Battle 2,MYSTIC QUEST,BASE,BMS,99,3,5,8,15,143,216,319,597,battle 2mystic questbms
+311,MUSIC0000311,Doom Castle,MYSTIC QUEST,BASE,FMS,117,3,5,9,13,153,238,393,598,doom castlemystic questfms
+312,MUSIC0000312,Battle 3,MYSTIC QUEST,BASE,BMS,124,4,5,10,14,161,244,447,669,battle 3mystic questbms
+313,MUSIC0000313,Opening,FINAL FANTASY TACTICS,BASE,EMS,73,2,4,6,0,60,83,159,,openingfinal fantasy tacticsems
+314,MUSIC0000314,Prologue,FINAL FANTASY TACTICS,BASE,FMS,173,3,4,7,0,163,286,428,,prologuefinal fantasy tacticsfms
+315,MUSIC0000315,Trisection,FINAL FANTASY TACTICS,BASE,BMS,144,3,4,9,12,228,271,499,839,trisectionfinal fantasy tacticsbms
+316,MUSIC0000316,Apoplexy,FINAL FANTASY TACTICS,BASE,BMS,124,3,6,10,13,174,293,449,630,apoplexyfinal fantasy tacticsbms
+317,MUSIC0000317,Antipyretic,FINAL FANTASY TACTICS,BASE,BMS,112,3,5,10,0,190,271,362,,antipyreticfinal fantasy tacticsbms
+318,MUSIC0000318,Precipitous Combat,FINAL FANTASY TACTICS,BASE,BMS,105,4,6,10,12,183,239,375,399,precipitous combatfinal fantasy tacticsbms
+319,MUSIC0000319,Ultima's Transformation,FINAL FANTASY TACTICS,BASE,BMS,130,2,4,7,12,183,249,405,623,ultima's transformationfinal fantasy tacticsbms
+320,MUSIC0000320,Ovelia's Theme,FINAL FANTASY TACTICS,BASE,FMS,154,2,4,6,0,164,268,377,,ovelia's themefinal fantasy tacticsfms
+328,MUSIC0000328,This Is the End for You!,CRYSTAL CHRONICLES SERIES,BASE,BMS,164,3,6,9,13,242,345,538,779,this is the end for you!crystal chronicles seriesbms
+330,MUSIC0000330,We Have Come,FINAL FANTASY TYPE-0,BASE,BMS,135,3,4,7,12,161,236,346,455,we have comefinal fantasy type-0bms
+331,MUSIC0000331,We Have Come,FINAL FANTASY TYPE-0,BASE,EMS,138,3,6,9,0,200,254,365,,we have comefinal fantasy type-0ems
+332,MUSIC0000332,War: Warrior Worth a Thousand,FINAL FANTASY TYPE-0,BASE,BMS,158,3,6,9,0,201,341,462,,war: warrior worth a thousandfinal fantasy type-0bms
+333,MUSIC0000333,The Earth Under Our Feet,FINAL FANTASY TYPE-0,BASE,FMS,115,2,5,7,0,133,183,266,,the earth under our feetfinal fantasy type-0fms
+334,MUSIC0000334,War: The White Weapon,FINAL FANTASY TYPE-0,BASE,BMS,117,3,5,9,12,206,270,431,533,war: the white weaponfinal fantasy type-0bms
+335,MUSIC0000335,Tempus Finis,FINAL FANTASY TYPE-0,BASE,FMS,163,3,5,8,0,192,277,429,,tempus finisfinal fantasy type-0fms
+336,MUSIC0000336,Vermillion Fire,FINAL FANTASY TYPE-0,BASE,BMS,181,3,5,10,0,225,298,472,,vermilion firefinal fantasy type-0bms
+337,MUSIC0000337,Soar,FINAL FANTASY TYPE-0,BASE,FMS,116,2,5,8,0,134,172,266,,soarfinal fantasy type-0fms
+338,MUSIC0000338,Zero,FINAL FANTASY TYPE-0,DX,BMS,227,2,5,9,12,268,422,550,814,zerofinal fantasy type-0bms
+339,MUSIC0000339,Lux Concordiae from DISSIDIA 012[duodecim] FINAL FANTASY,DISSIDIA FINAL FANTASY,BASE,EMS,84,1,4,6,0,61,70,76,,lux concordiae from dissidia 012[duodecim] final fantasydissidia final fantasyems
+340,MUSIC0000340,Keeping the Peace from DISSIDIA FINAL FANTASY,DISSIDIA FINAL FANTASY,BASE,FMS,138,2,4,7,0,154,205,284,,keeping the peace from dissidia final fantasydissidia final fantasyfms
+341,MUSIC0000341,The Decisive Battle - arrange - from FINAL FANTASY VI,DISSIDIA FINAL FANTASY,BASE,BMS,112,3,5,9,0,137,197,299,,the decisive battle - arrange - from final fantasy vidissidia final fantasybms
+342,MUSIC0000342,The Troops' Advance from DISSIDIA FINAL FANTASY,DISSIDIA FINAL FANTASY,BASE,BMS,118,2,4,7,0,149,216,329,,the troops' advance from dissidia final fantasydissidia final fantasybms
+343,MUSIC0000343,Battle 1 - arrange - from FINAL FANTASY IX,DISSIDIA FINAL FANTASY,BASE,BMS,114,3,5,9,0,144,184,362,,battle 1 - arrange - from final fantasy ixdissidia final fantasybms
+344,MUSIC0000344,DISSIDIA - ending - from DISSIDIA FINAL FANTASY,DISSIDIA FINAL FANTASY,BASE,BMS,90,2,5,7,0,99,159,228,,dissidia - ending - from dissidia final fantasydissidia final fantasybms
+345,MUSIC0000345,DISSIDIA FINAL FANTASY [FINAL TRAILER],DISSIDIA FINAL FANTASY,BASE,BMS,166,3,5,8,0,210,265,478,,dissidia final fantasy【final trailer】dissidia final fantasybms
+346,MUSIC0000346,Canto Mortis -An Undocumented Battle- from DISSIDIA 012[duodecim] FINAL FANTASY,DISSIDIA FINAL FANTASY,BASE,FMS,145,2,5,7,0,168,206,296,,canto mortis -an undocumented battle- from dissidia 012[duodecim] final fantasydissidia final fantasyfms
+347,MUSIC0000347,Gate to the Rift from DISSIDIA 012[duodecim] FINAL FANTASY,DISSIDIA FINAL FANTASY,BASE,FMS,150,3,4,8,0,224,283,419,,gate to the rift from dissidia 012[duodecim] final fantasydissidia final fantasyfms
+348,MUSIC0000348,Cantata Mortis from DISSIDIA 012[duodecim] FINAL FANTASY,DISSIDIA FINAL FANTASY,BASE,BMS,210,3,6,9,0,310,398,493,,cantata mortis from dissidia 012[duodecim] final fantasydissidia final fantasybms
+349,MUSIC0000349,DISSIDIA 012[duodecim] FINAL FANTASY [FINAL TRAILER],DISSIDIA FINAL FANTASY,BASE,BMS,132,3,5,9,0,170,269,396,,dissidia 012[duodecim] final fantasy【final trailer】dissidia final fantasybms
+350,MUSIC0000350,The Rebel Army from FINAL FANTASY II (Arrangement),DISSIDIA FINAL FANTASY,BASE,BMS,122,4,5,10,13,178,294,441,632,the rebel army from final fantasy ii (arrangement)dissidia final fantasybms
+351,MUSIC0000351,Eternal Wind from FINAL FANTASY III (DFF Arrangement),DISSIDIA FINAL FANTASY,BASE,BMS,134,3,4,8,0,158,246,388,,eternal wind from final fantasy iii (dff arrangement)dissidia final fantasybms
+352,MUSIC0000352,Dancing Mad from FINAL FANTASY Ⅵ (Arrangement),DISSIDIA FINAL FANTASY,BASE,BMS,113,3,6,9,14,149,278,361,617,dancing mad from final fantasy ⅵ (arrangement)dissidia final fantasybms
+353,MUSIC0000353,Antipyretic from FINAL FANTASY TACTICS (Arrangement),DISSIDIA FINAL FANTASY,BASE,BMS,128,3,5,8,12,181,289,368,523,antipyretic from final fantasy tactics (arrangement)dissidia final fantasybms
+354,MUSIC0000354,Massive Explosion (Short ver.) from DISSIDIA FINAL FANTASY -Arcade-,DISSIDIA FINAL FANTASY,BASE,BMS,130,2,4,7,0,133,189,307,,massive explosion (short ver.) from dissidia final fantasy -arcade-dissidia final fantasybms
+355,MUSIC0000355,God in Fire - arrange - from DISSIDIA FINAL FANTASY,DISSIDIA FINAL FANTASY,BASE,BMS,121,2,4,7,11,150,212,301,450,god in fire - arrange - from dissidia final fantasydissidia final fantasybms
+356,MUSIC0000356,Ominous Prognisticks from FINAL FANTASY XIV (Arrangement),DISSIDIA FINAL FANTASY,BASE,BMS,116,3,5,8,0,185,251,346,,ominous prognisticks from final fantasy xiv (arrangement)dissidia final fantasybms
+357,MUSIC0000357,The Beginning of the End from FINAL FANTASY TYPE-0 (Arrangement),DISSIDIA FINAL FANTASY,BASE,BMS,158,2,4,9,0,195,250,415,,the beginning of the end from final fantasy type-0 (arrangement)dissidia final fantasybms
+358,MUSIC0000358,Spark from DISSIDIA FINAL FANTASY OPERA OMNIA,DISSIDIA FINAL FANTASY,BASE,BMS,92,3,4,7,0,161,206,255,,spark from dissidia final fantasy opera omniadissidia final fantasybms
+359,MUSIC0000359,Warrior of Light - Mobius Final Fantasy,MOBIUS FINAL FANTASY,BASE,BMS,112,3,4,8,12,142,196,294,465,warrior of light - mobius final fantasymobius final fantasybms
+360,MUSIC0000360,Dancing Edge,MOBIUS FINAL FANTASY,BASE,BMS,115,3,5,8,14,170,254,366,563,dancing edgemobius final fantasybms
+361,MUSIC0000361,Magic Madness,MOBIUS FINAL FANTASY,BASE,BMS,108,3,5,9,0,176,251,379,,magic madnessmobius final fantasybms
+362,MUSIC0000362,Femme Fatale,MOBIUS FINAL FANTASY,BASE,BMS,116,4,6,10,0,170,244,330,,femme fatalemobius final fantasybms
+363,MUSIC0000363,Bloodthirst,MOBIUS FINAL FANTASY,BASE,BMS,146,3,6,9,15,183,257,458,959,bloodthirstmobius final fantasybms
+364,MUSIC0000364,THEATRHYTHM FINAL FANTASY CURTAIN CALL Special Arrangement Medley(Long Version),THEATRHYTHM,BASE,BMS,284,3,4,8,0,385,587,840,,theatrhythm final fantasy curtain call special arrangement medley(long version)theatrhythmbms
+365,MUSIC0000365,THEATRHYTHM FINAL FANTASY CURTAIN CALL Special Arrangement Medley,THEATRHYTHM,BASE,EMS,205,3,5,8,0,304,366,467,,theatrhythm final fantasy curtain call special arrangement medleytheatrhythmems
+366,MUSIC0000366,The Chaos Shrine - TFF Menu Arrangement - From FF,THEATRHYTHM,BASE,BMS,89,3,5,10,0,118,163,254,,the chaos shrine - tff menu arrangement - from fftheatrhythmbms
+367,MUSIC0000367,Return of the Warrior - TFF Menu Arrangement - From FFIII,THEATRHYTHM,BASE,FMS,86,4,6,9,11,144,192,272,304,return of the warrior - tff menu arrangement - from ffiiitheatrhythmfms
+368,MUSIC0000368,Battle at the Big Bridge - TFF Menu Arrangement - From FFV,THEATRHYTHM,BASE,BMS,89,3,6,10,14,124,214,318,520,battle at the big bridge - tff menu arrangement - from ffvtheatrhythmbms
+369,MUSIC0000369,Choose Your Combatants - TFFCC Menu Arrangement - From FFT,THEATRHYTHM,BASE,BMS,88,3,5,10,0,129,175,255,,choose your combatants - tffcc menu arrangement - from ffttheatrhythmbms
+371,MUSIC0000371,Fight With Seymour - TFFAC Arrangement - From FFX,THEATRHYTHM,BASE,BMS,148,3,6,9,15,220,285,516,964,fight with seymour - tffac arrangement - from ffxtheatrhythmbms
+372,MUSIC0000372,Matoya's Cave - TFFAC Arrangement - From FF,THEATRHYTHM,BASE,FMS,151,4,7,10,16,286,386,494,976,matoya's cave - tffac arrangement - from fftheatrhythmfms
+373,MUSIC0000373,Prelude - TFFAC Menu Arrangement - From FF,THEATRHYTHM,BASE,FMS,108,3,5,9,14,127,220,381,616,prelude - tffac menu arrangement - from fftheatrhythmfms
+374,MUSIC0000374,Main Theme of Final Fantasy V - TFFAC Arrangement - From FFV,THEATRHYTHM,BASE,BMS,147,4,6,10,15,211,260,422,860,main theme of final fantasy v - tffac arrangement - from ffvtheatrhythmbms
+375,MUSIC0000375,Locke's Theme - TFFAC Arrangement - From FFVI,THEATRHYTHM,BASE,BMS,137,4,6,10,15,218,320,400,846,locke's theme - tffac arrangement - from ffvitheatrhythmbms
+376,MUSIC0000376,J-E-N-O-V-A - TFFAC Arrangement - From FFVII,THEATRHYTHM,BASE,BMS,145,4,6,10,15,242,371,546,895,j-e-n-o-v-a - tffac arrangement - from ffviitheatrhythmbms
+377,MUSIC0000377,The Red Wings - TFFAC Arrangement - From FFIV,THEATRHYTHM,BASE,FMS,130,5,6,10,16,252,297,367,812,the red wings - tffac arrangement - from ffivtheatrhythmfms
+378,MUSIC0000378,TFFCC Special Arrangement Medley - TFFAC Arrangement - From TFFCC,THEATRHYTHM,BASE,BMS,179,4,6,11,16,222,333,444,1111,tffcc special arrangement medley - tffac arrangement - from tffcctheatrhythmbms
+379,MUSIC0000379,Battle at the Big Bridge - TFFAC Arrangement - From FFV,THEATRHYTHM,BASE,BMS,136,5,8,12,16,340,397,753,1247,battle at the big bridge - tffac arrangement - from ffvtheatrhythmbms
+380,MUSIC0000380,World of Battle,FINAL FANTASY SERIES,BASE,BMS,159,2,4,9,0,172,259,431,,world of battlefinal fantasy seriesbms
+381,MUSIC0000381,Battle at the Big Bridge~Ver.2~ FFRK Ver. arrange,FINAL FANTASY RECORD KEEPER,BASE,BMS,124,3,5,10,14,197,278,472,617,battle at the big bridge～ver.2～ ffrk ver. arrangefinal fantasy record keeperbms
+382,MUSIC0000382,The Decisive Battle FFRK Ver. arrange from FFVI,FINAL FANTASY RECORD KEEPER,BASE,BMS,126,4,6,10,13,204,317,468,611,the decisive battle ffrk ver. arrange from ffvifinal fantasy record keeperbms
+383,MUSIC0000383,The Man with the Machine Gun FFRK Ver. arrange from FFVIII,FINAL FANTASY RECORD KEEPER,BASE,BMS,116,3,5,9,0,149,210,344,,the man with the machine gun ffrk ver. arrange from ffviiifinal fantasy record keeperbms
+384,MUSIC0000384,Blinded By Light FFRK Ver. arrange from FFXIII,FINAL FANTASY RECORD KEEPER,BASE,BMS,126,3,5,9,11,189,260,375,473,blinded by light ffrk ver. arrange from ffxiiifinal fantasy record keeperbms
+385,MUSIC0000385,The Chase FFRK Ver. arrange from FFVII,FINAL FANTASY RECORD KEEPER,BASE,BMS,134,3,5,10,12,194,278,488,678,the chase ffrk ver. arrange from ffviifinal fantasy record keeperbms
+386,MUSIC0000386,UTAKATA FFRK Ver. arrange from FFType-0,FINAL FANTASY RECORD KEEPER,BASE,BMS,117,3,6,8,0,194,245,335,,utakata ffrk ver. arrange from fftype-0final fantasy record keeperbms
+387,MUSIC0000387,Chaos Shrine FFRK Ver. arrange from FFI,FINAL FANTASY RECORD KEEPER,BASE,BMS,129,2,5,8,11,142,187,303,655,chaos shrine ffrk ver. arrange from ffifinal fantasy record keeperbms
+388,MUSIC0000388,Stand Your Ground FFRK Ver. arrange from FFXV,FINAL FANTASY RECORD KEEPER,BASE,BMS,111,3,5,9,12,115,178,243,435,stand your ground ffrk ver. arrange from ffxvfinal fantasy record keeperbms
+389,MUSIC0000389,Opening Theme,FINAL FANTASY SERIES,BASE,BMS,254,3,4,7,12,324,489,686,1007,opening themefinal fantasy seriesbms
+390,MUSIC0000390,Moogles' Theme,FINAL FANTASY SERIES,BASE,FMS,170,2,4,7,0,178,274,407,,moogles' themefinal fantasy seriesfms
+391,MUSIC0000391,FF Medley,FINAL FANTASY SERIES,BASE,FMS,206,3,5,8,0,272,360,468,,ff medleyfinal fantasy seriesfms
+392,MUSIC0000392,Battle at the Big Bridge,FINAL FANTASY SERIES,BASE,BMS,117,2,5,9,11,177,238,416,539,battle at the big bridgefinal fantasy seriesbms
+393,MUSIC0000393,Mambo de Chocobo,FINAL FANTASY SERIES,BASE,FMS,195,3,4,8,0,251,356,554,,mambo de chocobofinal fantasy seriesfms
+394,MUSIC0000394,Dungeon Hero X's Theme,SQUARE ENIX TITLES,BASE,BMS,133,3,6,9,14,191,264,418,751,dungeon hero x's themesquare enix titlesbms
+395,MUSIC0000395,Raffaello Battle,SQUARE ENIX TITLES,BASE,BMS,144,3,5,10,14,195,296,471,732,raffaello battlesquare enix titlesbms
+396,MUSIC0000396,Pop-Up Duel,SQUARE ENIX TITLES,BASE,BMS,124,3,5,9,13,164,255,403,692,pop-up duelsquare enix titlesbms
+397,MUSIC0000397,Guardian of the Dark II,SQUARE ENIX TITLES,BASE,BMS,176,3,5,9,0,217,349,511,,guardian of the dark iisquare enix titlesbms
+398,MUSIC0000398,Leviathan Battle,SQUARE ENIX TITLES,BASE,BMS,131,3,5,9,0,171,351,527,,leviathan battlesquare enix titlesbms
+399,MUSIC0000399,Struggle to the Death,SQUARE ENIX TITLES,DLC,BMS,107,4,6,9,0,166,248,460,,struggle to the deathsquare enix titlesbms
+400,MUSIC0000400,The Conflict,SQUARE ENIX TITLES,DLC,BMS,104,3,5,9,13,144,211,325,525,the conflictsquare enix titlesbms
+401,MUSIC0000401,Horrible Shadow,SQUARE ENIX TITLES,DLC,FMS,132,3,5,8,13,164,264,431,637,horrible shadowsquare enix titlesfms
+402,MUSIC0000402,Coup de Grace,SQUARE ENIX TITLES,DLC,BMS,150,3,5,10,14,211,311,492,923,coup de gracesquare enix titlesbms
+403,MUSIC0000403,Beat Them Up!,SQUARE ENIX TITLES,DLC,BMS,125,3,6,10,0,159,273,421,,beat them up!square enix titlesbms
+404,MUSIC0000404,Title Screen,SQUARE ENIX TITLES,DLC,BMS,134,2,4,7,0,136,306,379,,title screensquare enix titlesbms
+405,MUSIC0000405,The Ultimate Confrontation,SQUARE ENIX TITLES,DLC,BMS,145,3,5,9,11,175,273,449,606,the ultimate confrontationsquare enix titlesbms
+406,MUSIC0000406,Encounter with the Seven Heroes,SQUARE ENIX TITLES,DLC,BMS,165,3,5,10,13,204,338,568,810,encounter with the seven heroessquare enix titlesbms
+407,MUSIC0000407,Four Sinistrals Battle I,SQUARE ENIX TITLES,DLC,BMS,143,3,5,9,14,198,346,474,768,four sinistrals battle isquare enix titlesbms
+408,MUSIC0000408,Four Sinistrals Battle II,SQUARE ENIX TITLES,DLC,BMS,124,3,5,10,14,148,240,461,815,four sinistrals battle iisquare enix titlesbms
+409,MUSIC0000409,Final Confrontation,SQUARE ENIX TITLES,DLC,BMS,138,3,6,10,14,163,279,466,783,final confrontationsquare enix titlesbms
+410,MUSIC0000410,Ardent Rhythm,SQUARE ENIX TITLES,DLC,BMS,119,4,6,9,14,158,195,361,586,ardent rhythmsquare enix titlesbms
+411,MUSIC0000411,Battle #4,SQUARE ENIX TITLES,DLC,BMS,113,3,5,9,13,165,217,321,472,battle #4square enix titlesbms
+412,MUSIC0000412,Alone,SQUARE ENIX TITLES,DLC,FMS,164,2,4,8,0,159,294,364,,alonesquare enix titlesfms
+413,MUSIC0000413,Battle #5,SQUARE ENIX TITLES,DLC,BMS,158,3,5,10,14,243,386,550,799,battle #5square enix titlesbms
+414,MUSIC0000414,T260G's Last Battle,SQUARE ENIX TITLES,DLC,BMS,140,3,6,9,14,179,290,476,716,t260g's last battlesquare enix titlesbms
+415,MUSIC0000415,Feldschlacht III,SQUARE ENIX TITLES,DLC,BMS,125,4,6,8,12,192,249,410,577,feldschlacht iiisquare enix titlesbms
+416,MUSIC0000416,Mißgestalt,SQUARE ENIX TITLES,DLC,BMS,132,2,4,9,14,165,242,366,624,mißgestaltsquare enix titlesbms
+417,MUSIC0000417,Battle Theme I,SQUARE ENIX TITLES,DLC,BMS,110,4,5,10,14,186,222,359,541,battle theme isquare enix titlesbms
+418,MUSIC0000418,In Search of the Sword of Mana,SQUARE ENIX TITLES,DLC,BMS,91,3,5,8,0,116,198,301,,in search of the sword of manasquare enix titlesbms
+419,MUSIC0000419,Into the Thick of It,SQUARE ENIX TITLES,DLC,BMS,107,3,4,10,0,128,181,309,,into the thick of itsquare enix titlesbms
+420,MUSIC0000420,Danger,SQUARE ENIX TITLES,DLC,BMS,126,3,6,10,14,207,325,503,646,dangersquare enix titlesbms
+421,MUSIC0000421,Meridian Dance,SQUARE ENIX TITLES,DLC,BMS,109,4,5,9,13,170,224,363,468,meridian dancesquare enix titlesbms
+422,MUSIC0000422,Swivel,SQUARE ENIX TITLES,DLC,BMS,102,3,4,10,0,157,251,361,,swivelsquare enix titlesbms
+423,MUSIC0000423,Powell,SQUARE ENIX TITLES,DLC,FMS,126,3,6,10,0,126,317,504,,powellsquare enix titlesfms
+424,MUSIC0000424,Meridian Child,SQUARE ENIX TITLES,DLC,FMS,150,3,5,9,0,158,292,391,,meridian childsquare enix titlesfms
+425,MUSIC0000425,Sacrifice Part Three,SQUARE ENIX TITLES,DLC,BMS,233,4,5,9,13,353,478,781,1151,sacrifice part threesquare enix titlesbms
+426,MUSIC0000426,Hometown of Domina,SQUARE ENIX TITLES,DLC,FMS,119,3,5,9,0,154,236,380,,hometown of dominasquare enix titlesfms
+427,MUSIC0000427,Bejeweled City in Ruins,SQUARE ENIX TITLES,DLC,FMS,191,2,4,7,0,197,322,500,,bejeweled city in ruinssquare enix titlesfms
+428,MUSIC0000428,Chrono Trigger,SQUARE ENIX TITLES,DLC,BMS,122,2,4,9,12,121,196,323,518,chrono triggersquare enix titlesbms
+429,MUSIC0000429,Wind Scene,SQUARE ENIX TITLES,DLC,FMS,122,3,5,9,0,126,184,301,,wind scenesquare enix titlesfms
+430,MUSIC0000430,Frog's Theme,SQUARE ENIX TITLES,DLC,BMS,98,2,5,9,0,113,168,310,,frog's themesquare enix titlesbms
+431,MUSIC0000431,Boss Battle 2,SQUARE ENIX TITLES,DLC,BMS,118,3,5,9,13,142,209,299,497,boss battle 2square enix titlesbms
+432,MUSIC0000432,Battle with Magus,SQUARE ENIX TITLES,DLC,BMS,136,3,5,9,13,146,251,372,525,battle with magussquare enix titlesbms
+433,MUSIC0000433,Corridors of Time,SQUARE ENIX TITLES,DLC,FMS,135,2,4,9,0,137,254,422,,corridors of timesquare enix titlesfms
+434,MUSIC0000434,World Revolution,SQUARE ENIX TITLES,DLC,BMS,124,2,4,9,14,125,215,353,640,world revolutionsquare enix titlesbms
+435,MUSIC0000435,To Far Away Times,SQUARE ENIX TITLES,DLC,FMS,262,3,4,9,0,314,449,721,,to far away timessquare enix titlesfms
+436,MUSIC0000436,Twister,SQUARE ENIX TITLES,DLC,BMS,77,3,5,9,11,125,188,310,372,twistersquare enix titlesbms
+437,MUSIC0000437,Calling,SQUARE ENIX TITLES,DLC,FMS,131,3,5,7,0,166,298,391,,callingsquare enix titlesfms
+438,MUSIC0000438,Someday,SQUARE ENIX TITLES,DLC,BMS,125,3,5,9,0,187,248,381,,somedaysquare enix titlesbms
+439,MUSIC0000439,LIVE・A・LIVE,SQUARE ENIX TITLES,DLC,BMS,123,3,6,9,14,159,263,352,634,live・a・livesquare enix titlesbms
+440,MUSIC0000440,"Birds Fly, Fish Swim",SQUARE ENIX TITLES,DLC,FMS,109,2,5,8,0,116,222,304,,"birds fly, fish swimsquare enix titlesfms"
+441,MUSIC0000441,MEGALOMANIA,SQUARE ENIX TITLES,DLC,BMS,105,3,5,9,13,172,218,366,573,megalomaniasquare enix titlesbms
+442,MUSIC0000442,Kaine / Salvation,SQUARE ENIX TITLES,DLC,FMS,98,3,5,7,0,101,159,203,,kaine / salvationsquare enix titlesfms
+443,MUSIC0000443,Song of the Ancients / Fate,SQUARE ENIX TITLES,DLC,BMS,156,4,6,9,13,261,313,472,645,song of the ancients / fatesquare enix titlesbms
+444,MUSIC0000444,Hills of Radiant Winds,SQUARE ENIX TITLES,DLC,BMS,94,3,6,9,0,117,156,311,,hills of radiant windssquare enix titlesbms
+445,MUSIC0000445,Song of the Ancients / Devola,SQUARE ENIX TITLES,DLC,FMS,152,2,5,8,0,150,348,440,,song of the ancients / devolasquare enix titlesfms
+446,MUSIC0000446,Shadowlord,SQUARE ENIX TITLES,DLC,BMS,272,3,5,9,13,263,373,604,900,shadowlordsquare enix titlesbms
+447,MUSIC0000447,Amusement Park,SQUARE ENIX TITLES,DLC,FMS,132,2,3,7,11,146,195,262,303,amusement parksquare enix titlesfms
+448,MUSIC0000448,A Beautiful Song,SQUARE ENIX TITLES,DLC,BMS,134,2,4,8,0,133,170,248,,a beautiful songsquare enix titlesbms
+449,MUSIC0000449,Emil's Shop,SQUARE ENIX TITLES,DLC,FMS,107,3,5,7,0,142,220,318,,emil's shopsquare enix titlesfms
+450,MUSIC0000450,Blazing Knights,SQUARE ENIX TITLES,DLC,BMS,122,3,5,8,0,150,241,395,,blazing knightssquare enix titlesbms
+451,MUSIC0000451,Soaring,SQUARE ENIX TITLES,DLC,BMS,161,3,4,8,12,169,271,473,580,soaringsquare enix titlesbms
+452,MUSIC0000452,Octopath Traveler -Main Theme-,SQUARE ENIX TITLES,DLC,FMS,150,3,6,9,0,128,378,458,,octopath traveler -main theme-square enix titlesfms
+453,MUSIC0000453,Decisive Battle II,SQUARE ENIX TITLES,DLC,BMS,194,4,6,10,14,274,377,556,1069,decisive battle iisquare enix titlesbms
+454,MUSIC0000454,The Horizon: Endless Light and Shadow,SQUARE ENIX TITLES,DLC,FMS,125,2,4,7,0,155,214,315,,the horizon: endless light and shadowsquare enix titlesfms
+455,MUSIC0000455,That of the Name,SQUARE ENIX TITLES,DLC,BMS,172,3,6,10,13,177,322,705,925,that of the namesquare enix titlesbms
+456,MUSIC0000456,The Evil Wings,SQUARE ENIX TITLES,DLC,BMS,247,3,6,10,0,300,532,977,,the evil wingssquare enix titlesbms
+457,MUSIC0000457,"Uroboros, the Serpent That Devours the Horizon",SQUARE ENIX TITLES,DLC,BMS,223,3,5,9,0,306,391,739,,"uroboros, the serpent that devours the horizonsquare enix titlesbms"
+458,MUSIC0000458,Why,FINAL FANTASY VII SERIES,DX,BMS,145,2,4,7,0,171,246,312,,whyfinal fantasy vii seriesbms
+459,MUSIC0000459,Eyes On Me,FINAL FANTASY VIII,DX,FMS,166,2,4,7,0,197,244,327,,eyes on mefinal fantasy viiifms
+460,MUSIC0000460,Distant Worlds,FINAL FANTASY XI,DX,FMS,198,2,4,7,0,209,262,402,,distant worldsfinal fantasy xifms
+461,MUSIC0000461,Kiss Me Good-Bye-featured in FINAL FANTASY XII-,FINAL FANTASY XII,DX,FMS,140,1,4,6,0,139,169,244,,kiss me good-bye-featured in final fantasy xii-final fantasy xiifms
+462,MUSIC0000462,Eternal Love,FINAL FANTASY XIII,DX,FMS,185,2,5,8,0,183,289,441,,eternal lovefinal fantasy xiiifms
+463,MUSIC0000463,The Invincible,FINAL FANTASY III,BASE,FMS,122,3,5,9,11,180,303,375,496,the invinciblefinal fantasy iiifms
+464,MUSIC0000464,Plains of Eternity,FINAL FANTASY XIII SERIES,BASE,FMS,111,2,4,7,0,124,153,228,,plains of eternityfinal fantasy xiii seriesfms
+465,MUSIC0000465,Triumph,FINAL FANTASY XIV,BASE,BMS,175,3,5,9,0,264,304,536,,triumphfinal fantasy xivbms
+466,MUSIC0000466,Sunrise,FINAL FANTASY XIV,BASE,BMS,125,2,5,8,0,150,204,305,,sunrisefinal fantasy xivbms
+467,MUSIC0000467,A Long Fall,FINAL FANTASY XIV,BASE,BMS,143,3,6,10,14,273,352,460,753,a long fallfinal fantasy xivbms
+468,MUSIC0000468,What Angel Wakes Me,FINAL FANTASY XIV,BASE,BMS,158,3,5,9,11,195,251,380,541,what angel wakes mefinal fantasy xivbms
+469,MUSIC0000469,Promises to Keep,FINAL FANTASY XIV,BASE,BMS,160,3,6,9,0,275,407,465,,promises to keepfinal fantasy xivbms
+470,MUSIC0000470,Who Brings Shadow,FINAL FANTASY XIV,BASE,BMS,239,3,6,9,12,315,452,611,890,who brings shadowfinal fantasy xivbms
+471,MUSIC0000471,APOCALYPSIS NOCTIS,FINAL FANTASY XV,BASE,EMS,253,3,6,9,0,409,633,784,,apocalypsis noctisfinal fantasy xvems
+472,MUSIC0000472,Shield of the King - Theme of EPISODE GLADIOLUS,FINAL FANTASY XV,BASE,FMS,130,3,5,8,0,158,203,273,,shield of the king - theme of episode gladiolusfinal fantasy xvfms
+473,MUSIC0000473,Home Sweet Home - Theme of EPISODE PROMPTO,FINAL FANTASY XV,BASE,FMS,193,2,4,8,0,219,249,292,,home sweet home - theme of episode promptofinal fantasy xvfms
+474,MUSIC0000474,EPISODE IGNIS - The Main Theme,FINAL FANTASY XV,BASE,FMS,147,4,6,9,0,178,219,259,,episode ignis - the main themefinal fantasy xvfms
+475,MUSIC0000475,The Dance of Silver and Crimson,FINAL FANTASY XV,BASE,BMS,213,3,5,9,14,369,441,731,1002,the dance of silver and crimsonfinal fantasy xvbms
+477,MUSIC0000477,FFVII REMAKE: Bombing Mission,FINAL FANTASY VII REMAKE,BASE,BMS,191,3,5,9,0,224,419,570,,ffvii remake: bombing missionfinal fantasy vii remakebms
+478,MUSIC0000478,FFVII REMAKE: Let the Battles Begin! - A Merc's Job,FINAL FANTASY VII REMAKE,BASE,BMS,157,3,6,9,0,243,346,516,,ffvii remake: let the battles begin! - a merc's jobfinal fantasy vii remakebms
+479,MUSIC0000479,FFVII REMAKE: The Airbuster,FINAL FANTASY VII REMAKE,BASE,BMS,221,4,6,10,14,420,481,762,1129,ffvii remake: the airbusterfinal fantasy vii remakebms
+480,MUSIC0000480,FFVII REMAKE: J-E-N-O-V-A - Quickening,FINAL FANTASY VII REMAKE,BASE,BMS,137,3,6,8,12,119,244,324,591,ffvii remake: j-e-n-o-v-a - quickeningfinal fantasy vii remakebms
+481,MUSIC0000481,FFVII REMAKE: One-Winged Angel - Rebirth,FINAL FANTASY VII REMAKE,BASE,BMS,223,3,5,9,13,258,389,689,875,ffvii remake: one-winged angel - rebirthfinal fantasy vii remakebms
+482,MUSIC0000482,FFVII REMAKE: Midgar Expressway,FINAL FANTASY VII REMAKE,BASE,FMS,133,3,5,10,14,188,255,470,662,ffvii remake: midgar expresswayfinal fantasy vii remakefms
+483,MUSIC0000483,FFVII REMAKE: Main Theme of FFVII - Sector 7 Undercity,FINAL FANTASY VII REMAKE,BASE,FMS,161,1,4,8,0,177,224,288,,ffvii remake: main theme of ffvii - sector 7 undercityfinal fantasy vii remakefms
+484,MUSIC0000484,FFVII REMAKE: Collapsed Expressway,FINAL FANTASY VII REMAKE,BASE,FMS,140,2,4,8,11,220,281,475,577,ffvii remake: collapsed expresswayfinal fantasy vii remakefms
+485,MUSIC0000485,FFVII REMAKE: High Five,FINAL FANTASY VII REMAKE,BASE,BMS,194,3,5,9,11,230,317,484,777,ffvii remake: high fivefinal fantasy vii remakebms
+486,MUSIC0000486,FFVII REMAKE: Tifa's Theme - Seventh Heaven,FINAL FANTASY VII REMAKE,BASE,FMS,190,1,4,7,0,199,228,382,,ffvii remake: tifa's theme - seventh heavenfinal fantasy vii remakefms
+487,MUSIC0000487,Dare to Defy,DISSIDIA FINAL FANTASY,BASE,BMS,152,2,5,7,11,148,176,236,351,dare to defydissidia final fantasybms
+488,MUSIC0000488,The 4 Heroes of Light,FINAL FANTASY SERIES,BASE,FMS,128,3,5,8,0,234,334,444,,the 4 heroes of lightfinal fantasy seriesfms
+489,MUSIC0000489,Fiend Encounter,FINAL FANTASY SERIES,BASE,BMS,109,3,5,9,12,158,196,307,389,fiend encounterfinal fantasy seriesbms
+490,MUSIC0000490,Jack's Theme,FINAL FANTASY SERIES,BASE,BMS,137,3,6,9,0,161,198,333,,jack's themefinal fantasy seriesbms
+491,MUSIC0000491,Battle: Chaos Advent,FINAL FANTASY SERIES,BASE,BMS,187,3,5,9,14,291,388,449,805,battle: chaos adventfinal fantasy seriesbms
+492,MUSIC0000492,"Battle: False Knight – Motif from ""Battle""",FINAL FANTASY SERIES,BASE,BMS,164,3,5,9,12,173,286,383,706,"battle: false knight – motif from ""battle""final fantasy seriesbms"
+493,MUSIC0000493,Enraged Battle,SQUARE ENIX TITLES,DLC,BMS,103,3,6,8,0,143,228,240,,enraged battlesquare enix titlesbms
+494,MUSIC0000494,Ever Higher,SQUARE ENIX TITLES,DLC,BMS,146,3,5,9,13,167,242,415,682,ever highersquare enix titlesbms
+495,MUSIC0000495,The Celestial Protectors,SQUARE ENIX TITLES,DLC,BMS,170,3,6,9,13,226,374,540,698,the celestial protectorssquare enix titlesbms
+496,MUSIC0000496,Battle 2,SQUARE ENIX TITLES,DLC,BMS,132,3,5,9,0,179,271,445,,battle 2square enix titlesbms
+497,MUSIC0000497,Nuclear Fusion,SQUARE ENIX TITLES,DLC,BMS,120,3,5,9,14,151,212,306,656,nuclear fusionsquare enix titlesbms
+498,MUSIC0000498,Darkness Nova,SQUARE ENIX TITLES,DLC,BMS,133,2,5,9,13,135,213,415,599,darkness novasquare enix titlesbms
+499,MUSIC0000499,Radical Dreamers -Le Trésor Interdit-,SQUARE ENIX TITLES,DLC,FMS,124,2,4,7,0,149,176,270,,radical dreamers -le trésor interdit-square enix titlesfms
+500,MUSIC0000500,Chrono Chross -Scars of Time-,SQUARE ENIX TITLES,DLC,BMS,144,2,5,7,0,120,209,308,,chrono chross -scars of time-square enix titlesbms
+501,MUSIC0000501,Your Ocean,SQUARE ENIX TITLES,DLC,BMS,138,2,4,8,0,143,254,308,,your oceansquare enix titlesbms
+502,MUSIC0000502,Breaking Free,SQUARE ENIX TITLES,DLC,BMS,154,3,5,9,13,224,290,423,716,breaking freesquare enix titlesbms
+503,MUSIC0000503,World Is Yours,SQUARE ENIX TITLES,DLC,BMS,243,4,6,10,14,490,643,846,1098,world is yourssquare enix titlesbms
+504,MUSIC0000504,Fleeting Worlds / Outsider,SQUARE ENIX TITLES,DLC,BMS,183,2,5,8,13,209,274,368,612,fleeting worlds / outsidersquare enix titlesbms
+505,MUSIC0000505,Dependent Weakling,SQUARE ENIX TITLES,DLC,BMS,142,3,6,10,13,212,267,426,512,dependent weaklingsquare enix titlesbms
+506,MUSIC0000506,Weight of the World Kowaretasekainouta - Marina Kawano,SQUARE ENIX TITLES,DLC,FMS,125,1,4,8,0,155,220,280,,weight of the world kowaretasekainouta - marina kawanosquare enix titlesfms
+507,MUSIC0000507,"Primrose, the Dancer",SQUARE ENIX TITLES,DLC,FMS,128,3,5,8,0,252,325,357,,"primrose, the dancersquare enix titlesfms"
+508,MUSIC0000508,Hollow,FINAL FANTASY VII REMAKE,BASE,EMS,211,3,5,8,0,182,190,224,,hollowfinal fantasy vii remakeems
+509,MUSIC0000509,Clash on the Big Bridge (FINAL FANTASY V),FINAL FANTASY SERIES,DX,BMS,141,3,5,9,13,202,312,376,746,clash on the big bridge (final fantasy v)final fantasy seriesbms
+510,MUSIC0000510,The Skies Above,FINAL FANTASY SERIES,DX,BMS,119,2,5,8,0,152,215,307,,the skies abovefinal fantasy seriesbms
+511,MUSIC0000511,Fighters of the Crystal,FINAL FANTASY SERIES,DX,BMS,200,2,5,9,0,220,304,552,,fighters of the crystalfinal fantasy seriesbms
+512,MUSIC0000512,More SQ: FINAL FANTASY Dugem DE Chocobo,FINAL FANTASY SERIES,DX,FMS,138,3,5,9,14,300,419,479,760,more sq: final fantasy dugem de chocobofinal fantasy seriesfms
+513,MUSIC0000513,"SQ Chips: FINAL FANTASY III ""Go above the Clouds!～The Invincible""",FINAL FANTASY SERIES,DX,FMS,195,4,7,10,15,348,530,720,1193,"sq chips: final fantasy iii ""go above the clouds!～the invincible""final fantasy seriesfms"
+514,MUSIC0000514,Battle SQ : FINAL FANTASY IX Not Alone,FINAL FANTASY SERIES,DX,BMS,126,3,5,9,12,130,206,390,481,battle sq : final fantasy ix not alonefinal fantasy seriesbms
+515,MUSIC0000515,Blinded By Light Jazz Arrangement,FINAL FANTASY SERIES,DX,BMS,112,2,5,7,0,171,231,356,,blinded by light jazz arrangementfinal fantasy seriesbms
+516,MUSIC0000516,Acoustic: The Decisive Battle,FINAL FANTASY SERIES,DX,BMS,126,3,5,8,0,156,323,398,,acoustic: the decisive battlefinal fantasy seriesbms
+517,MUSIC0000517,Band:Rise,FINAL FANTASY SERIES,DX,BMS,225,4,6,10,15,391,662,913,1342,band:risefinal fantasy seriesbms
+518,MUSIC0000518,Band: A Long Fall,FINAL FANTASY SERIES,DX,BMS,260,3,6,10,13,496,627,833,1116,band: a long fallfinal fantasy seriesbms
+519,MUSIC0000519,Aerith's Theme -Collab Arrangement-,FINAL FANTASY SERIES,DX,BMS,131,2,4,8,0,112,194,266,,aerith's theme -collab arrangement-final fantasy seriesbms
+520,MUSIC0000520,Cosmo Canyon -Collab Arrangement-,FINAL FANTASY SERIES,DX,FMS,150,3,5,8,0,159,267,378,,cosmo canyon -collab arrangement-final fantasy seriesfms
+524,MUSIC0000524,Battle at Journey's End,SQUARE ENIX TITLES,DLC,BMS,216,3,5,9,13,331,456,617,1019,battle at journey's endsquare enix titlesbms
+525,MUSIC0000525,Daughter of the Dark God,SQUARE ENIX TITLES,DLC,BMS,150,3,6,10,0,220,341,499,,daughter of the dark godsquare enix titlesbms
+526,MUSIC0000526,Go! Go! Steel Titan!,SQUARE ENIX TITLES,DLC,BMS,62,3,5,7,0,86,138,180,,go! go! steel titan!square enix titlesbms
+527,MUSIC0000527,Awakening,SQUARE ENIX TITLES,DLC,BMS,133,3,5,8,0,155,201,305,,awakeningsquare enix titlesbms
+528,MUSIC0000528,The One Who Gathers Stars in the Night,SQUARE ENIX TITLES,DLC,BMS,245,3,6,10,14,425,568,988,1379,the one who gathers stars in the nightsquare enix titlesbms
+529,MUSIC0000529,"Spurred into Flight, Drenched and Fallen - The Night Rises",SQUARE ENIX TITLES,DLC,BMS,170,3,6,9,12,275,420,723,838,"spurred into flight, drenched and fallen - the night risessquare enix titlesbms"
+531,MUSIC0000531,Away,FINAL FANTASY XVI,DLC,BMS,238,3,5,10,14,310,409,691,1127,awayfinal fantasy xvibms
+532,MUSIC0000532,Find The Flame,FINAL FANTASY XVI,DLC,BMS,108,4,5,9,13,158,221,281,499,find the flamefinal fantasy xvibms
+533,MUSIC0000533,Control,FINAL FANTASY XVI,DLC,BMS,222,2,4,8,11,215,295,373,626,controlfinal fantasy xvibms
+534,MUSIC0000534,Titan Lost,FINAL FANTASY XVI,DLC,BMS,128,2,4,9,13,194,241,315,487,titan lostfinal fantasy xvibms
+535,MUSIC0000535,Ascension,FINAL FANTASY XVI,DLC,FMS,253,3,5,9,14,330,450,645,1044,ascensionfinal fantasy xvifms
+536,MUSIC0000536,The Riddle,FINAL FANTASY XVI,DLC,BMS,181,3,6,10,14,228,372,600,1016,the riddlefinal fantasy xvibms
+537,MUSIC0000537,Logos,FINAL FANTASY XVI,DLC,BMS,185,3,6,10,15,182,341,438,935,logosfinal fantasy xvibms
+538,MUSIC0000538,Wings That Cross Time,SQUARE ENIX TITLES,DLC,FMS,189,2,5,9,13,264,394,495,591,wings that cross timesquare enix titlesfms
+539,MUSIC0000539,Robo's Theme,SQUARE ENIX TITLES,DLC,FMS,147,2,4,7,0,228,276,354,,robo's themesquare enix titlesfms
+540,MUSIC0000540,FFCCR: Moonless Starry Night,CRYSTAL CHRONICLES SERIES,BASE,EMS,123,2,4,6,0,67,79,109,,ffccr: moonless starry nightcrystal chronicles seriesems
+541,MUSIC0000541,FFCCR: Today Comes To Be Tomorrow,CRYSTAL CHRONICLES SERIES,BASE,FMS,121,2,4,8,0,152,213,283,,ffccr: today comes to be tomorrowcrystal chronicles seriesfms
+542,MUSIC0000542,FFCCR: Promised Grace,CRYSTAL CHRONICLES SERIES,BASE,FMS,106,3,5,10,0,133,216,352,,ffccr: promised gracecrystal chronicles seriesfms
+543,MUSIC0000543,FFCCR: Monster Ronde,CRYSTAL CHRONICLES SERIES,BASE,BMS,141,3,4,8,12,183,268,394,642,ffccr: monster rondecrystal chronicles seriesbms
+544,MUSIC0000544,FFCCR: Across the Divide,CRYSTAL CHRONICLES SERIES,BASE,FMS,124,4,5,10,13,145,229,428,643,ffccr: across the dividecrystal chronicles seriesfms
+545,MUSIC0000545,FFCCR: Woebegone Creature,CRYSTAL CHRONICLES SERIES,BASE,BMS,204,3,5,9,14,261,292,459,795,ffccr: woebegone creaturecrystal chronicles seriesbms
+546,MUSIC0000546,"FFCCR: United,  Heaven-Sent",CRYSTAL CHRONICLES SERIES,BASE,BMS,160,3,5,8,0,186,273,426,,"ffccr: united,  heaven-sentcrystal chronicles seriesbms"
+547,MUSIC0000547,FFCCR: Sound of the Wind,CRYSTAL CHRONICLES SERIES,DX,FMS,136,3,6,9,0,181,232,279,,ffccr: sound of the windcrystal chronicles seriesfms
+548,MUSIC0000548,THEATRHYTHM FINAL BAR LINE Special Battle Arrangement Medley,THEATRHYTHM,BASE,BMS,229,4,7,10,14,444,555,888,1111,theatrhythm final bar line special battle arrangement medleytheatrhythmbms
+549,MUSIC0000549,FFVII Special Arrangement Medley - TFBL Arrangement - From FFVII,THEATRHYTHM,BASE,BMS,235,3,5,11,15,341,515,667,1364,ffvii special arrangement medley - tfbl arrangement - from ffviitheatrhythmbms
+550,MUSIC0000550,"Symphonic Poem ""Hope"" ~FINAL FANTASY XII PV ver.~",FINAL FANTASY XII,DX,FMS,233,2,4,8,0,238,306,515,,"symphonic poem ""hope"" ～final fantasy xii pv ver.～final fantasy xiifms"
+557,MUSIC0000557,Battle Theme 2 -Modulation ver.- from FINAL FANTASY II,FINAL FANTASY SERIES,DX,BMS,115,4,7,11,0,169,423,726,,battle theme 2 -modulation ver.- from final fantasy iifinal fantasy seriesbms
+558,MUSIC0000558,Battle at the Big Bridge -Modulation ver.- from FINAL FANTASY V,FINAL FANTASY SERIES,DX,BMS,202,3,7,10,15,317,425,853,1429,battle at the big bridge -modulation ver.- from final fantasy vfinal fantasy seriesbms
+559,MUSIC0000559,To Sail Forbidden Seas,FINAL FANTASY XVI,DLC,BMS,185,2,5,9,12,193,350,434,679,to sail forbidden seasfinal fantasy xvibms
+560,MUSIC0000560,My Star,FINAL FANTASY XVI,DLC,FMS,284,2,4,8,0,228,326,446,,my starfinal fantasy xvifms
+561,MUSIC0000561,"Hide, Hideaway",FINAL FANTASY XVI,DLC,FMS,151,2,4,8,0,178,273,325,,"hide, hideawayfinal fantasy xvifms"
+562,MUSIC0000562,"No Risk, No Reward",FINAL FANTASY XVI,DLC,BMS,143,3,5,9,12,176,314,376,537,"no risk, no rewardfinal fantasy xvibms"
